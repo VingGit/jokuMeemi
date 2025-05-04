@@ -1,0 +1,228 @@
+{
+  "article": {
+    "@class": "yle__article arkki-theme-default",
+    "@data-vrsproduct": "uutiset",
+    "header": {
+      "@class": "yle__article__header",
+      "div": [
+        {
+          "@class": "sc-dbVXhp cBCGOO",
+          "a": {
+            "@aria-label": "Lisää artikkeleita aiheesta Vaalit",
+            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+            "@href": "https://yle.fi/t/18-218195/fi",
+            "#text": "Vaalit"
+          }
+        },
+        {
+          "@class": "sc-lpbaSe cwlsYQ",
+          "ul": {
+            "@aria-label": "Tekijä",
+            "@class": "sc-cNFqVt gmcymk",
+            "li": {
+              "@class": "sc-fpgwy dVrUIC",
+              "span": {
+                "@class": "sc-dZEakj krffzS",
+                "#text": "STT-AFP"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-eAZzZC cUksiH",
+          "div": {
+            "@class": "sc-bTPSfG himLlc yle__article__date",
+            "time": [
+              {
+                "@class": "sc-geTSWJ dUzrQh yle__article__date--published",
+                "@datetime": "2025-05-03T13:49:35+03:00",
+                "#text": "3.5. 13:49"
+              },
+              {
+                "@class": "sc-geTSWJ dUzrQh yle__article__date--modified",
+                "@datetime": "2025-05-04T08:17:27+03:00",
+                "#text": "Päivitetty\n     \n     \n     8:17"
+              }
+            ],
+            "span": {
+              "@aria-hidden": "true",
+              "@class": "sc-diziqI dgaCq",
+              "#text": "•"
+            }
+          }
+        },
+        {
+          "@class": "sc-cbJLzd fQlwJR",
+          "button": {
+            "@class": "sc-goJFMH hdACns",
+            "@data-testid": "default-article-audio-placeholder",
+            "span": [
+              {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-1 EPLBc dgcsOm",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 ruUVE dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@clip-rule": "evenodd",
+                      "@d": "M5.52 2.122a1 1 0 0 1 1.02.037l14 9a1 1 0 0 1 0 1.682l-14 9A1 1 0 0 1 5 21V3a1 1 0 0 1 .52-.878",
+                      "@fill": "currentColor",
+                      "@fill-rule": "evenodd"
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "sc-jgGpnn laJhEh",
+                "#text": "Kuuntele juttu 1:58"
+              }
+            ]
+          },
+          "div": [
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jweKAa gPvEkW",
+              "div": {
+                "@data-testid": "default-article-audio-player"
+              }
+            },
+            {
+              "@class": "sc-ecBcpz fdHQgB"
+            }
+          ]
+        }
+      ],
+      "h1": {
+        "@class": "sc-ifkGpL jgDrMU yle__article__heading yle__article__heading--1",
+        "#text": "Australian työväenpuolue voitti parlamentti­vaalit"
+      },
+      "p": {
+        "@class": "sc-kiMgGE sc-dCVDEO eQvHnw hjdIYW yle__article__paragraph",
+        "#text": "Australiassa pääministeri Anthony Albanesen johtama työväenpuolue on ottamassa voiton parlamenttivaaleissa."
+      },
+      "figure": {
+        "@class": "sc-jnflPq gibcrQ yle__article__figure",
+        "script": {
+          "@type": "application/ld+json",
+          "#text": "{\"@id\":\"74-20159540\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"  \",\"name\":\"Anthony Albanese ja työväenpuolue voittivat Australian vaalit\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-67-15ecf6036b654ea3a8a5e6ad95a79c5d\",\"uploadDate\":\"2025-05-04T08:11:49+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74404035\"}}"
+        },
+        "div": {
+          "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+          "div": {
+            "div": {
+              "@class": "sc-icsLOd deQvTQ",
+              "@data-testid": "video-player"
+            }
+          }
+        }
+      }
+    },
+    "section": {
+      "@class": "yle__article__content",
+      "p": [
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Anthony Albanesen"
+          },
+          "#text": "Australiassa pääministeri\n   \n   johtama työväenpuolue on ottanut selvän voiton parlamenttivaaleissa. Albanese sanoi voitonjuhlissa australialaisten äänestäneen maansa perinteisten arvojen puolesta."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Näinä epävarmoina aikoina australialaiset ovat äänestäneet optimismin ja päättäväisyyden puolesta. Australialaiset ovat päättäneet kohdata maailman haasteet australialaiseen tapaan, Albanese julisti voitonpuheessaan."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Albanese saa parlamenttiin nykyistä reilumman enemmistön. Alkuillasta Suomen aikaa työväenpuolue oli Australian yleisradioyhtiö ABC:n mukaan saamassa vähintään 85 paikkaa 150-paikkaiseen parlamenttiin, kun vielä 14 paikan kohtalo oli ratkeamatta. Nykyisessä parlamentissa työväenpuolueella on 77 paikkaa, joten puolue vahvistaa asemiaan tuntuvasti."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Peter Dutton"
+          },
+          "#text": "Pääministerin paikkaa tavoitellut oikeistolaisen liberaalipuolueen johtaja\n   \n   putosi itse parlamentista. Oikeistolaisella politiikalla kampanjoinut Dutton kertoi iltapäivällä Suomen aikaa soittaneensa Albaneselle ja tunnustaneensa tappionsa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Onnittelin pääministeriä vaalimenestyksestä. Me emme pärjänneet riittävän hyvin tässä kampanjassa, siitä minä kannan täyden vastuun, Dutton sanoi."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Liberaalipuolueella on nykyisessä parlamentissa 53 paikkaa, mutta se on nyt menettämässä paikkoja. Työväenpuolue kasvatti ääniosuuttaan valtaosassa Australian vaalipiireistä."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "em": {
+            "@class": "sc-bLOsqA bMNXIX yle__article__emphasis",
+            "#text": "Muokattu 3.5.2025 kello 19.00: Päivitetty kauttaaltaan uusimmilla tiedoilla työväenpuolueen voitosta parlamenttivaaleissa ja parlamenttipaikkojen jakautumisesta."
+          }
+        }
+      ]
+    },
+    "footer": {
+      "@class": "yle__article__footer",
+      "div": [
+        {
+          "@class": "sc-hjWhcS leSngs"
+        },
+        {
+          "div": {
+            "@class": "sc-hZARmv bNLDLe",
+            "a": [
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Vaalit",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-218195/fi",
+                "#text": "Vaalit"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Australia",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-200843/fi",
+                "#text": "Australia"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Australian työväenpuolue",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-112745/fi",
+                "#text": "Australian työväenpuolue"
+              }
+            ],
+            "div": {
+              "@class": "sc-dKKIkQ dfGXgP",
+              "button": {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@aria-label": "Näytä kaikki aiheet",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-3 jmqUl dhtMex",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 hvskzw dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@class": "sc-fpEFIB cluDHh",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                      "@fill": "currentColor"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

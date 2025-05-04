@@ -1,0 +1,503 @@
+{
+  "article": {
+    "@class": "yle__article arkki-theme-default",
+    "@data-vrsproduct": "uutiset",
+    "header": {
+      "@class": "yle__article__header",
+      "div": [
+        {
+          "@class": "sc-dbVXhp cBCGOO",
+          "a": {
+            "@aria-label": "Lisää artikkeleita aiheesta Poliisi",
+            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+            "@href": "https://yle.fi/t/18-213947/fi",
+            "#text": "Poliisi"
+          }
+        },
+        {
+          "@class": "sc-lpbaSe cwlsYQ",
+          "ul": {
+            "@aria-label": "Tekijä",
+            "@class": "sc-cNFqVt gmcymk",
+            "li": {
+              "@class": "sc-fpgwy dVrUIC",
+              "span": {
+                "@class": "sc-dZEakj krffzS",
+                "#text": "Timo Sipola"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-eAZzZC cUksiH",
+          "div": {
+            "@class": "sc-bTPSfG himLlc yle__article__date",
+            "time": {
+              "@class": "sc-geTSWJ dUzrQh yle__article__date--published",
+              "@datetime": "2025-05-03T15:43:41+03:00",
+              "#text": "3.5. 15:43"
+            }
+          }
+        },
+        {
+          "@class": "sc-cbJLzd fQlwJR",
+          "button": {
+            "@class": "sc-goJFMH hdACns",
+            "@data-testid": "default-article-audio-placeholder",
+            "span": [
+              {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-1 EPLBc dgcsOm",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 ruUVE dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@clip-rule": "evenodd",
+                      "@d": "M5.52 2.122a1 1 0 0 1 1.02.037l14 9a1 1 0 0 1 0 1.682l-14 9A1 1 0 0 1 5 21V3a1 1 0 0 1 .52-.878",
+                      "@fill": "currentColor",
+                      "@fill-rule": "evenodd"
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "sc-jgGpnn laJhEh",
+                "#text": "Kuuntele juttu 2:22"
+              }
+            ]
+          },
+          "div": [
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jweKAa gPvEkW",
+              "div": {
+                "@data-testid": "default-article-audio-player"
+              }
+            },
+            {
+              "@class": "sc-ecBcpz fdHQgB"
+            }
+          ]
+        }
+      ],
+      "h1": {
+        "@class": "sc-ifkGpL jgDrMU yle__article__heading yle__article__heading--1",
+        "#text": "Erikoinen ongelma Oulussa: putkaan joutuneet eivät pääse alueelta pois, koska monella ei ole bussirahaa"
+      },
+      "p": {
+        "@class": "sc-kiMgGE sc-dCVDEO eQvHnw hjdIYW yle__article__paragraph",
+        "#text": "Putkasta aamulla vapautuneista on ollut havaintoja lähiseudun kevyen liikenteen väylillä, kaupoissa, yrityksissä, päiväkodissa ja koulussa. Erityisesti käsidesi on kiinnostanut."
+      },
+      "figure": {
+        "@class": "sc-jnflPq gibcrQ yle__article__figure",
+        "script": {
+          "@type": "application/ld+json",
+          "#text": "{\"@id\":\"74-20158822\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Kävely metsäiseltä teollisuusalueelta keskustaan ei kaikilta onnistu. Osa on heikossa hapessa tai suunnistaminen koetaan vaikeaksi. Video: Paulus Markkula / Yle. \",\"name\":\"Etäisyys Oulun vankilasta keskustaan\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-67-557474b6c3614dceba9b67f8a6a3f52e\",\"uploadDate\":\"2025-05-02T12:43:50+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74396449\"}}"
+        },
+        "div": {
+          "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+          "div": {
+            "div": {
+              "@class": "sc-icsLOd deQvTQ",
+              "@data-testid": "video-player"
+            }
+          }
+        },
+        "figcaption": {
+          "@class": "sc-fsjlER icGrCJ",
+          "span": "Kävely metsäiseltä teollisuusalueelta keskustaan ei kaikilta onnistu. Osa on heikossa hapessa tai suunnistaminen koetaan vaikeaksi. Video: Paulus Markkula / Yle."
+        }
+      }
+    },
+    "section": {
+      "@class": "yle__article__content",
+      "p": [
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Oulun pääpoliisiaseman helmikuinen muutto uuteen paikkaan on luonut uuden ilmiön, joka puhuttaa lähiseudun ihmisiä. Osa aamulla putkasta vapautuvista poliisin asiakkaista jää pyörimään lähistölle."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "He eivät eri syistä pääse Kuusamon suunnassa sijaitsevalta Ruskonselän turvakampukselta kotiinsa tai keskustaan."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Vaikka poliisilaitoksen lähialueella ei ole sattunut mitään vakavaa, siellä on koettu monenlaisia lieveilmiöitä."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Aamuisin putkasta ulos päässeet ovat käyneet viemässä käsidesiä muun muassa päiväkodista, koulusta ja kaupasta. Poliisi on ohjeistanut laittamaan käsidesit piiloon."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Janne Törmäsen"
+          },
+          "#text": "Oulun poliisivankilan päällystöesimiehen, komisario\n   \n   mukaan tilaisuus on tehnyt niin sanotusti varkaan."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Hyvin monella meidän asiakkaalla on vahva alkoholiongelma. He hakevat päihteen sieltä, mistä sen onnistuvat saamaan."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Oulun poliisiputkat sijaitsivat aikoinaan Haukiputaalla, noin 20 kilometrin päässä kaupungista. Tuolloin poliisi antoi putkasta pääsevälle bussilipun."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Nyt putkan ovelta kaupungin symbolin Toripoliisi-patsaan luokse on noin kymmenen kilometrin kävelymatka, eikä lippukäytäntöä enää ole."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Putkareissua varten pitäisi varata matkaan bussiraha, mutta osalta se puuttuu."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Toiminta ei ole kaikkien asiakkaidemme osalta suunnitelmallista, sanoo Törmänen."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Kävely metsäiseltä teollisuusalueelta keskustaan ei kaikilta onnistu. Osa on heikossa hapessa tai suunnistaminen koetaan vaikeaksi."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Ursula Kopola"
+          },
+          "#text": "Hönttämäen päiväkodin johtaja\n   \n   kertoo, että päiväkotiin on tullut henkilöitä, joita ei ole ennen näkynyt."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Päiväkodin keittiön ovesta on pyydetty milloin vettä, milloin sokeria ja kaikenlaista tällaista, sanoo Kopola."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Paikallisten asukkaiden mukaan putkasta vapautuvat ovat hakeutuneet myös leikkipuistoihin levähtämään."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Komisario Janne Törmäsen mukaan uusi tilanne vaatii totuttelua asiakkailta."
+        }
+      ],
+      "figure": [
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20158822\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Poliisi on ohjeistanut laittamaan käsidesit piiloon. Kuvassa Oulun poliisivankilan päällystöesimies, komisario Janne Törmänen.\",\"copyrightHolder\":\"Janne Korkko / Yle\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_0.6665976392627874,c_fill,g_faces,h_1150,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-14584446812263c9b7e1\",\"keywords\":\"poliisi,poliisitutkinta,Poliisin toimenpiteet,poliisilaitokset,Oulu\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE dGckjo",
+            "div": {
+              "@class": "sc-gDVcuj lnQPSU",
+              "div": [
+                {
+                  "@class": "sc-jScdur jHArTB",
+                  "picture": {
+                    "source": [
+                      {
+                        "@data-testid": "source-for-S",
+                        "@media": "(max-width: 767px)",
+                        "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_4815,w_3210,x_5,y_0/ar_0.6665976392627874,c_fill,g_faces,h_1150,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746020039/39-14584446812263c9b7e1 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_4815,w_3210,x_5,y_0/ar_0.6665976392627874,c_fill,g_faces,h_1150,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746020039/39-14584446812263c9b7e1 1x"
+                      },
+                      {
+                        "@data-testid": "source-for-M",
+                        "@media": "(min-width: 768px)",
+                        "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_4815,w_3210,x_5,y_0/ar_0.6665976392627874,c_fill,g_faces,h_954,w_636/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746020039/39-14584446812263c9b7e1 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_4815,w_3210,x_5,y_0/ar_0.6665976392627874,c_fill,g_faces,h_954,w_636/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746020039/39-14584446812263c9b7e1 1x"
+                      }
+                    ],
+                    "img": {
+                      "@alt": "Oulun poliisivankilan päällystöesimies, komisario Janne Törmänen.",
+                      "@class": "sc-dcKlJK fTKhMH",
+                      "@loading": "lazy",
+                      "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_1810,w_3219,x_0,y_1040/ar_1.7777777777777777,c_fill,g_faces,h_431,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746020039/39-14584446812263c9b7e1"
+                    }
+                  }
+                },
+                {
+                  "@class": "sc-bpuAaX bNVMPp",
+                  "button": {
+                    "@aria-busy": "false",
+                    "@aria-disabled": "false",
+                    "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                    "span": {
+                      "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                      "#text": "Avaa kuvien katselu"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": [
+              "Poliisi on ohjeistanut laittamaan käsidesit piiloon. Kuvassa Oulun poliisivankilan päällystöesimies, komisario Janne Törmänen.",
+              "Kuva: Janne Korkko / Yle"
+            ]
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20158822\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Videolla toimittaja Timo Sipola kertoo, mistä ilmiössä oikein on kyse. Video: Janne Körkkö / Yle\",\"name\":\"Erikoinen ongelma Oulussa: Uuden poliisivankilan säilöönotetut jäävät aamuisin pyörimään Ruskonselän lähimaastoon\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/39-14593736814bef9eb5a2\",\"uploadDate\":\"2025-05-02T15:03:11+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74403245\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+            "div": {
+              "div": {
+                "@class": "sc-icsLOd deQvTQ",
+                "@data-testid": "video-player"
+              }
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": "Videolla toimittaja Timo Sipola kertoo, mistä ilmiössä oikein on kyse. Video: Janne Körkkö / Yle"
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20158822\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Käsidesit on pantu parempaan talteen, Hönttämäen päiväkodin johtaja Ursula Kopola kertoo.\",\"copyrightHolder\":\"Janne Korkko / Yle\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_1.0,c_fill,g_faces,h_767,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-1458448681226f75dbe5\",\"keywords\":\"päiväkodit,päiväkotihoito,varhaiskasvatuslaki,Päiväkotitoiminta Suomessa,naiset,nainen\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE gTSqXo",
+            "div": {
+              "@class": "sc-gDVcuj lnQPSU",
+              "div": [
+                {
+                  "@class": "sc-jScdur jHArTB",
+                  "picture": {
+                    "source": [
+                      {
+                        "@data-testid": "source-for-S",
+                        "@media": "(max-width: 767px)",
+                        "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3597,w_3597,x_974,y_0/ar_1.0,c_fill,g_faces,h_767,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746020165/39-1458448681226f75dbe5 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3597,w_3597,x_974,y_0/ar_1.0,c_fill,g_faces,h_767,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746020165/39-1458448681226f75dbe5 1x"
+                      },
+                      {
+                        "@data-testid": "source-for-M",
+                        "@media": "(min-width: 768px)",
+                        "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3597,w_3597,x_974,y_0/ar_1.0,c_fill,g_faces,h_636,w_636/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746020165/39-1458448681226f75dbe5 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3597,w_3597,x_974,y_0/ar_1.0,c_fill,g_faces,h_636,w_636/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746020165/39-1458448681226f75dbe5 1x"
+                      }
+                    ],
+                    "img": {
+                      "@alt": "Hönttämäen päiväkodin johtaja Ursula Kopola.",
+                      "@class": "sc-dcKlJK fTKhMH",
+                      "@loading": "lazy",
+                      "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_3034,w_5395,x_0,y_562/ar_1.7777777777777777,c_fill,g_faces,h_431,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746020165/39-1458448681226f75dbe5"
+                    }
+                  }
+                },
+                {
+                  "@class": "sc-bpuAaX bNVMPp",
+                  "button": {
+                    "@aria-busy": "false",
+                    "@aria-disabled": "false",
+                    "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                    "span": {
+                      "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                      "#text": "Avaa kuvien katselu"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": [
+              "Käsidesit on pantu parempaan talteen, Hönttämäen päiväkodin johtaja Ursula Kopola kertoo.",
+              "Kuva: Janne Korkko / Yle"
+            ]
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20158822\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Hönttämäen koulun vararehtori Irma Ala-aho kertoo, että koululla on mietitty, pitäisikö koulun tiloja alkaa lukitsemaan myös keskellä päivää.\",\"copyrightHolder\":\"Janne Korkko / Yle\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-145845168122779a3bdd\",\"keywords\":\"koulut,Koulutus ja kasvatus,koulutus,opettajat,nainen,naiset\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE hUpsZg",
+            "div": {
+              "@class": "sc-gDVcuj lnQPSU",
+              "div": [
+                {
+                  "@class": "sc-jScdur jHArTB",
+                  "picture": {
+                    "source": [
+                      {
+                        "@data-testid": "source-for-S",
+                        "@media": "(max-width: 767px)",
+                        "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746020342/39-145845168122779a3bdd 2x,https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746020342/39-145845168122779a3bdd 1x"
+                      },
+                      {
+                        "@data-testid": "source-for-M",
+                        "@media": "(min-width: 768px)",
+                        "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_424,w_636/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746020342/39-145845168122779a3bdd 2x,https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_424,w_636/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746020342/39-145845168122779a3bdd 1x"
+                      }
+                    ],
+                    "img": {
+                      "@alt": "Hönttämäen koulun vararehtori Irma Ala-aho.",
+                      "@class": "sc-dcKlJK fTKhMH",
+                      "@loading": "lazy",
+                      "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2689,w_4803,x_0,y_500/ar_1.7777777777777777,c_fill,g_faces,h_431,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746020342/39-145845168122779a3bdd"
+                    }
+                  }
+                },
+                {
+                  "@class": "sc-bpuAaX bNVMPp",
+                  "button": {
+                    "@aria-busy": "false",
+                    "@aria-disabled": "false",
+                    "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                    "span": {
+                      "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                      "#text": "Avaa kuvien katselu"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": [
+              "Hönttämäen koulun vararehtori Irma Ala-aho kertoo, että koululla on mietitty, pitäisikö koulun tiloja alkaa lukitsemaan myös keskellä päivää.",
+              "Kuva: Janne Korkko / Yle"
+            ]
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20158822\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Tältä näyttää Oulun uuden poliisivankilan putka. \",\"copyrightHolder\":\"Paula Tavasti\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_0.75,c_fill,g_faces,h_1022,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-1458431681223cf8e028\",\"keywords\":\"poliisi,poliisitutkinta,Poliisin toimenpiteet,poliisilaitokset,Oulu,alkoholismi\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE flzHGY",
+            "div": {
+              "@class": "sc-gDVcuj lnQPSU",
+              "div": [
+                {
+                  "@class": "sc-jScdur jHArTB",
+                  "picture": {
+                    "source": [
+                      {
+                        "@data-testid": "source-for-S",
+                        "@media": "(max-width: 767px)",
+                        "@srcset": "https://images.cdn.yle.fi/image/upload/ar_0.75,c_fill,g_faces,h_1022,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746019487/39-1458431681223cf8e028 2x,https://images.cdn.yle.fi/image/upload/ar_0.75,c_fill,g_faces,h_1022,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746019487/39-1458431681223cf8e028 1x"
+                      },
+                      {
+                        "@data-testid": "source-for-M",
+                        "@media": "(min-width: 768px)",
+                        "@srcset": "https://images.cdn.yle.fi/image/upload/ar_0.75,c_fill,g_faces,h_848,w_636/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746019487/39-1458431681223cf8e028 2x,https://images.cdn.yle.fi/image/upload/ar_0.75,c_fill,g_faces,h_848,w_636/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746019487/39-1458431681223cf8e028 1x"
+                      }
+                    ],
+                    "img": {
+                      "@alt": "Kuva Oulun uuden poliisivankilan putkasta.",
+                      "@class": "sc-dcKlJK fTKhMH",
+                      "@loading": "lazy",
+                      "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_1701,w_3024,x_0,y_1745/ar_1.7777777777777777,c_fill,g_faces,h_431,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746019487/39-1458431681223cf8e028"
+                    }
+                  }
+                },
+                {
+                  "@class": "sc-bpuAaX bNVMPp",
+                  "button": {
+                    "@aria-busy": "false",
+                    "@aria-disabled": "false",
+                    "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                    "span": {
+                      "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                      "#text": "Avaa kuvien katselu"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": [
+              "Tältä näyttää Oulun uuden poliisivankilan putka.",
+              "Kuva: Paula Tavasti"
+            ]
+          }
+        }
+      ],
+      "h2": {
+        "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+        "#text": "Uusi tilanne vaatii totuttelua kaikilta"
+      }
+    },
+    "footer": {
+      "@class": "yle__article__footer",
+      "div": [
+        {
+          "@class": "sc-hjWhcS leSngs"
+        },
+        {
+          "div": {
+            "@class": "sc-hZARmv bNLDLe",
+            "a": [
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Poliisi",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-213947/fi",
+                "#text": "Poliisi"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Päihteet",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-211104/fi",
+                "#text": "Päihteet"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Putkat",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-217680/fi",
+                "#text": "Putkat"
+              }
+            ],
+            "div": {
+              "@class": "sc-dKKIkQ dfGXgP",
+              "button": {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@aria-label": "Näytä kaikki aiheet",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-3 jmqUl dhtMex",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 hvskzw dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@class": "sc-fpEFIB cluDHh",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                      "@fill": "currentColor"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

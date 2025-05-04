@@ -1,0 +1,330 @@
+{
+  "article": {
+    "@class": "yle__article arkki-theme-default",
+    "@data-vrsproduct": "uutiset",
+    "header": {
+      "@class": "yle__article__header",
+      "div": [
+        {
+          "@class": "sc-dbVXhp cBCGOO",
+          "a": {
+            "@aria-label": "Lisää artikkeleita aiheesta Kulttuuri",
+            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+            "@href": "https://yle.fi/t/18-208149/fi",
+            "#text": "Kulttuuri"
+          }
+        },
+        {
+          "@class": "sc-lpbaSe cwlsYQ",
+          "ul": {
+            "@aria-label": "Tekijä",
+            "@class": "sc-cNFqVt gmcymk",
+            "li": {
+              "@class": "sc-fpgwy dVrUIC",
+              "span": {
+                "@class": "sc-dZEakj krffzS",
+                "#text": "Elina Nissinen"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-eAZzZC cUksiH",
+          "div": {
+            "@class": "sc-bTPSfG himLlc yle__article__date",
+            "time": [
+              {
+                "@class": "sc-geTSWJ dUzrQh yle__article__date--published",
+                "@datetime": "2025-05-03T20:43:11+03:00",
+                "#text": "3.5. 20:43"
+              },
+              {
+                "@class": "sc-geTSWJ dUzrQh yle__article__date--modified",
+                "@datetime": "2025-05-03T21:01:14+03:00",
+                "#text": "Päivitetty\n     \n     \n     3.5. 21:01"
+              }
+            ],
+            "span": {
+              "@aria-hidden": "true",
+              "@class": "sc-diziqI dgaCq",
+              "#text": "•"
+            }
+          }
+        },
+        {
+          "@class": "sc-cbJLzd fQlwJR",
+          "button": {
+            "@class": "sc-goJFMH hdACns",
+            "@data-testid": "default-article-audio-placeholder",
+            "span": [
+              {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-1 EPLBc dgcsOm",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 ruUVE dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@clip-rule": "evenodd",
+                      "@d": "M5.52 2.122a1 1 0 0 1 1.02.037l14 9a1 1 0 0 1 0 1.682l-14 9A1 1 0 0 1 5 21V3a1 1 0 0 1 .52-.878",
+                      "@fill": "currentColor",
+                      "@fill-rule": "evenodd"
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "sc-jgGpnn laJhEh",
+                "#text": "Kuuntele juttu 1:50"
+              }
+            ]
+          },
+          "div": [
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jweKAa gPvEkW",
+              "div": {
+                "@data-testid": "default-article-audio-player"
+              }
+            },
+            {
+              "@class": "sc-ecBcpz fdHQgB"
+            }
+          ]
+        }
+      ],
+      "h1": {
+        "@class": "sc-ifkGpL jgDrMU yle__article__heading yle__article__heading--1",
+        "#text": "Näyttelijä ja ohjaaja Kari Franck on kuollut"
+      },
+      "p": {
+        "@class": "sc-kiMgGE sc-dCVDEO eQvHnw hjdIYW yle__article__paragraph",
+        "#text": "Franckin päätyö ohjaajana oli Juhani Ahon klassikkokirjaan perustuva Rautatie-elokuva."
+      },
+      "figure": {
+        "@class": "sc-jnflPq edfVsP yle__article__figure",
+        "script": {
+          "@type": "application/ld+json",
+          "#text": "{\"@id\":\"74-20159578\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Kari Franck Narri Kartanon valtiaana -tv-draamassa 1974.\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_0.987143431096826,c_fill,g_faces,h_776,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-1459726681650a8cde42\",\"keywords\":\"Kari Franck\"}}"
+        },
+        "div": {
+          "@class": "sc-jxyWrI sc-lcsTPt lbLrnE cytsBM",
+          "div": {
+            "@class": "sc-gDVcuj lnQPSU",
+            "div": [
+              {
+                "@class": "sc-jScdur jHArTB",
+                "picture": {
+                  "source": [
+                    {
+                      "@data-testid": "source-for-S",
+                      "@media": "(max-width: 767px)",
+                      "@srcset": "https://images.cdn.yle.fi/image/upload/ar_0.987143431096826,c_fill,g_faces,h_776,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746293097/39-1459726681650a8cde42 2x,https://images.cdn.yle.fi/image/upload/ar_0.987143431096826,c_fill,g_faces,h_776,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746293097/39-1459726681650a8cde42 1x"
+                    },
+                    {
+                      "@data-testid": "source-for-M",
+                      "@media": "(min-width: 768px)",
+                      "@srcset": "https://images.cdn.yle.fi/image/upload/ar_0.987143431096826,c_fill,g_faces,h_644,w_636/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746293097/39-1459726681650a8cde42 2x,https://images.cdn.yle.fi/image/upload/ar_0.987143431096826,c_fill,g_faces,h_644,w_636/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746293097/39-1459726681650a8cde42 1x"
+                    }
+                  ],
+                  "img": {
+                    "@alt": "Kari Franck esiintyy \"Narri Kartanon valtiaana\" tv-draamassa 1974.",
+                    "@class": "sc-dcKlJK fTKhMH",
+                    "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_1382,w_2457,x_0,y_196/ar_1.7777777777777777,c_fill,g_faces,h_431,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746293097/39-1459726681650a8cde42"
+                  }
+                }
+              },
+              {
+                "@class": "sc-bpuAaX bNVMPp",
+                "button": {
+                  "@aria-busy": "false",
+                  "@aria-disabled": "false",
+                  "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                  "span": {
+                    "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                    "#text": "Avaa kuvien katselu"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "figcaption": {
+          "@class": "sc-fsjlER icGrCJ",
+          "span": "Kari Franck Narri Kartanon valtiaana -tv-draamassa 1974."
+        }
+      }
+    },
+    "section": {
+      "@class": "yle__article__content",
+      "p": [
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Kari Franck"
+          },
+          "#text": "Näyttelijä ja ohjaaja\n   \n   on kuollut 84-vuotiaana. Asia vahvistetaan Ylelle Franckin lähipiiristä."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Franck teki pitkän uran näyttelijänä ja ohjaajana."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Hän oli Teatterikorkeakoulussa vuosina 1970–1972. Ylen Televisioteatterissa hän näytteli vuodesta 1967 ja ohjasi 1970-luvulta alkaen."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "em": [
+            {
+              "@class": "sc-bLOsqA bMNXIX yle__article__emphasis",
+              "#text": "Rautatie"
+            },
+            {
+              "@class": "sc-bLOsqA bMNXIX yle__article__emphasis",
+              "#text": "Kotikatu"
+            }
+          ],
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Juhani Ahon"
+          },
+          "#text": "Franck piti itse päätyönään ohjaajana\n   \n   -elokuvaa vuodelta 1973. Elokuva oli sovitus\n   \n   klassikkokirjasta. Franck ohjasi myös suosittua\n   \n   -sarjaa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "em": {
+            "@class": "sc-bLOsqA bMNXIX yle__article__emphasis",
+            "#text": "Kotikatua"
+          },
+          "a": {
+            "@class": "sc-iCmUMC eAECGk yle__article__link",
+            "@href": "https://www.hs.fi/kulttuuri/art-2000006512714.html",
+            "@role": "link",
+            "#text": "kertoi"
+          },
+          "#text": "– Välillä piti tehdä niin sanotusti näkkileipääkin,\n   \n   ja muuta. Kaikki eivät siihen suostuneet, mutta ei se minulle ollut koskaan mikään ongelma. Mulle koko tekeminen oli juhlaa, Franck\n   \n   Helsingin Sanomien 80-vuotishaastattelussa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "em": [
+            {
+              "@class": "sc-bLOsqA bMNXIX yle__article__emphasis",
+              "#text": "Hukkaputkesta"
+            },
+            {
+              "@class": "sc-bLOsqA bMNXIX yle__article__emphasis",
+              "#text": "Narri kartanon valtiaana"
+            },
+            {
+              "@class": "sc-bLOsqA bMNXIX yle__article__emphasis",
+              "#text": "Hallituskriisi"
+            }
+          ],
+          "a": {
+            "@class": "sc-iCmUMC eAECGk yle__article__link",
+            "@href": "https://areena.yle.fi/1-50229506",
+            "@role": "link",
+            "#text": "Yle Areenasta"
+          },
+          "#text": "Näyttelijänä Franck tuli tunnetuksi myös satiirisarja\n   \n   . Taltiointeja sarjasta löytyy\n   \n   . Hän näytteli myös muun muassa\n   \n   -elokuvassa ja\n   \n   -tv-sarjassa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "em": {
+            "@class": "sc-bLOsqA bMNXIX yle__article__emphasis",
+            "#text": "Nurkkapöytä Kämpistä"
+          },
+          "#text": "Yle haastatteli Franckia vuonna 1997 tv-elokuvasta\n   \n   , jonka hän ohjasi."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Aikaisemmin kun minulta kysyttiin, onko elokuvissani joku toistuva teema, olin sitä mieltä ettei sellaista ole. Tätä elokuvaa tehdessä huomasin, että ihmissuhteet, myös tämä ystävyyden teema, on se mitä olen itse asiassa aina tavoitellut töissäni, Franck kertoi."
+        }
+      ]
+    },
+    "footer": {
+      "@class": "yle__article__footer",
+      "div": [
+        {
+          "@class": "sc-hjWhcS leSngs"
+        },
+        {
+          "@aria-label": "Artikkeli muilla kielillä",
+          "@class": "sc-hBMrPC fVZlMF yle__article__translations",
+          "@role": "list",
+          "div": {
+            "@aria-label": "På svenska",
+            "@lang": "sv",
+            "@role": "listitem",
+            "a": {
+              "@class": "sc-fZkdTt cIcBAh",
+              "@href": "https://yle.fi/a/7-10077218",
+              "@hreflang": "sv",
+              "span": {
+                "@class": "sc-eurncj dUcJXs",
+                "#text": "På svenska:"
+              },
+              "#text": "Skådespelaren och regissören Kari Franck är död"
+            }
+          }
+        },
+        {
+          "div": {
+            "@class": "sc-hZARmv bNLDLe",
+            "a": [
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Kulttuuri",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-208149/fi",
+                "#text": "Kulttuuri"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Näyttelijät",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-216157/fi",
+                "#text": "Näyttelijät"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Elokuvaohjaajat",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-204319/fi",
+                "#text": "Elokuvaohjaajat"
+              }
+            ],
+            "div": {
+              "@class": "sc-dKKIkQ dfGXgP",
+              "button": {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@aria-label": "Näytä kaikki aiheet",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-3 jmqUl dhtMex",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 hvskzw dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@class": "sc-fpEFIB cluDHh",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                      "@fill": "currentColor"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

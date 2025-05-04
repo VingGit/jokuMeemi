@@ -1,0 +1,1421 @@
+{
+  "article": {
+    "@class": "yle__article arkki-theme-default",
+    "@data-vrsproduct": "uutiset",
+    "header": {
+      "@class": "yle__article__header",
+      "div": [
+        {
+          "@class": "sc-djyMRm dUQDpo",
+          "figure": {
+            "@class": "sc-jnflPq hiwDpk yle__article__figure",
+            "script": {
+              "@type": "application/ld+json",
+              "#text": "{\"@id\":\"74-20154994\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Helsingin poliisi muutti viime vuonna toimintaansa näpistystutkinnoissa.\",\"name\":\"Näpistykset otsikko\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-67-78a1e13602244574a49dbaff77bfa2e1\",\"uploadDate\":\"2025-04-28T14:21:38+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74354600\"}}"
+            },
+            "div": {
+              "@class": "sc-jxyWrI sc-lcsTPt lbLrnE bHdoZp",
+              "div": {
+                "div": {
+                  "@class": "sc-icsLOd deQvTQ",
+                  "@data-testid": "video-player"
+                }
+              }
+            },
+            "figcaption": {
+              "@class": "sc-fsjlER jsHqVi",
+              "span": "Helsingin poliisi muutti viime vuonna toimintaansa näpistystutkinnoissa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "div": [
+              {
+                "@class": "sc-hAZuot jzsrSZ",
+                "div": {
+                  "@class": "sc-eEEJIs bIoUXJ",
+                  "a": {
+                    "@aria-label": "Lisää artikkeleita aiheesta Rikokset",
+                    "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                    "@href": "https://yle.fi/t/18-217206/fi",
+                    "#text": "Rikokset"
+                  },
+                  "h1": {
+                    "@class": "sc-ifkGpL mRCOH yle__article__heading yle__article__heading--1",
+                    "#text": "Aaro vei kaupasta karkkipussin – Helsingin poliisi aloitti rikostutkinnan"
+                  }
+                }
+              },
+              {
+                "@class": "sc-cbJLzd AyXGI",
+                "div": {
+                  "@class": "sc-gklEHm GuNCl",
+                  "button": {
+                    "@class": "sc-ctzWlN gMnUWl",
+                    "span": [
+                      {
+                        "@aria-busy": "false",
+                        "@aria-disabled": "false",
+                        "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-1 EPLBc dgcsOm",
+                        "span": {
+                          "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 ruUVE dXmWOo yds-button__icon",
+                          "svg": {
+                            "@aria-hidden": "true",
+                            "@fill": "none",
+                            "@height": "24",
+                            "@viewbox": "0 0 24 24",
+                            "@width": "24",
+                            "path": {
+                              "@clip-rule": "evenodd",
+                              "@d": "M5.52 2.122a1 1 0 0 1 1.02.037l14 9a1 1 0 0 1 0 1.682l-14 9A1 1 0 0 1 5 21V3a1 1 0 0 1 .52-.878",
+                              "@fill": "currentColor",
+                              "@fill-rule": "evenodd"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "@class": "sc-kMAVeI qZhVm",
+                        "#text": "Kuuntele juttu"
+                      }
+                    ]
+                  },
+                  "div": {
+                    "@aria-hidden": "true",
+                    "@class": "sc-iOQeA-D lnQvwX",
+                    "div": {
+                      "@class": "sc-fSvtUC iYmpUq",
+                      "div": {
+                        "@data-testid": "feature-article-audio-player"
+                      },
+                      "p": {
+                        "@class": "sc-wPObs dnUrWI",
+                        "a": {
+                          "@class": "sc-iEQsMV kcjgne",
+                          "@href": "https://yle.fi/aihe/a/20-10006416",
+                          "#text": "Lue lisää."
+                        },
+                        "#text": "Jutun lukee koneääni."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "sc-eAZzZC cddaUL",
+                "div": [
+                  {
+                    "@class": "sc-bTPSfG himLlc yle__article__date",
+                    "time": [
+                      {
+                        "@class": "sc-geTSWJ dUzrQh yle__article__date--published",
+                        "@datetime": "2025-05-03T06:45:36+03:00",
+                        "#text": "3.5. 6:45"
+                      },
+                      {
+                        "@class": "sc-geTSWJ dUzrQh yle__article__date--modified",
+                        "@datetime": "2025-05-03T07:36:33+03:00",
+                        "#text": "Päivitetty\n       \n       \n       3.5. 7:36"
+                      }
+                    ],
+                    "span": {
+                      "@aria-hidden": "true",
+                      "@class": "sc-diziqI dgaCq",
+                      "#text": "•"
+                    }
+                  },
+                  {
+                    "@class": "sc-gfTxxn eOcsrq",
+                    "div": {
+                      "@class": "sc-ckzTOx eEVykp",
+                      "div": [
+                        {
+                          "@class": "sc-hHwaUx cAMGoR",
+                          "span": [
+                            {
+                              "@class": "sc-bGQaqj klbnav",
+                              "#text": "Teksti\n         \n         :"
+                            },
+                            {
+                              "@class": "sc-feJtxQ kjtsHA",
+                              "#text": "Päivi Happonen"
+                            }
+                          ]
+                        },
+                        {
+                          "@class": "sc-hHwaUx cAMGoR",
+                          "span": [
+                            {
+                              "@class": "sc-bGQaqj klbnav",
+                              "#text": "Kuvat ja videot\n         \n         :"
+                            },
+                            {
+                              "@class": "sc-feJtxQ kjtsHA",
+                              "#text": "Juha Kivioja"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ],
+            "p": {
+              "@class": "sc-kiMgGE sc-dCVDEO idXkML fbeREN yle__article__paragraph",
+              "#text": "Poliisi voisi jättää osan pienistä näpistysjutuista tutkimatta, sanoo kokenut syyttäjä. Poliisi on eri mieltä."
+            }
+          }
+        }
+      ]
+    },
+    "section": {
+      "@class": "yle__article__content",
+      "div": [
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Helsingin poliisin muutos näpistysjuttujen tutkinnassa näkyy syyttäjien työpöydillä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "a": {
+                "@class": "sc-iCmUMC eAECGk yle__article__link",
+                "@href": "https://yle.fi/a/74-20144649",
+                "@role": "link",
+                "#text": "Helsingin poliisi on alkanut"
+              },
+              "#text": "Yle uutisoi maaliskuussa, että\n     \n     tutkia aiempaa enemmän arvoltaan vähäisiä näpistyksiä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Tero Kekki"
+              },
+              "#text": "– Kyllä se alkoi näkyä vuonna 2024, sanoo nyt apulaispäällikkö\n     \n     ."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Kekki johtaa Etelä-Suomen syyttäjäalueen nopean toiminnan yksikköä, jossa tehdään syyteharkinnat näpistysjuttuihin."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Aiemmin Helsingin poliisi usein rajoitti pieniä näpistystutkintoja eli esitti syyttäjälle niiden lopettamista."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Markku Heinikari"
+              },
+              "#text": "Helsingin poliisin rikosylitarkastaja\n     \n     myöntää muutoksen."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Heinikarin mukaan poliisilla oli ”parantamisen paikka” näpistysten tutkinnassa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "a": {
+                "@class": "sc-iCmUMC eAECGk yle__article__link",
+                "@href": "https://yle.fi/a/74-20144649",
+                "@role": "link",
+                "#text": "maaliskuussa julkaistussa jutussa"
+              },
+              "#text": "Muutamat lähteet Helsingin poliisista väittivät\n     \n     , että pikkunäpistyksiä alettiin tutkia, että omaisuusrikostilastot saataisiin näyttämään hyvältä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Tässä jutussa on kolme esimerkkiä pienistä näpistystutkinnoista. Kerromme myös, millaisen ratkaisun syyttäjä teki näissä tapauksissa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Yle sai tiedot tähän juttuun poliisin esitutkinta-aineistoista ja syyttäjän tekemistä ratkaisuista."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Epäiltyjen nimet on muutettu, koska epäillyt rikokset ovat lieviä eikä yksittäisillä tapauksilla ole laajempaa yhteiskunnallista merkitystä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "div": {
+              "@class": "sc-cSdmCa gRQRTX yle__article__infogram",
+              "div": {
+                "@class": "infogram-embed",
+                "@data-id": "e2049087-2f5d-4722-866e-c6e37d5fa512",
+                "@data-title": "",
+                "@data-type": "interactive"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Jere"
+              },
+              "#text": "48-vuotias\n     \n     asioi helmikuussa Sörkän K-Marketissa. Jere nappasi kaupan hyllyltä patongin, jota hän ei maksanut."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Patongin hinta oli 3,99 euroa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Vartija otti Jeren kiinni, kun tämä oli kulkenut kassojen ohi. Kaupasta soitettiin hätäkeskukseen, ja poliisipartio tuli paikalle."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Poliisipartio kuljetti Jeren Pasilan poliisitalolle, jossa tehtiin kuulustelu."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Jere myönsi poliisille syyllistyneensä näpistykseen."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Panin patongin toppatakin sisään. Luovuin patongista myymälän ulkopuolella myyjän pyytäessä tuotetta takaisin, Jere kertoi poliisille."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Poliisi teki esitutkinnan ja lähetti sen syyttäjälle."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Syyttäjä puntaroi tapausta ja päätyi siihen, ettei hän nosta syytettä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Syyttäjä totesi päätöksessään, että Jerellä on näpistysepäilyn lisäksi syyteharkinnassa ja käräjäoikeudessa muita rikosepäilyjä, joista tullaan vaatimaan näpistystä selvästi ankarampaa rangaistusta."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Syyttäjän mukaan myöskään tärkeä yleinen etu ei vaatinut syytteen nostamista."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo ljOqPD",
+            "figure": {
+              "@class": "sc-jnflPq gibcrQ yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20154994\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Helsingin poliisi alkoi tutkia viime vuonna entistä enemmän näpistysjuttuja.\",\"name\":\"Näpistykset Helsingin poliisi\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-67-6700470c15e3445ab41a02c09fe0f0cf\",\"uploadDate\":\"2025-04-28T14:32:47+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74354659\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+                "div": {
+                  "div": {
+                    "@class": "sc-icsLOd deQvTQ",
+                    "@data-testid": "video-player"
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "h2": {
+              "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+              "#text": "Poliisi alkoi niputtaa näpistystutkintoja"
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Helsingin poliisille tehtiin viime vuonna yhteensä yli 13 200 ilmoitusta näpistyksistä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Etelä-Suomen syyttäjäalueelle tuli Helsingin, Itä-Uudenmaan ja Länsi-Uudenmaan poliisista viime vuonna reilusti enemmän näpistystutkintoja kuin edellisvuonna."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "div": {
+              "@class": "sc-cSdmCa gRQRTX yle__article__infogram",
+              "div": {
+                "@class": "infogram-embed",
+                "@data-id": "b32d9b05-ce69-4997-8a6b-a8b9e3069b15",
+                "@data-title": "Grafiikka näyttää Etelä-Suomen syyttäjäalueelle poliisilta tulleet näpistystutkinnat. Määrä kasvoi vuonna 2024 merkittävästi.",
+                "@data-type": "interactive"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Viime vuoden Etelä-Suomen syyttäjäalueen luvuissa näkyy myös poliisin vähentynyt into pyytää syyttäjältä tutkinnan lopettamista näpistysjutuissa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "div": {
+              "@class": "sc-cSdmCa gRQRTX yle__article__infogram",
+              "div": {
+                "@class": "infogram-embed",
+                "@data-id": "a7e30692-50a3-4d4c-834e-bb331a2fe67a",
+                "@data-title": "Grafiikka näyttää poliisin pyynnöt näpistystutkintojen lopettamiseen. Vuonna 2024 laskua oli edellisvuodesta hieman: pyyntöjä oli 1402, kun edellisvuonna niitä oli 1530.",
+                "@data-type": "interactive"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Etelä-Suomen syyttäjäalueella työpöydät alkoivat täyttyä viime vuonna näpistystutkinnoista. Niiden joukossa oli arvoltaan suurempia mutta myös hyvin vähäisiä näpistysepäilyitä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Lopulta syyttäjä pyysi poliisin palaveriin viime vuoden lopussa ja esitti toiveen juttujen niputtamisesta."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Poliisin tulisi lähettää samaan henkilöön kohdistuvia näpistysjuttuja syyttäjälle esimerkiksi 5-10 jutun nipuissa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Tätä on tavoiteltu vuosikaudet. Nyt kun näpistystutkintojen määrä lisääntyy, tämä tarve korostuu, sanoo apulaispäällikkö Tero Kekki."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "div": {
+              "@class": "sc-cSdmCa gRQRTX yle__article__infogram",
+              "div": {
+                "@class": "infogram-embed",
+                "@data-id": "7c1b6a14-f2cb-4a70-bba2-fd1bf6c48c86",
+                "@data-title": "",
+                "@data-type": "interactive"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Aaro"
+              },
+              "#text": "29-vuotias\n     \n     joutui maaliskuussa yöksi Pasilan poliisitalon putkaan."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Kun Aaro vapautui putkasta, hän käveli suoraan lähistöllä sijaitsevaan kauppakeskus Triplaan ja suunnisti siellä Alepaan."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Aaro otti kaupan hyllyltä karkkipussin ja piilotti sen housuihinsa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Karkkipussin hinta oli 3,79 euroa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Vartijat nappasivat Aaron, kun tämä oli poistunut kaupasta."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Kaupasta soitettiin hätäkeskukseen. Paikalle tullut poliisipartio kuulusteli Aaron."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Myönnän syyllistyneeni asiassa näpistykseen, Aaro kertoi poliisille."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Helsingin poliisi suoritti esitutkinnan ja lähetti sen syyteharkintaan. Syyttäjä päätyi siihen, että Aaroa on syytä epäillä näpistyksestä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Syyttäjä ei kuitenkaan nostanut syytettä karkkipussin näpistyksestä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Aarolla oli syyteharkinnassa ja käräjäoikeudessa vakavampia rikosepäilyjä. Syyttäjän mukaan Aarolle tullaan vaatimaan niistä näpistystä ankarampaa rangaistusta."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Syyttäjä myös katsoi, ettei tärkeä yleinen etu vaatinut syytteen nostamista."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo ljOqPD",
+            "figure": {
+              "@class": "sc-jnflPq gibcrQ yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20154994\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Helsingin poliisi alkoi tutkia viime vuonna entistä enemmän näpistysjuttuja.\",\"name\":\"Näpistykset Helsingin poliisi\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-67-1d3d723f91d74808b00c4f460c354632\",\"uploadDate\":\"2025-04-28T14:28:40+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74354638\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+                "div": {
+                  "div": {
+                    "@class": "sc-icsLOd deQvTQ",
+                    "@data-testid": "video-player"
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "h2": {
+              "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+              "#text": "Poliisi: Meidän tehtävä on tutkia rikoksia"
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Lain mukaan poliisi voi rajoittaa tutkintaa eli pyytää syyttäjältä tutkinnan lopettamista, jos rikos on vähäinen."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Tämä mahdollistaa poliisin sekä myös syyttäjän ja tuomioistuinten resurssien kohdistamisen järkevästi ja asianmukaisesti."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Poliisi on tuonut vuosikaudet esille vähäisiä resurssejaan."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Ilkka Koskimäki"
+              },
+              "#text": "Edellisen kerran niistä puhui julkisuudessa Suomen poliisitoiminnasta vastaava poliisiylijohtaja\n     \n     huhtikuussa Poliisihallituksen mediatilaisuudessa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Poliisin rajalliset toimivarat pakottavat poliisin keskittymään niihin toimiin, joilla uskotaan eniten olevan vaikutusta, Koskimäki sanoi."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "figure": {
+              "@class": "sc-jnflPq gibcrQ yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20154994\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Helsingin poliisilaitoksen poliisipäällikkö Jari Liukku ei halunnut kommentoida näpistystutkintoja Ylelle. \",\"copyrightHolder\":\"Silja Viitala / Yle\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_0.6666666666666666,c_fill,g_faces,h_1150,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-142396567b49df20e6d7\",\"keywords\":\"poliisi,Helsingin poliisilaitos,poliisipäälliköt,Jari Liukku\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-lcsTPt lbLrnE hJKqus",
+                "div": {
+                  "@class": "sc-gDVcuj lnQPSU",
+                  "div": [
+                    {
+                      "@class": "sc-jScdur jHArTB",
+                      "picture": {
+                        "source": [
+                          {
+                            "@data-testid": "source-for-S",
+                            "@media": "(max-width: 767px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_5751,w_3834,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1150,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1739890234/39-142396567b49df20e6d7 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_5751,w_3834,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1150,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1739890234/39-142396567b49df20e6d7 1x"
+                          },
+                          {
+                            "@data-testid": "source-for-M",
+                            "@media": "(min-width: 768px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_5751,w_3834,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1317,w_878/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1739890234/39-142396567b49df20e6d7 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_5751,w_3834,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1317,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1739890234/39-142396567b49df20e6d7 1x"
+                          }
+                        ],
+                        "img": {
+                          "@alt": "Helsingin poliisilaitoksen poliisipäällikkö Jari Liukku.",
+                          "@class": "sc-dcKlJK fTKhMH",
+                          "@loading": "lazy",
+                          "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2156,w_3834,x_0,y_1621/ar_1.7777777777777777,c_fill,g_faces,h_493,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1739890234/39-142396567b49df20e6d7"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "sc-bpuAaX bNVMPp",
+                      "button": {
+                        "@aria-busy": "false",
+                        "@aria-disabled": "false",
+                        "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                        "span": {
+                          "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                          "#text": "Avaa kuvien katselu"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "figcaption": {
+                "@class": "sc-fsjlER icGrCJ",
+                "span": [
+                  "Helsingin poliisilaitoksen poliisipäällikkö Jari Liukku ei halunnut kommentoida näpistystutkintoja Ylelle.",
+                  "Kuva: Silja Viitala / Yle"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Jari Liukku"
+              },
+              "#text": "Muutos Helsingin poliisin näpistystutkinnoissa tapahtui viime vuonna, jonka alussa\n     \n     nimitettiin Helsingin poliisin poliisipäälliköksi."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Halusimme kysyä häneltä, miksi poliisi muutti toimintaansa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Liukku osallistui Poliisihallituksen mediatilaisuuteen mutta poistui paikalta juuri sitä ennen, kun toimittajille annettiin mahdollisuus esittää kysymyksiä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Lukuisista pyynnöistä huolimatta emme onnistuneet saamaan Liukkua haastatteluun."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Helsingin poliisilaitokselta haastattelun antoi rikosylitarkastaja Markku Heinikari, joka johtaa rikostutkintayksikköä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Tarkastelimme toimintaamme ja katsoimme, että kun laitamme sarjanäpistelijöiden tekemiä näpistyksiä enemmän syyteharkintaan, se palvelee enemmän lainsäätäjän tahtoa, Heinikari sanoo."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Onko järkevää käyttää tutkintaresursseja muutaman euron patongin tai karkkipussin pöllimistutkintaan?"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Näpistys on rikos, ja meidän tehtävä on tutkia rikoksia. Ei Suomessa ole muitakaan tahoja, ketkä sitä tekevät."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo ljOqPD",
+            "figure": {
+              "@class": "sc-jnflPq gibcrQ yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20154994\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Rikosylitarkastaja Markku Heinikari kertoi Ylelle, miksi poliisin mukaan vähäisiä näpistyksiä on tärkeä tutkia.\",\"copyrightHolder\":\"Juha Kivioja / Yle\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_1.5001277791975467,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-1456862680f36afdc6f9\",\"keywords\":\"poliisi,poliisitutkinta,Poliisin toimenpiteet,esitutkinta,poliisilaitokset,Näpistys,varkaudet\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-lcsTPt lbLrnE bqmHFM",
+                "div": {
+                  "@class": "sc-gDVcuj lnQPSU",
+                  "div": [
+                    {
+                      "@class": "sc-jScdur jHArTB",
+                      "picture": {
+                        "source": [
+                          {
+                            "@data-testid": "source-for-S",
+                            "@media": "(max-width: 767px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5001277791975467,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1745847417/39-1456862680f36afdc6f9 2x,https://images.cdn.yle.fi/image/upload/ar_1.5001277791975467,c_fill,g_faces,h_511,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1745847417/39-1456862680f36afdc6f9 1x"
+                          },
+                          {
+                            "@data-testid": "source-for-M",
+                            "@media": "(min-width: 768px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5001277791975467,c_fill,g_faces,h_585,w_878/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1745847417/39-1456862680f36afdc6f9 2x,https://images.cdn.yle.fi/image/upload/ar_1.5001277791975467,c_fill,g_faces,h_585,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1745847417/39-1456862680f36afdc6f9 1x"
+                          }
+                        ],
+                        "img": {
+                          "@alt": "Helsingin poliisin rikosylitarkastaja Markku Heinikari.",
+                          "@class": "sc-dcKlJK fTKhMH",
+                          "@loading": "lazy",
+                          "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_3193,w_5677,x_0,y_217/ar_1.7777777777777777,c_fill,g_faces,h_493,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1745847417/39-1456862680f36afdc6f9"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "sc-bpuAaX bNVMPp",
+                      "button": {
+                        "@aria-busy": "false",
+                        "@aria-disabled": "false",
+                        "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                        "span": {
+                          "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                          "#text": "Avaa kuvien katselu"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "figcaption": {
+                "@class": "sc-fsjlER icGrCJ",
+                "span": [
+                  "Rikosylitarkastaja Markku Heinikari kertoi Ylelle, miksi poliisin mukaan vähäisiä näpistyksiä on tärkeä tutkia.",
+                  "Kuva: Juha Kivioja / Yle"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Maalaisjärjellä näitä asioita hoidetaan, mutta tässä [näpistysten tutkinnassa] meillä oli selkeästi parantamisen paikka, Heinikari toteaa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "div": {
+              "@class": "sc-cSdmCa gRQRTX yle__article__infogram",
+              "div": {
+                "@class": "infogram-embed",
+                "@data-id": "d3ee9975-366c-4b2d-a70e-1c2b31a577cb",
+                "@data-title": "",
+                "@data-type": "interactive"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "31-vuotias Jimi asioi viime vuoden lokakuussa Vallilan S-marketissa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Jimi nappasi kaupasta oluttölkin ja piilotti sen vaatteisiinsa. Kun Jimi oli ohittanut kassan, vartija otti hänet kiinni."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Kaupasta soitettiin hätäkeskukseen, ja pian poliisipartio tuli paikalle."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Jimi kuulusteltiin partioautossa. Hän myönsi syyllistyneensä näpistykseen."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Helsingin poliisi käynnisti esitutkinnan, johon kirjattiin muun muassa se, että Jimillä oli kuusi aikaisempaa näpistystä vuoden sisällä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Kun poliisin tutkinta valmistui, se lähetettiin syyttäjälle."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Syyttäjä ei nostanut syytettä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Epäiltyä rikosta on kokonaisuutena arvostellen pidettävä vähäisenä, syyttäjä totesi päätöksessään."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo ljOqPD",
+            "figure": {
+              "@class": "sc-jnflPq gibcrQ yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20154994\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Helsingin poliisi alkoi tutkia viime vuonna entistä enemmän näpistysjuttuja.\",\"name\":\"Näpistykset Helsingin poliisi\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-67-6700470c15e3445ab41a02c09fe0f0cf\",\"uploadDate\":\"2025-04-28T14:32:47+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74354659\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+                "div": {
+                  "div": {
+                    "@class": "sc-icsLOd deQvTQ",
+                    "@data-testid": "video-player"
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "h2": {
+              "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+              "#text": "Syyttäjä on eri mieltä kuin poliisi"
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Etelä-Suomen syyttäjäalueen apulaispäällikkö Tero Kekki on sitä mieltä, että yhteiskunta ei saa antaa sellaista viestiä, että näpistysrikoksia katsotaan sormien läpi."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Siksi sarjanäpistelijöiden vähäisetkin näpistysepäilyt on hänen mukaansa usein syytä tutkia."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Siitä huolimatta Helsingin poliisi tutkii tällä hetkellä sellaisia näpistyksiä, jotka voitaisiin jättää tutkimatta, sanoo Kekki."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Käsityksemme on, että esitutkinnan rajoittamismenettelyä voitaisiin käyttää enemmän."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Eli tutkintoja voitaisiin lopettaa?"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Kyllä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Katso video, jolla syyttäjä kertoo, mitä sarjanäpistelijät vievät eniten myymälöistä:"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "figure": {
+              "@class": "sc-jnflPq gibcrQ yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20154994\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Apulaispäällikkö Tero Kekki kertoo sarjanäpistyksistä.\",\"name\":\"Syyttäjä kertoo sarjanäpistelijöistä\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/39-1456864680f36c7f2a3f\",\"uploadDate\":\"2025-04-30T17:23:07+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74392424\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-lcsTPt lbLrnE bHdoZp",
+                "div": {
+                  "div": {
+                    "@class": "sc-icsLOd deQvTQ",
+                    "@data-testid": "video-player"
+                  }
+                }
+              },
+              "figcaption": {
+                "@class": "sc-fsjlER icGrCJ",
+                "span": "Apulaispäällikkö Tero Kekki kertoo sarjanäpistyksistä."
+              }
+            }
+          }
+        }
+      ]
+    },
+    "footer": {
+      "@class": "yle__article__footer",
+      "div": {
+        "@class": "sc-kKWcMV jnGIFw",
+        "div": {
+          "@class": "sc-bpEFQo kNxGxn",
+          "div": {
+            "@class": "sc-eLbqow iOsXZW",
+            "h2": [
+              {
+                "@class": "sc-gGarWV itlDVR yle__article__heading yle__article__heading--3",
+                "#text": "Tekijät"
+              },
+              {
+                "@class": "sc-eQkCLH dsmTJG",
+                "#text": "Aiheesta enemmän: Paketissa 1 linkki"
+              },
+              {
+                "@aria-hidden": "true",
+                "@class": "sc-gGarWV itlDVR yle__article__heading yle__article__heading--3",
+                "#text": "Aiheesta enemmän"
+              }
+            ],
+            "div": [
+              {
+                "@class": "sc-ckzTOx ccphMP",
+                "div": [
+                  {
+                    "@class": "sc-hHwaUx cAMGoR",
+                    "span": [
+                      {
+                        "@class": "sc-bGQaqj klbnav",
+                        "#text": "Teksti\n        \n        :"
+                      },
+                      {
+                        "@class": "sc-feJtxQ kjtsHA",
+                        "#text": "Päivi Happonen"
+                      }
+                    ]
+                  },
+                  {
+                    "@class": "sc-hHwaUx cAMGoR",
+                    "span": [
+                      {
+                        "@class": "sc-bGQaqj klbnav",
+                        "#text": "Kuvat ja videot\n        \n        :"
+                      },
+                      {
+                        "@class": "sc-feJtxQ kjtsHA",
+                        "#text": "Juha Kivioja"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@class": "sc-hjWhcS leSngs"
+              },
+              {
+                "@aria-label": "Aiheesta enemmän",
+                "@class": "yle__article__links",
+                "@role": "list",
+                "div": {
+                  "@class": "sc-deTYHS espHEt",
+                  "@role": "listitem",
+                  "div": {
+                    "@class": "sc-kKyYz jzXcOB",
+                    "div": [
+                      {
+                        "@class": "sc-gAOUPA gZmIaQ",
+                        "div": {
+                          "@class": "sc-eJNWfD hzBpgx",
+                          "div": [
+                            {
+                              "@class": "sc-fjohHk glKee",
+                              "a": {
+                                "@aria-label": "Lisää artikkeleita aiheesta Poliisi",
+                                "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                                "@href": "https://yle.fi/t/18-213947/fi",
+                                "#text": "Poliisi"
+                              }
+                            },
+                            {
+                              "@class": "sc-eQkCLH dsmTJG",
+                              "time": {
+                                "@class": "sc-geTSWJ dUzrQh",
+                                "@datetime": "2025-03-12T10:58:38+02:00",
+                                "#text": "Julkaistu\n            \n            \n            12.3.2025"
+                              }
+                            }
+                          ],
+                          "h3": {
+                            "@class": "sc-bNtlzC eGiYeo",
+                            "a": {
+                              "@class": "sc-ifISnl hcDWQv",
+                              "@href": "https://yle.fi/a/74-20144649",
+                              "#text": "Ainakin kahdeksan poliisia on irtisanoutunut Helsingin poliisista – Sari kertoo Ylelle, miksi lähti"
+                            }
+                          },
+                          "time": {
+                            "@aria-hidden": "true",
+                            "@class": "sc-hwcCMm eGomKG",
+                            "#text": "12.3."
+                          }
+                        }
+                      },
+                      {
+                        "@class": "sc-dGFvgh hggeEO",
+                        "div": {
+                          "@class": "sc-glqzCN hqchfN",
+                          "div": {
+                            "@class": "sc-jScdur jHArTB",
+                            "picture": {
+                              "source": [
+                                {
+                                  "@data-testid": "source-for-S",
+                                  "@media": "(max-width: 767px)",
+                                  "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3648,w_3648,x_0,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1739957476/39-142424467b5a3e55326d 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3648,w_3648,x_0,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1739957476/39-142424467b5a3e55326d 1x"
+                                },
+                                {
+                                  "@data-testid": "source-for-M",
+                                  "@media": "(min-width: 768px)",
+                                  "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3078,w_5472,x_0,y_367/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1739957476/39-142424467b5a3e55326d 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3078,w_5472,x_0,y_367/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1739957476/39-142424467b5a3e55326d 1x"
+                                }
+                              ],
+                              "img": {
+                                "@alt": "Poliisin ajoneuvo seisoo lumisella aukiolla.",
+                                "@class": "sc-dcKlJK fTKhMH",
+                                "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_3078,w_5472,x_0,y_367/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1739957476/39-142424467b5a3e55326d"
+                              }
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              },
+              {
+                "div": {
+                  "@class": "sc-hZARmv bNLDLe",
+                  "a": [
+                    {
+                      "@aria-label": "Lisää artikkeleita aiheesta Rikokset",
+                      "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                      "@href": "https://yle.fi/t/18-217206/fi",
+                      "#text": "Rikokset"
+                    },
+                    {
+                      "@aria-label": "Lisää artikkeleita aiheesta Poliisi",
+                      "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                      "@href": "https://yle.fi/t/18-213947/fi",
+                      "#text": "Poliisi"
+                    },
+                    {
+                      "@aria-label": "Lisää artikkeleita aiheesta Rikosepäilyt",
+                      "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                      "@href": "https://yle.fi/t/18-340121/fi",
+                      "#text": "Rikosepäilyt"
+                    }
+                  ],
+                  "div": {
+                    "@class": "sc-dKKIkQ dfGXgP",
+                    "button": {
+                      "@aria-busy": "false",
+                      "@aria-disabled": "false",
+                      "@aria-label": "Näytä kaikki aiheet",
+                      "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-3 jmqUl dhtMex",
+                      "span": {
+                        "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 hvskzw dXmWOo yds-button__icon",
+                        "svg": {
+                          "@aria-hidden": "true",
+                          "@class": "sc-fpEFIB cluDHh",
+                          "@fill": "none",
+                          "@height": "24",
+                          "@viewbox": "0 0 24 24",
+                          "@width": "24",
+                          "path": {
+                            "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                            "@fill": "currentColor"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

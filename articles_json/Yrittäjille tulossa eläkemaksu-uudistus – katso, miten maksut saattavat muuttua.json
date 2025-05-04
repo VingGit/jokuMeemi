@@ -1,0 +1,625 @@
+{
+  "article": {
+    "@class": "yle__article arkki-theme-default",
+    "@data-vrsproduct": "uutiset",
+    "header": {
+      "@class": "yle__article__header",
+      "div": [
+        {
+          "@class": "sc-dbVXhp cBCGOO",
+          "a": {
+            "@aria-label": "Lisää artikkeleita aiheesta Työelämä",
+            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+            "@href": "https://yle.fi/t/18-218737/fi",
+            "#text": "Työelämä"
+          }
+        },
+        {
+          "@class": "sc-lpbaSe cwlsYQ",
+          "ul": {
+            "@aria-label": "Tekijä",
+            "@class": "sc-cNFqVt gmcymk",
+            "li": {
+              "@class": "sc-fpgwy dVrUIC",
+              "span": {
+                "@class": "sc-dZEakj krffzS",
+                "#text": "Pekka Pantsu"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-eAZzZC cUksiH",
+          "div": {
+            "@class": "sc-bTPSfG himLlc yle__article__date",
+            "time": [
+              {
+                "@class": "sc-geTSWJ dUzrQh yle__article__date--published",
+                "@datetime": "2025-05-04T06:45:35+03:00",
+                "#text": "6:45"
+              },
+              {
+                "@class": "sc-geTSWJ dUzrQh yle__article__date--modified",
+                "@datetime": "2025-05-04T08:13:53+03:00",
+                "#text": "Päivitetty\n     \n     \n     8:13"
+              }
+            ],
+            "span": {
+              "@aria-hidden": "true",
+              "@class": "sc-diziqI dgaCq",
+              "#text": "•"
+            }
+          }
+        },
+        {
+          "@class": "sc-cbJLzd fQlwJR",
+          "button": {
+            "@class": "sc-goJFMH hdACns",
+            "@data-testid": "default-article-audio-placeholder",
+            "span": [
+              {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-1 EPLBc dgcsOm",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 ruUVE dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@clip-rule": "evenodd",
+                      "@d": "M5.52 2.122a1 1 0 0 1 1.02.037l14 9a1 1 0 0 1 0 1.682l-14 9A1 1 0 0 1 5 21V3a1 1 0 0 1 .52-.878",
+                      "@fill": "currentColor",
+                      "@fill-rule": "evenodd"
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "sc-jgGpnn laJhEh",
+                "#text": "Kuuntele juttu 6:36"
+              }
+            ]
+          },
+          "div": [
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jweKAa gPvEkW",
+              "div": {
+                "@data-testid": "default-article-audio-player"
+              }
+            },
+            {
+              "@class": "sc-ecBcpz fdHQgB"
+            }
+          ]
+        }
+      ],
+      "h1": {
+        "@class": "sc-ifkGpL jgDrMU yle__article__heading yle__article__heading--1",
+        "#text": "Yrittäjille tulossa eläkemaksu-uudistus – katso, miten maksut saattavat muuttua"
+      },
+      "p": {
+        "@class": "sc-kiMgGE sc-dCVDEO eQvHnw hjdIYW yle__article__paragraph",
+        "#text": "Selvityshenkilö valmistelee muutoksia yrittäjien eläkejärjestelmään."
+      },
+      "figure": {
+        "@class": "sc-jnflPq edfVsP yle__article__figure",
+        "script": {
+          "@type": "application/ld+json",
+          "#text": "{\"@id\":\"74-20158482\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Helsinkiläinen kampaamoyrittäjä Maria Sellman kampaa Tessa Mareenin hiuksia.\",\"copyrightHolder\":\"Karoliina Juntunen / Yle\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-145848968122ee99aae7\",\"keywords\":\"parturit ja kampaamot,kampaajat\"}}"
+        },
+        "div": {
+          "@class": "sc-jxyWrI sc-lcsTPt lbLrnE hUpsZg",
+          "div": {
+            "@class": "sc-gDVcuj lnQPSU",
+            "div": [
+              {
+                "@class": "sc-jScdur jHArTB",
+                "picture": {
+                  "source": [
+                    {
+                      "@data-testid": "source-for-S",
+                      "@media": "(max-width: 767px)",
+                      "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746022444/39-145848968122ee99aae7 2x,https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746022444/39-145848968122ee99aae7 1x"
+                    },
+                    {
+                      "@data-testid": "source-for-M",
+                      "@media": "(min-width: 768px)",
+                      "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_424,w_636/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746022444/39-145848968122ee99aae7 2x,https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_424,w_636/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746022444/39-145848968122ee99aae7 1x"
+                    }
+                  ],
+                  "img": {
+                    "@alt": "Kampaamon peilinkautta näkyy, että kampaaja kampaa asiakkaan hiuksia. ",
+                    "@class": "sc-dcKlJK fTKhMH",
+                    "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_3375,w_6000,x_0,y_99/ar_1.7777777777777777,c_fill,g_faces,h_431,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746022444/39-145848968122ee99aae7"
+                  }
+                }
+              },
+              {
+                "@class": "sc-bpuAaX bNVMPp",
+                "button": {
+                  "@aria-busy": "false",
+                  "@aria-disabled": "false",
+                  "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                  "span": {
+                    "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                    "#text": "Avaa kuvien katselu"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "figcaption": {
+          "@class": "sc-fsjlER icGrCJ",
+          "span": [
+            "Helsinkiläinen kampaamoyrittäjä Maria Sellman kampaa Tessa Mareenin hiuksia.",
+            "Kuva: Karoliina Juntunen / Yle"
+          ]
+        }
+      }
+    },
+    "section": {
+      "@class": "yle__article__content",
+      "aside": {
+        "@aria-label": "Faktalaatikko",
+        "@class": "sc-dHZbTr elfWKD yle__article__aside",
+        "div": {
+          "@class": "sc-fCdovG cBYAnR",
+          "div": {
+            "@class": "sc-kEzwgR fPyzjh",
+            "h2": {
+              "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+              "#text": "Juttu tiivistettynä"
+            },
+            "div": [
+              {
+                "@aria-hidden": "true",
+                "@class": "sc-bjhZkk duimeV",
+                "@id": ":Rppbcq:",
+                "div": {
+                  "@inert": "",
+                  "@tabindex": "-1",
+                  "ul": {
+                    "@class": "sc-bpSLYx eYdtXb yle__article__list yle__article__list--ul",
+                    "li": [
+                      {
+                        "@class": "sc-djWYAM ifbBJP",
+                        "#text": "Yli 16 000 yritystä lopetti toimintansa vuoden 2024 viimeisellä neljänneksellä."
+                      },
+                      {
+                        "@class": "sc-djWYAM ifbBJP",
+                        "#text": "Yrittäjien eläkemaksujen kiristynyt valvonta on yksi syy lopettamisiin ja konkursseihin, sanovat yrittäjien etujärjestöt."
+                      },
+                      {
+                        "@class": "sc-djWYAM ifbBJP",
+                        "#text": "Hallitus suunnittelee muutoksia eläkemaksuihin. Yksi mahdollisuus on, että ne määräytyvät jatkossa todellisten tulojen mukaan."
+                      },
+                      {
+                        "@class": "sc-djWYAM ifbBJP",
+                        "#text": "Hallitus suunnittelee muutoksia YEL-järjestelmään vuoteen 2029 mennessä."
+                      }
+                    ]
+                  },
+                  "p": {
+                    "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+                    "a": {
+                      "@class": "sc-iCmUMC eAECGk yle__article__link",
+                      "@href": "https://yle.fi/a/74-20128257",
+                      "@role": "link",
+                      "#text": "Pidätkö tiivistelmistä? Anna palautetta"
+                    },
+                    "#text": "Tämä on tekoälyn avulla tuotettu, toimittajan tarkistama tiivistelmä.\n        \n        ."
+                  }
+                }
+              },
+              {
+                "@class": "sc-dBCvnn ikgDRX",
+                "div": {
+                  "button": {
+                    "@aria-busy": "false",
+                    "@aria-controls": ":Rppbcq:",
+                    "@aria-disabled": "false",
+                    "@aria-expanded": "false",
+                    "@aria-label": "Avaa Faktalaatikko",
+                    "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                    "span": [
+                      {
+                        "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                        "#text": "Avaa"
+                      },
+                      {
+                        "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 iSKgjw dXmWOo yds-button__icon",
+                        "svg": {
+                          "@aria-hidden": "true",
+                          "@class": "sc-fvGHPC iXleOz",
+                          "@fill": "none",
+                          "@height": "24",
+                          "@viewbox": "0 0 24 24",
+                          "@width": "24",
+                          "path": {
+                            "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                            "@fill": "currentColor"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "p": [
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Yksinyrittäjillä on nyt kovat ajat. Tilastokeskuksen mukaan vuoden 2024 viimeisellä neljänneksellä toimintansa lopetti yli 16 000 yritystä, mikä on kaksinkertainen määrä edellisvuoteen verrattuna."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Iso osa lopettaneista yrityksistä on yksinyrittäjien firmoja. Yksi syy vaikeuksiin on yrittäjien eläkemaksujen kiristynyt valvonta. Pitkään se olikin käytännössä olematonta."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Jo 1970-luvulta lähtien yrittäjät ovat voineet käytännössä määritellä itse, miten paljon he maksavat eläkemaksuja. Pari vuotta sitten valvontaa muutettiin."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Liisa Hanén"
+          },
+          "#text": "– On palattu tiukkaan lain tulkintaan, mistä on seurannut todella paljon vaikeuksia yrityksille. Vaikka siinä on hyvä suojasääntö, ettei saa kerralla nostaa maksua paljon, niin nostot ovat jo ajaneet yrittäjiä vaikeuksiin ja tuhansien lopettamisiin ja konkursseihin, kuvaa tilannetta Mikro- ja yksinyrittäjien etujärjestön toiminnanjohtaja\n   \n   ."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Selvityshenkilö ehdottaa loppusyksystä vaihtoehtoja yrittäjien eläkemaksujen muuttamiseksi."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Yrittäjät kartuttavat omaa tulevaa eläkettään maksamalla eläkemaksuja tuloistaan siinä kuin palkansaajatkin, joskin he maksavat sen kokonaan itse ja ovat voineet sen suuruuttakin itse käytännössä säätää, vaikka se ei ihan lainmukaista ole ollutkaan."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Näin toimittiin vuosikausia. Syntyi ikään kuin maan tapa, joka oli mahdollista, koska työeläkeyhtiöt eivät sitä juuri valvoneet, Pentikäinen kuvaa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Pykälien mukaan yrittäjän eläkemaksu on pitkään määritelty pääsääntöisesti yrittäjän liikevaihdon ja saman alan palkansaajan mediaanipalkan perusteella."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Kaavamainen laskutapa on Hanénin mukaan merkinnyt monelle yrittäjälle liian kovaa eläkemaksua yrityksen maksukykyyn suhteutettuna. Hanénin mukaan se voi olla erityisesti aloittavien yrittäjien ja startupien ongelma, koska tuloja voi alkuvaiheessa kertyä niukasti tai ei ollenkaan."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Heikko taloustilannekin vähentää asiakkaita ja sitä kautta tuloja."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Tyypillisesti pienituloinen yksinyrittäjä, kuten hieroja tienaa noin 2 000 euroa kuukaudessa bruttona. Nykyjärjestelmän mukaan hänen pitäisi maksaa siitä YEL-eläkemaksua noin 600 euroa kuukaudessa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Jokainen ymmärtää, että parin tonnin kuukausituloista on aika paha maksaa 600 euroa kuukaudessa säännöllisesti joka ikinen kuukausi oli oikeasti tuloja tai ei, Hanén sanoo."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Yrittäjät ovat käytännössä maksaneet selvästi vähemmän, esimerkiksi 200-300 euroa kuussa, koska sen suurempaan eläkemaksuun ei ole ollut varaa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Tämä on johtanut tietenkin alivakuuttamiseen, mikä on oikeasti tosi iso ongelma sekä valtion että yksilön näkökulmasta, Hanén sanoo."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Yrittäjälle se tarkoittaa Hanénin mukaan huonoa eläkettä ja surkeaa sosiaaliturvaa, kun maksetaan liian pieniä maksuja. Esimerkiksi kampaamoyrittäjän eläke voi jäädä vajaaseen 2000 euroon kuussa eli alle palkansaajan keskieläkkeen."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Valtion näkökulmasta nykytilanne taas tarkoittaa sitä valitettavaa asiaa, että valtion pitää joka vuosi maksaa 500 miljoonaa euroa eläkkeellä olevien yrittäjien eläkkeitä."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Maksut todellisten tulojen mukaan. Jos tässä kuussa yrittäjän tulot ovat nolla, eläkemaksua ei makseta. Jos ensi kuussa yrittäjä saa 10 000 euron tulot, eläkemaksut maksetaan sen mukaan."
+          }
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Hanénin mukaan tämä olisi reiluin vaihtoehto."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Maksut todellisten tulojen mukaan, mutta pohjalla on jonkinlainen minimimaksu."
+          }
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Pelkkä minimimaksu, jonka päälle yrittäjä saa valita itselleen mieluisimman eläketurvan."
+          }
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Mikael Pentikäinen"
+          },
+          "#text": "– On oikein, että yrittäjätkin maksavat eläkemaksua, mutta sen pakollisen vakuuttamisen alarajan yläpuolella yrittäjällä pitäisi olla mahdollisimman suuri vapaus päättää itse oma eläkemaksunsa ja sitä kautta oma eläketurvansa ja sosiaaliturvansa taso, Suomen Yrittäjien toimitusjohtaja\n   \n   sanoo."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Tiedämme, että tämä malli olisi hyvin laajalti yrittäjäkunnan mieleen."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Videolla Suomen hiusyrittäjien puheenjohtaja Sini Silfvenius-Bart kertoo yrittäjille sopivasta mallista eläkemaksuksi:"
+          }
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Hallitus linjasi puoliväliriihessään jo raameja uudistukselle. Muutokset tulisivat voimaan vuonna 2029: ”Valmistellaan YEL-järjestelmään muutoksia siten, että yrittäjien eläkemaksu määräytyy nykyistä selkeämmin yrittäjän todellisten tulojen mukaan.”"
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Hanén on tyytyväinen linjaukseen, Pentikäinen ei."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Ratkaisulla on varmaan hyvä tarkoitus, mutta se herättää todella ison kysymyksen siitä, mitä ovat yrittäjän todelliset tulot, Pentikäinen kysyy."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Miten esimerkiksi osakeyhtiöyrittäjällä huomioidaan osinkotulot. Ovatko ne osa todellisia tuloja, ja jos niistä pitää ruveta maksamaan eläkemaksuja, niin tässä uhkaa tämmöinen eläkemaksupommi monia yrittäjiä, Pentikäinen huomauttaa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Pentikäisen mielestä tähän pitää saada tolkku ja selvyys mahdollisimman nopeasti."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Jukka Rantalan"
+          },
+          "#text": "Selvityshenkilö\n   \n   on määrä saada selvityksensä valmiiksi marraskuun loppuun mennessä."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Onko sinulla meille juttuvinkki? Voit lähestyä toimitusta luottamuksella"
+          }
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Halutessasi voit olla yhteydessä myös sähköpostilla osoitteeseen tuomo.bjorksten@yle.fi. Luemme kaikki yhteydenotot, mutta emme pysty takaamaan jokaiselle henkilökohtaista vastausta."
+        }
+      ],
+      "div": {
+        "@class": "sc-cSdmCa gRQRTX yle__article__infogram",
+        "div": {
+          "@class": "infogram-embed",
+          "@data-id": "d12a1930-835e-4495-b5e7-2d388284aa0d",
+          "@data-title": "",
+          "@data-type": "interactive"
+        }
+      },
+      "h2": [
+        {
+          "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+          "#text": "Näin eläkemaksut lasketaan nyt"
+        },
+        {
+          "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+          "#text": "Näin maksuja mahdollisesti muutetaan"
+        },
+        {
+          "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+          "#text": "Iso kysymys: miten yrittäjän tulot määritellään?"
+        }
+      ],
+      "figure": [
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20158482\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Liisa Hanén on Mikro- ja yksinyrittäjien etujärjestön toiminnanjohtaja.\",\"copyrightHolder\":\"Leena Louhivaara\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_1.4640792733278283,c_fill,g_faces,h_523,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-145837968121b6c586ba\",\"keywords\":\"yrittäjät\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE eeZjWs",
+            "div": {
+              "@class": "sc-gDVcuj lnQPSU",
+              "div": [
+                {
+                  "@class": "sc-jScdur jHArTB",
+                  "picture": {
+                    "source": [
+                      {
+                        "@data-testid": "source-for-S",
+                        "@media": "(max-width: 767px)",
+                        "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.4640792733278283,c_fill,g_faces,h_523,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746017220/39-145837968121b6c586ba 2x,https://images.cdn.yle.fi/image/upload/ar_1.4640792733278283,c_fill,g_faces,h_523,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746017220/39-145837968121b6c586ba 1x"
+                      },
+                      {
+                        "@data-testid": "source-for-M",
+                        "@media": "(min-width: 768px)",
+                        "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.4640792733278283,c_fill,g_faces,h_434,w_636/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746017220/39-145837968121b6c586ba 2x,https://images.cdn.yle.fi/image/upload/ar_1.4640792733278283,c_fill,g_faces,h_434,w_636/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746017220/39-145837968121b6c586ba 1x"
+                      }
+                    ],
+                    "img": {
+                      "@alt": "Keski-ikäinen nainen värikkäässä kukkapaidassa. ",
+                      "@class": "sc-dcKlJK fTKhMH",
+                      "@loading": "lazy",
+                      "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2991,w_5319,x_0,y_164/ar_1.7777777777777777,c_fill,g_faces,h_431,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746017220/39-145837968121b6c586ba"
+                    }
+                  }
+                },
+                {
+                  "@class": "sc-bpuAaX bNVMPp",
+                  "button": {
+                    "@aria-busy": "false",
+                    "@aria-disabled": "false",
+                    "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                    "span": {
+                      "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                      "#text": "Avaa kuvien katselu"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": [
+              "Liisa Hanén on Mikro- ja yksinyrittäjien etujärjestön toiminnanjohtaja.",
+              "Kuva: Leena Louhivaara"
+            ]
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20158482\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Suomen Yrittäjien toimitusjohtaja Mikael Pentikäinen.\",\"copyrightHolder\":\"Jukka Lehto / Yle\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-1455824680b4bd272f64\",\"keywords\":\"Suomen Yrittäjät,yrittäjyys,yrittäjät,yritystoiminta,yrittäjäjärjestöt\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE hUpsZg",
+            "div": {
+              "@class": "sc-gDVcuj lnQPSU",
+              "div": [
+                {
+                  "@class": "sc-jScdur jHArTB",
+                  "picture": {
+                    "source": [
+                      {
+                        "@data-testid": "source-for-S",
+                        "@media": "(max-width: 767px)",
+                        "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1745571342/39-1455824680b4bd272f64 2x,https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1745571342/39-1455824680b4bd272f64 1x"
+                      },
+                      {
+                        "@data-testid": "source-for-M",
+                        "@media": "(min-width: 768px)",
+                        "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_424,w_636/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1745571342/39-1455824680b4bd272f64 2x,https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_424,w_636/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1745571342/39-1455824680b4bd272f64 1x"
+                      }
+                    ],
+                    "img": {
+                      "@alt": "Suomen yrittäjien puheenjohtaja Mikael Pentikäinen toimitilan aulassa.",
+                      "@class": "sc-dcKlJK fTKhMH",
+                      "@loading": "lazy",
+                      "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_3942,w_7008,x_0,y_146/ar_1.7777777777777777,c_fill,g_faces,h_431,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1745571342/39-1455824680b4bd272f64"
+                    }
+                  }
+                },
+                {
+                  "@class": "sc-bpuAaX bNVMPp",
+                  "button": {
+                    "@aria-busy": "false",
+                    "@aria-disabled": "false",
+                    "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                    "span": {
+                      "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                      "#text": "Avaa kuvien katselu"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": [
+              "Suomen Yrittäjien toimitusjohtaja Mikael Pentikäinen.",
+              "Kuva: Jukka Lehto / Yle"
+            ]
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20158482\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Suomen hiusyrittäjien puheenjohtaja Sini Silfvenius-Bart kertoo yrittäjille sopivasta mallista eläkemaksuksi.\",\"name\":\"Hiusyrittäjät kertoo sopivasta eläkemaksusta\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/39-145839768121fa36c971\",\"uploadDate\":\"2025-05-02T14:12:40+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74400212\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE bHdoZp",
+            "div": {
+              "div": {
+                "@class": "sc-icsLOd deQvTQ",
+                "@data-testid": "video-player"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "footer": {
+      "@class": "yle__article__footer",
+      "div": [
+        {
+          "@class": "sc-hjWhcS leSngs"
+        },
+        {
+          "div": {
+            "@class": "sc-hZARmv bNLDLe",
+            "a": [
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Työelämä",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-218737/fi",
+                "#text": "Työelämä"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Yrittäjyys",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-219252/fi",
+                "#text": "Yrittäjyys"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Verotus",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-212449/fi",
+                "#text": "Verotus"
+              }
+            ],
+            "div": {
+              "@class": "sc-dKKIkQ dfGXgP",
+              "button": {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@aria-label": "Näytä kaikki aiheet",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-3 jmqUl dhtMex",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 hvskzw dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@class": "sc-fpEFIB cluDHh",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                      "@fill": "currentColor"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

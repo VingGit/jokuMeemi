@@ -1,0 +1,1587 @@
+{
+  "article": {
+    "@class": "yle__article arkki-theme-default",
+    "@data-vrsproduct": "uutiset",
+    "header": {
+      "@class": "yle__article__header",
+      "div": [
+        {
+          "@class": "sc-djyMRm dUQDpo",
+          "figure": {
+            "@class": "sc-jnflPq hiwDpk yle__article__figure",
+            "script": {
+              "@type": "application/ld+json",
+              "#text": "{\"@id\":\"74-20158422\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"George Simionin Tiktok-videot ovat vauhdikkaita ja välillä rehvakkaitakin. Lähde: Tiktok / @robertuleia\",\"name\":\"Pääkuvavideo Romanian poliitikot TikTokissa\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-67-e0ff17dae7304aefa46804be328bab7b\",\"uploadDate\":\"2025-04-29T16:49:00+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74362335\"}}"
+            },
+            "div": {
+              "@class": "sc-jxyWrI sc-lcsTPt lbLrnE bHdoZp",
+              "div": {
+                "div": {
+                  "@class": "sc-icsLOd deQvTQ",
+                  "@data-testid": "video-player"
+                }
+              }
+            },
+            "figcaption": {
+              "@class": "sc-fsjlER jsHqVi",
+              "span": "George Simionin Tiktok-videot ovat vauhdikkaita ja välillä rehvakkaitakin. Lähde: Tiktok / @robertuleia"
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "div": [
+              {
+                "@class": "sc-hAZuot jzsrSZ",
+                "div": {
+                  "@class": "sc-eEEJIs bIoUXJ",
+                  "a": {
+                    "@aria-label": "Lisää artikkeleita aiheesta Vaalit",
+                    "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                    "@href": "https://yle.fi/t/18-218195/fi",
+                    "#text": "Vaalit"
+                  },
+                  "h1": {
+                    "@class": "sc-dpVtxq esLfzP yle__article__heading yle__article__heading--1",
+                    "#text": "Romaniassa on uudet vaalit Venäjän Tiktok-kampanjan takia, mutta likainen peli jatkuu"
+                  }
+                }
+              },
+              {
+                "@class": "sc-cbJLzd AyXGI",
+                "div": {
+                  "@class": "sc-gklEHm GuNCl",
+                  "button": {
+                    "@class": "sc-ctzWlN gMnUWl",
+                    "span": [
+                      {
+                        "@aria-busy": "false",
+                        "@aria-disabled": "false",
+                        "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-1 EPLBc dgcsOm",
+                        "span": {
+                          "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 ruUVE dXmWOo yds-button__icon",
+                          "svg": {
+                            "@aria-hidden": "true",
+                            "@fill": "none",
+                            "@height": "24",
+                            "@viewbox": "0 0 24 24",
+                            "@width": "24",
+                            "path": {
+                              "@clip-rule": "evenodd",
+                              "@d": "M5.52 2.122a1 1 0 0 1 1.02.037l14 9a1 1 0 0 1 0 1.682l-14 9A1 1 0 0 1 5 21V3a1 1 0 0 1 .52-.878",
+                              "@fill": "currentColor",
+                              "@fill-rule": "evenodd"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "@class": "sc-kMAVeI qZhVm",
+                        "#text": "Kuuntele juttu"
+                      }
+                    ]
+                  },
+                  "div": {
+                    "@aria-hidden": "true",
+                    "@class": "sc-iOQeA-D lnQvwX",
+                    "div": {
+                      "@class": "sc-fSvtUC iYmpUq",
+                      "div": {
+                        "@data-testid": "feature-article-audio-player"
+                      },
+                      "p": {
+                        "@class": "sc-wPObs dnUrWI",
+                        "a": {
+                          "@class": "sc-iEQsMV kcjgne",
+                          "@href": "https://yle.fi/aihe/a/20-10006416",
+                          "#text": "Lue lisää."
+                        },
+                        "#text": "Jutun lukee koneääni."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "sc-eAZzZC cddaUL",
+                "div": [
+                  {
+                    "@class": "sc-bTPSfG himLlc yle__article__date",
+                    "time": {
+                      "@class": "sc-geTSWJ dUzrQh yle__article__date--published",
+                      "@datetime": "2025-05-04T07:10:35+03:00",
+                      "#text": "7:10"
+                    }
+                  },
+                  {
+                    "@class": "sc-gmqedr nAbId",
+                    "div": [
+                      {
+                        "@class": "sc-bxjEGZ bXPeTQ",
+                        "button": {
+                          "@aria-busy": "false",
+                          "@aria-disabled": "false",
+                          "@aria-label": "Näytä kaikki tekijät",
+                          "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-3 BoVdS dhtMex",
+                          "span": [
+                            {
+                              "@class": "ydscr__sc-17sr1bx-7 nXrdS yds-button__text",
+                              "#text": "Tekijät"
+                            },
+                            {
+                              "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 hvskzw dXmWOo yds-button__icon",
+                              "svg": {
+                                "@aria-hidden": "true",
+                                "@fill": "none",
+                                "@height": "24",
+                                "@viewbox": "0 0 24 24",
+                                "@width": "24",
+                                "path": {
+                                  "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                                  "@fill": "currentColor"
+                                }
+                              }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "@class": "sc-ckzTOx fftJpj",
+                        "div": [
+                          {
+                            "@class": "sc-hHwaUx cAMGoR",
+                            "span": [
+                              {
+                                "@class": "sc-bGQaqj klbnav",
+                                "#text": "Teksti\n         \n         :"
+                              },
+                              {
+                                "@class": "sc-feJtxQ kjtsHA",
+                                "#text": "Teemu Juhola"
+                              }
+                            ]
+                          },
+                          {
+                            "@class": "sc-hHwaUx cAMGoR",
+                            "span": [
+                              {
+                                "@class": "sc-bGQaqj klbnav",
+                                "#text": "Videot\n         \n         :"
+                              },
+                              {
+                                "@class": "sc-feJtxQ kjtsHA",
+                                "#text": "Jukka Koski"
+                              }
+                            ]
+                          },
+                          {
+                            "@class": "sc-hHwaUx cAMGoR",
+                            "span": [
+                              {
+                                "@class": "sc-bGQaqj klbnav",
+                                "#text": "Grafiikka\n         \n         :"
+                              },
+                              {
+                                "@class": "sc-feJtxQ kjtsHA",
+                                "#text": "Juha Rissanen"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "p": {
+              "@class": "sc-kiMgGE sc-dCVDEO idXkML fbeREN yle__article__paragraph",
+              "#text": "Marraskuisten vaalien tulos mitätöitiin, koska Venäjän epäillään sekaantuneen vaaleihin somekampanjalla ja kyberhyökkäyksillä."
+            }
+          }
+        }
+      ]
+    },
+    "section": {
+      "@class": "yle__article__content",
+      "div": [
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Romania on ainoa EU-maa, jossa presidentinvaalien tulos on jouduttu mitätöimään ulkovallan vaaleihin sekaantumisen takia."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": [
+                {
+                  "@class": "sc-fGdmel gJEGys yle__article__strong",
+                  "#text": "Putin"
+                },
+                {
+                  "@class": "sc-fGdmel gJEGys yle__article__strong",
+                  "#text": "Călin Georgescu"
+                }
+              ],
+              "#text": "-mielinen laitaoikeiston ehdokas\n     \n     voitti presidentinvaalien ensimmäisen kierroksen täysin yllättäen marraskuussa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Romanian perustuslakituomioistuin mitätöi tulokset Venäjän epäillyn vaaleihin sekaantumisen takia pari viikkoa myöhemmin."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Tuntemattomuudesta ponnahtanut Georgescu oli saanut 23 prosentin kannatuksen. Georgescu ei omien sanojensa mukaan käyttänyt lainkaan rahaa kampanjaan eikä kampanjoinut perinteisessä mielessä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Iso osa kampanjaa oli massiivinen somevyörytys. Juuri ennen vaaleja Georgescu alkoi saada rakettimaisesti huomiota kiinalaisomisteisessa videopalvelu Tiktokissa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "figure": {
+              "@class": "sc-jnflPq ftRZcg yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20158422\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Calin Georgescun Tiktok-videot muistuttivat jonkin verran Vladimir Putinista tehtyjä propagandavideoita. \",\"name\":\"Romania urheiluvideo\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-67-ced22d1654324e9aa4232d994b498a68\",\"uploadDate\":\"2024-11-29T12:28:28+02:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-72624531\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-eZbeWy lbLrnE gFNhsU",
+                "div": {
+                  "div": {
+                    "@class": "sc-icsLOd deQvTQ",
+                    "@data-testid": "video-player"
+                  }
+                }
+              },
+              "figcaption": {
+                "@class": "sc-fsjlER gSSood",
+                "span": "Calin Georgescun Tiktok-videot muistuttivat jonkin verran Vladimir Putinista tehtyjä propagandavideoita."
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "a": {
+                "@class": "sc-iCmUMC eAECGk yle__article__link",
+                "@href": "https://www.bbc.com/articles/cqx41x3gn5zo",
+                "@role": "link",
+                "#text": "27 000 trollitilin verkoston"
+              },
+              "#text": "Romanian viranomaisten tiedustelutietojen mukaan ulkovalta maksoi ja ohjasi epäaitoja Tiktok-tilejä tukemaan Georgescun kampanjaa. Tiktok poisti myöhemmin\n     \n     , jossa oli julkaistu vaaleihin liittynyttä sisältöä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Georgescuun liittyviä videoita ladanneet ”vaikuttajat” eivät välttämättä tienneet osallistuvansa kampanjaan."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Romanian vaalijärjestelmään tehtiin myös kymmeniä tuhansia kyberhyökkäyksiä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Tiedusteludokumenteissa ei mainittu suoraan Venäjää, mutta niissä viitattiin siihen, että kyseessä oli Venäjän operaatio."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Georgescu on kiistänyt, että Venäjä olisi tukenut häntä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Romanian perustuslakituomioistuin kielsi maaliskuussa Georgesculta ehdokkuuden uusintavaaleissa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "figure": {
+              "@class": "sc-jnflPq ftRZcg yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20158422\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Nicușor Dan pyrkii vetoamaan äänestäjiin pehmeämmillä videoilla. Tällä videolla hän lähtee ostoslistan kanssa torille. Lähde: Tiktok / @nicusordanpmb \",\"name\":\"Nicusor Danin TikTok-video\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-67-e61bf6c5c76e4fd88ec8007648b86b62\",\"uploadDate\":\"2025-04-30T11:02:27+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74386336\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-eZbeWy lbLrnE gFNhsU",
+                "div": {
+                  "div": {
+                    "@class": "sc-icsLOd deQvTQ",
+                    "@data-testid": "video-player"
+                  }
+                }
+              },
+              "figcaption": {
+                "@class": "sc-fsjlER gSSood",
+                "span": "Nicușor Dan pyrkii vetoamaan äänestäjiin pehmeämmillä videoilla. Tällä videolla hän lähtee ostoslistan kanssa torille. Lähde: Tiktok / @nicusordanpmb"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "h2": {
+              "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+              "#text": "Gallupeihin ei luoteta"
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Presidentinvaalien uusinnan ensimmäinen kierros järjestetään Romaniassa tänään sunnuntaina."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "George Simion"
+              },
+              "#text": "Kannatusmittausten kärjessä on ollut laitaoikeistolainen\n     \n     , joka on perinyt paljon kannattajia Georgesculta."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": [
+                {
+                  "@class": "sc-fGdmel gJEGys yle__article__strong",
+                  "#text": "Nicușor Dan"
+                },
+                {
+                  "@class": "sc-fGdmel gJEGys yle__article__strong",
+                  "#text": "Crin Antonescu"
+                }
+              ],
+              "#text": "Gallupien perusteella näyttää, että kahden viikon päästä presidentinvaalien toisella kierroksella kohtaavat Simion ja EU-mielinen Bukarestin pormestari\n     \n     tai Simion ja hallituspuolueiden sitoutumaton ehdokas, niin ikään EU-mielinen\n     \n     ."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Yhteensä ehdokkaita on yksitoista."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo ljOqPD",
+            "figure": {
+              "@class": "sc-jnflPq gibcrQ yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20158422\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Kuvassa ovat kärkiehdokkaiden eli Danin, Simionin ja Antonescun vaalimainokset.\",\"copyrightHolder\":\"EPA-EFE\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_1.8587848932676518,c_fill,g_faces,h_412,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-14592876814af0b3a153\",\"keywords\":\"Romania\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-lcsTPt lbLrnE juBRec",
+                "div": {
+                  "@class": "sc-gDVcuj lnQPSU",
+                  "div": [
+                    {
+                      "@class": "sc-jScdur jHArTB",
+                      "picture": {
+                        "source": [
+                          {
+                            "@data-testid": "source-for-S",
+                            "@media": "(max-width: 767px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.8587848932676518,c_fill,g_faces,h_412,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746186282/39-14592876814af0b3a153 2x,https://images.cdn.yle.fi/image/upload/ar_1.8587848932676518,c_fill,g_faces,h_412,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746186282/39-14592876814af0b3a153 1x"
+                          },
+                          {
+                            "@data-testid": "source-for-M",
+                            "@media": "(min-width: 768px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.8587848932676518,c_fill,g_faces,h_472,w_878/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746186282/39-14592876814af0b3a153 2x,https://images.cdn.yle.fi/image/upload/ar_1.8587848932676518,c_fill,g_faces,h_472,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746186282/39-14592876814af0b3a153 1x"
+                          }
+                        ],
+                        "img": {
+                          "@alt": "Kuvassa Romanian presidentinvaalien kärkiehdokkaiden vaalimainokset. Vasemmalla on Nicușor Dan, keskellä on George Simion ja oikealla Crin Antonescu.",
+                          "@class": "sc-dcKlJK fTKhMH",
+                          "@loading": "lazy",
+                          "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_3045,w_5412,x_190,y_0/ar_1.7777777777777777,c_fill,g_faces,h_493,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746186282/39-14592876814af0b3a153"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "sc-bpuAaX bNVMPp",
+                      "button": {
+                        "@aria-busy": "false",
+                        "@aria-disabled": "false",
+                        "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                        "span": {
+                          "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                          "#text": "Avaa kuvien katselu"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "figcaption": {
+                "@class": "sc-fsjlER icGrCJ",
+                "span": [
+                  "Kuvassa ovat kärkiehdokkaiden eli Danin, Simionin ja Antonescun vaalimainokset.",
+                  "Kuva: EPA-EFE"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Kannatusmittauksiin ei tosin luota Romaniassa juuri kukaan."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Septimius Pârvu"
+              },
+              "#text": "– Monilla mittauksia tekevillä laitoksilla on poliittisia kytköksiä, sanoo vaalitutkija\n     \n     Bukarestissa toimivasta Expert Forum -ajatushautomosta."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "div": {
+              "@class": "sc-cSdmCa gRQRTX yle__article__infogram",
+              "div": {
+                "@class": "infogram-embed",
+                "@data-id": "ffe076e3-f737-4ece-b4f2-ce4bfaff18fd",
+                "@data-title": "Viimeisinmmän kannatusmittauksen kärkiehdokkaat.",
+                "@data-type": "interactive"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "h2": {
+              "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+              "#text": "Simion haikailee Moldovan liittämistä Romaniaan ja alueita Ukrainasta"
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Trump"
+              },
+              "#text": "Romaniassa presidentillä on melko tärkeä rooli ulko- ja turvallisuuspolitiikan johtamisessa. Vaaleissa ratkaistaan se johtaako maata jatkossa Eurooppa-mielinen vai\n     \n     -mielinen presidentti."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Simion on Yhdysvaltain presidentin Donald Trumpin vilpitön ihailija ja EU:n vastustaja. Hän on uhannut lopettaa Ukrainan tukemisen, jos tulee valituksi. Simion on arvostellut Putinia, mutta häntä on siitä huolimatta epäilty Venäjä-mieliseksi."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Sanoisin, että häntä voi kutsua Venäjä-myönteiseksi, kun ottaa huomioon hänen puolueensa ja hänen suhtautumisensa Moldovaan ja Ukrainaan."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Jos käytössä on tietynlainen retoriikka, ei asioita tarvitsekaan sanoa suoraan. On vielä vaarallisempaa, jos ehdokas yrittää näyttää Eurooppa-mieliseltä, mutta käyttää täysin Venäjää myötäilevää retoriikkaa, Pârvu arvioi."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "a": {
+                "@class": "sc-iCmUMC eAECGk yle__article__link",
+                "@href": "https://www.politico.eu/article/maga-romanian-election-rerun-donald-trump-romania-presidency-sunday-vote/",
+                "@role": "link",
+                "#text": "pitäisi liittää Romaniaan"
+              },
+              "#text": "Laitaoikeistolaisen AUR-puolueen puheenjohtaja Simion on esittänyt, että Moldova ja osia Ukrainasta ja Bulgariasta\n     \n     . Hänellä on porttikielto Moldovaan ja Ukrainaan."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Georgescu on tavallaan mukana vaaleissa. Hänen kannattajansa ja hänen perintönsä ovat läsnä. Simionin kampanja ei ole identtinen, mutta meillä on valtava määrä syitä huoleen."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo ljOqPD",
+            "figure": {
+              "@class": "sc-jnflPq gibcrQ yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20158422\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"George Simion on uhonnut haluavansa palauttaa rajalinjat, jotka olivat käytössä toisen maailmansodan aikana.\",\"copyrightHolder\":\"Juha Rissanen / Yle\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_1.4282828282828284,c_fill,g_faces,h_537,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-1459007681470be24006\",\"keywords\":\"Romania,kartat,Bulgaria,Moldova,Ukraina,1940,toinen maailmansota\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-lcsTPt lbLrnE aTJcQ",
+                "div": {
+                  "@class": "sc-gDVcuj lnQPSU",
+                  "div": [
+                    {
+                      "@class": "sc-jScdur jHArTB",
+                      "picture": {
+                        "source": [
+                          {
+                            "@data-testid": "source-for-S",
+                            "@media": "(max-width: 767px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.4282828282828284,c_fill,g_faces,h_537,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746187891/39-1459007681470be24006 2x,https://images.cdn.yle.fi/image/upload/ar_1.4282828282828284,c_fill,g_faces,h_537,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746187891/39-1459007681470be24006 1x"
+                          },
+                          {
+                            "@data-testid": "source-for-M",
+                            "@media": "(min-width: 768px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.4282828282828284,c_fill,g_faces,h_614,w_878/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746187891/39-1459007681470be24006 2x,https://images.cdn.yle.fi/image/upload/ar_1.4282828282828284,c_fill,g_faces,h_614,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746187891/39-1459007681470be24006 1x"
+                          }
+                        ],
+                        "img": {
+                          "@alt": "Kartta Romanian 1940 valtaamista alueista.",
+                          "@class": "sc-dcKlJK fTKhMH",
+                          "@loading": "lazy",
+                          "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2381,w_4234,x_0,y_445/ar_1.7777777777777777,c_fill,g_faces,h_493,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746187891/39-1459007681470be24006"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "sc-bpuAaX bNVMPp",
+                      "button": {
+                        "@aria-busy": "false",
+                        "@aria-disabled": "false",
+                        "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                        "span": {
+                          "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                          "#text": "Avaa kuvien katselu"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "figcaption": {
+                "@class": "sc-fsjlER icGrCJ",
+                "span": [
+                  "George Simion on uhonnut haluavansa palauttaa rajalinjat, jotka olivat käytössä toisen maailmansodan aikana.",
+                  "Kuva: Juha Rissanen / Yle"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "h2": {
+              "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+              "#text": "Vaalit kiinnostavat Putinia ja Trumpia"
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "J. D. Vance"
+              },
+              "#text": "Romanian vaalit kiinnostavat myös Trumpia ja tämän esikuntaa. Varapresidentti\n     \n     arvosteli äänekkäästi edellisten vaalien tulosten mitätöimistä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Vähän joka puolella on nyt kiinnostusta Romaniaa kohtaan. Ulkomailla kiinnostaa se mitä me edustamme ja mitä me teemme Ukrainan tukemisen suhteen, Pârvu sanoo."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Trumpin presidenttiys vaikuttaa Romanian vaaleihin. Kun marraskuussa vaaleja kommentoitiin Venäjältä, nyt kommunikaatiota tulee Pârvun mukaan myös Yhdysvalloista."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Tutkija toteaa, että Venäjän vaikutusyritysten laajuutta on vaikea arvioida. Tietoa on nyt enemmän kuin marraskuussa, mutta silti meneillään voi olla jotain, mitä ei ole havaittu."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Meillä ei ole vielä kattavaa kuvaa edes edellisistä vaaleista."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Tiktok on palkannut vaalien takia romaniantaitoisia moderaattoreita valvomaan vaalivideoita."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Monet romanialaiset ovat turhautuneita siihen, etteivät viranomaiset ole vieläkään täysin suoraan sanoneet, mitä mitätöidyissä vaaleissa tapahtui."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Tutkijan mukaan tälläkin kertaa yllätykset ovat mahdollisia, mutta ne ovat epätodennäköisempiä kuin marraskuussa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Romaniassa kyllä pohditaan sitä vetääkö joku taas jäniksen hatusta. En kuitenkaan usko, että nyt käy samoin kuin viimeksi."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "h2": {
+              "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+              "#text": "Tiktok-vaalien uusinta"
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Viime vaaleissa Georgescua tukeneet Tiktok-tilit siis kytkeytyivät Venäjään. Tutkintoja väärinkäytöksistä on meneillään sekä Romaniassa että EU:ssa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "em": {
+                "@class": "sc-bLOsqA bMNXIX yle__article__emphasis",
+                "strong": {
+                  "@class": "sc-fGdmel gJEGys yle__article__strong",
+                  "#text": "Septimius Pârvu arvioi videolla, että Venäjä on sekaantunut laajemminkin Romanian asioihin:"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo ljOqPD",
+            "figure": {
+              "@class": "sc-jnflPq gibcrQ yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20158422\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Romaniassa järjestetään sunnuntaina uudet presidentinvaalit. Marraskuun vaalien tulos hylättiin, koska Venäjän epäiltiin sekaantuneen vaaleihin.\",\"name\":\"Vaalitutkija arvioi Romanian presidentinvaalien asetelmia\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-67-2ffe044c3edf43d585b9f04947ec5f8e\",\"uploadDate\":\"2025-04-29T21:31:37+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74366508\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+                "div": {
+                  "div": {
+                    "@class": "sc-icsLOd deQvTQ",
+                    "@data-testid": "video-player"
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Venäjä on pyrkinyt vaikuttamaan Romanian politiikkaan saadakseen maahan Venäjää myötäilevän johdon. Nato-maa Romania kiinnostaa Venäjää myös siksi, että Romanialla on pitkä, yli 600 kilometrin raja Ukrainan kanssa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Aikaisemmin lähinnä nuorison suosimasta Tiktokista tuli Romaniassa marraskuussa todellinen vaaliase. Sama on jatkunut uusintavaalien kampanjoinnissa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Poliitikot ovat menneet Tiktokiin ja valjastaneet sen työkalukseen. Useimmat heistä ovat alkaneet toimia kuin Georgescu."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Pârvun edustama demokratian edistämiseen pyrkivä Expert Forum on tutkinut sitä, mitä Tiktokissa on tapahtunut ennen uusintavaaleja."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Keräämämme data osoittaa, että Tiktokissa on epäaitoa vaalivaikuttamista, mutta ei yhtä paljon kuin viime kerralla."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "div": {
+              "@class": "sc-cSdmCa gRQRTX yle__article__infogram",
+              "div": {
+                "@class": "infogram-embed",
+                "@data-id": "7b0fcaa5-ace3-4b57-b3a7-720d50c0a1e8",
+                "@data-title": "Ehdokkaita käsittelevien Tiktok-videoiden katselukertoja.",
+                "@data-type": "interactive"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Romanian presidentinvaalien ehdokkaista Simioniin liittyviä Tiktok-videoita on katsottu vaalien alla ylivoimaisesti eniten."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Toiseksi eniten on katsottu Bukarestin pormestariin Daniin liittyviä Tiktok-videoita."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "h2": {
+              "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+              "#text": "Tutkijat ovat havainneet satoja epäilyttäviä videoita"
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Romaniassa on asukaslukuun suhteutettuna erittäin paljon Tiktokin käyttäjiä. Yhdeksän miljoonaa romanialaista eli noin puolet kansalaisista käyttää palvelua."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "a": {
+                "@class": "sc-iCmUMC eAECGk yle__article__link",
+                "@href": "https://yle.fi/a/74-20093902",
+                "@role": "link",
+                "#text": "noin 1,5 miljoonaa"
+              },
+              "#text": "Vastaavasti Suomessa Tiktokin käyttäjiä on\n     \n     eli alle 30 prosenttia väestöstä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "a": {
+                "@class": "sc-iCmUMC eAECGk yle__article__link",
+                "@href": "https://expertforum.ro/en/inauthentic-industry-tiktok/",
+                "@role": "link",
+                "#text": "tunnistanut yli 600 videota"
+              },
+              "#text": "Expert Forum on vaalien alla\n     \n     , joissa on ollut ajatushautomon mukaan koordinoitua, epäaitoa vaalivaikuttamista."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Vaikuttaminen on keskittynyt näkyvimpiin presidenttiehdokkaisiin. Analyysissä mukana olleet videot ovat keränneet yli 10 000 katselukertaa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Tutkijat löysivät 270 epäaitoa videota, jotka on tehty Simionin hyväksi. 180 havaittua epäaitoa videota pyrkivät keräämään Antonesculle kannatusta."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Expert Forumin raportin mukaan molemmat ehdokkaat ovat saaneet hämäräperäisten videoiden ansiosta paljon näkyvyyttä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Muita ehdokkaita tukevien epäaitojen videoiden määrä oli selvästi alhaisempi. Huomionarvoista on, etteivät kaikki epäaidot tilit mainostaneet ehdokasta, vaan osa niistä on myös kriittisiä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Presidenttiehdokkaista Simionilla on Tiktokissa 1,3 miljoonaa seuraajaa. Hänen seuraajamäärässään ei ole tapahtunut suuria hyppäyksiä ennen vaaleja."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Victor Pontan"
+              },
+              "a": {
+                "@class": "sc-iCmUMC eAECGk yle__article__link",
+                "@href": "https://expertforum.ro/en/how-do-the-presidential-candidates-accounts-grow-overnight-on-tiktok/",
+                "@role": "link",
+                "#text": "kasvoi noin 100 000:lla"
+              },
+              "#text": "Kannatusmittauksissa kärkikolmikon takana olleen\n     \n     seuraajien määrä sen sijaan\n     \n     20.–24. huhtikuuta välisenä aikana. Ponta on entinen pääministeri, joka tavoittelee Georgescun äänestäjiä itsenäisenä ehdokkaana."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Dan sai samoina päivinä 30 000 uutta seuraajaa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Heidän sivuillaan oli viime kuussa melkoinen kasvu ja he molemmat väittivät, että kampanjat on kaapattu. He ovat tehneet valituksia viranomaisille."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "div": {
+              "@class": "sc-cSdmCa gRQRTX yle__article__infogram",
+              "div": {
+                "@class": "infogram-embed",
+                "@data-id": "0192ae8f-ffa2-4dda-8f6c-f91ad8abe770",
+                "@data-title": "Kolmen ehdokkaan Tiktok-seuraajien kasvu, syyskuu 2024–huhtikuu 2025.",
+                "@data-type": "interactive"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Tiktok kieltää maksetun poliittisen mainonnan, mutta poliittinen kampanjointi on kasvanut alustalla räjähdysmäisesti."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Ehdokkaiden kampanjat luovat Tiktokissa tiliverkostoja, jotka antavat poliittisille viesteille ja lokakampanjoille mahdollisimman suuren näkyvyyden. Expert Forumin mukaan rehellisiä poliittisia viraalihittejä on hyvin vaikea saada aikaan."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Ajatushautomon raportin perusteella ehdokkaiden kampanjat ovat palkanneet tahoja, jotka ovat luoneet kymmeniä, satoja tai jopa tuhansia tilejä jakamaan ehdokkaalle myönteistä viestiä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Yhtä tehokasta verkkokampanjaa ei pysty luomaan, jos toimii sääntöjen mukaan."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Pârvun mukaan Romanian viranomaiset ovat yrittäneet puuttua laittomaan vaalivaikuttamiseen painostamalla sosiaalisen median alustoja ja kieltämällä tilejä. Lakeja on muutettu ja hallitus on alkanut säännellä poliittista mainontaa aikaisempaa tiukemmin."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Viranomaiset pyytävät alustoja poistamaan postauksia. Tällaisia päätöksiä on satoja."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Pârvu pitää mahdollisena, että ongelmia voi olla edessä uusintavaaleissakin."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Romanialaiset ovat tyytymättömiä. Maaliskuussa Georgescun kannattajat lähtivät kaduille, kun mitätöidyn vaalin voittajan ehdokkuus uusintavaaleissa kiellettiin."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo ljOqPD",
+            "figure": {
+              "@class": "sc-jnflPq gibcrQ yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20158422\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Mielenosoittajat kokoontuivat Bukarestin keskustassa 9. maaliskuuta.\",\"name\":\"Kannattajat osoittivat mieltään Bukarestissa, kun Georgescun ehdokuus kiellettiin\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-67-a20132ecd7264fb69c5b448926b9e7f6\",\"uploadDate\":\"2025-05-02T14:28:08+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74400294\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+                "div": {
+                  "div": {
+                    "@class": "sc-icsLOd deQvTQ",
+                    "@data-testid": "video-player"
+                  }
+                }
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Pârvun mukaan Romanian yhteiskunta on jakautuneempi kuin pitkään aikaan. Hylätyn Georgescun äänestäjät kokevat, että heidän äänensä ryöstettiin."
+            }
+          }
+        }
+      ]
+    },
+    "footer": {
+      "@class": "yle__article__footer",
+      "div": {
+        "@class": "sc-kKWcMV jnGIFw",
+        "div": {
+          "@class": "sc-bpEFQo kNxGxn",
+          "div": {
+            "@class": "sc-eLbqow iOsXZW",
+            "h2": [
+              {
+                "@class": "sc-gGarWV itlDVR yle__article__heading yle__article__heading--3",
+                "#text": "Tekijät"
+              },
+              {
+                "@class": "sc-eQkCLH dsmTJG",
+                "#text": "Aiheesta enemmän: Paketissa 3 linkkiä"
+              },
+              {
+                "@aria-hidden": "true",
+                "@class": "sc-gGarWV itlDVR yle__article__heading yle__article__heading--3",
+                "#text": "Aiheesta enemmän"
+              }
+            ],
+            "div": [
+              {
+                "@class": "sc-ckzTOx ccphMP",
+                "div": [
+                  {
+                    "@class": "sc-hHwaUx cAMGoR",
+                    "span": [
+                      {
+                        "@class": "sc-bGQaqj klbnav",
+                        "#text": "Teksti\n        \n        :"
+                      },
+                      {
+                        "@class": "sc-feJtxQ kjtsHA",
+                        "#text": "Teemu Juhola"
+                      }
+                    ]
+                  },
+                  {
+                    "@class": "sc-hHwaUx cAMGoR",
+                    "span": [
+                      {
+                        "@class": "sc-bGQaqj klbnav",
+                        "#text": "Videot\n        \n        :"
+                      },
+                      {
+                        "@class": "sc-feJtxQ kjtsHA",
+                        "#text": "Jukka Koski"
+                      }
+                    ]
+                  },
+                  {
+                    "@class": "sc-hHwaUx cAMGoR",
+                    "span": [
+                      {
+                        "@class": "sc-bGQaqj klbnav",
+                        "#text": "Grafiikka\n        \n        :"
+                      },
+                      {
+                        "@class": "sc-feJtxQ kjtsHA",
+                        "#text": "Juha Rissanen"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@class": "sc-hjWhcS leSngs"
+              },
+              {
+                "@aria-label": "Aiheesta enemmän",
+                "@class": "yle__article__links",
+                "@role": "list",
+                "div": [
+                  {
+                    "@class": "sc-deTYHS espHEt",
+                    "@role": "listitem",
+                    "div": {
+                      "@class": "sc-kKyYz jzXcOB",
+                      "div": [
+                        {
+                          "@class": "sc-gAOUPA gZmIaQ",
+                          "div": {
+                            "@class": "sc-eJNWfD hzBpgx",
+                            "div": [
+                              {
+                                "@class": "sc-fjohHk glKee",
+                                "a": {
+                                  "@aria-label": "Lisää artikkeleita aiheesta Vaalit",
+                                  "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                                  "@href": "https://yle.fi/t/18-218195/fi",
+                                  "#text": "Vaalit"
+                                }
+                              },
+                              {
+                                "@class": "sc-eQkCLH dsmTJG",
+                                "time": {
+                                  "@class": "sc-geTSWJ dUzrQh",
+                                  "@datetime": "2025-03-11T19:50:03+02:00",
+                                  "#text": "Julkaistu\n            \n            \n            11.3.2025"
+                                }
+                              }
+                            ],
+                            "h3": {
+                              "@class": "sc-bNtlzC eGiYeo",
+                              "a": {
+                                "@class": "sc-ifISnl hcDWQv",
+                                "@href": "https://yle.fi/a/74-20148976",
+                                "#text": "Romanian tuomioistuin vahvisti: Venäjä-mielisen Călin Georgescun osallistuminen vaaleihin estetään"
+                              }
+                            },
+                            "time": {
+                              "@aria-hidden": "true",
+                              "@class": "sc-hwcCMm eGomKG",
+                              "#text": "11.3."
+                            }
+                          }
+                        },
+                        {
+                          "@class": "sc-dGFvgh hggeEO",
+                          "div": {
+                            "@class": "sc-glqzCN hqchfN",
+                            "div": {
+                              "@class": "sc-jScdur jHArTB",
+                              "picture": {
+                                "source": [
+                                  {
+                                    "@data-testid": "source-for-S",
+                                    "@media": "(max-width: 767px)",
+                                    "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_1873,w_1873,x_409,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1733492678/39-13915136752ffaab873b 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_1873,w_1873,x_409,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1733492678/39-13915136752ffaab873b 1x"
+                                  },
+                                  {
+                                    "@data-testid": "source-for-M",
+                                    "@media": "(min-width: 768px)",
+                                    "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_1581,w_2811,x_0,y_88/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1733492678/39-13915136752ffaab873b 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_1581,w_2811,x_0,y_88/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1733492678/39-13915136752ffaab873b 1x"
+                                  }
+                                ],
+                                "img": {
+                                  "@alt": "Călin Georgescu.",
+                                  "@class": "sc-dcKlJK fTKhMH",
+                                  "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_1581,w_2811,x_0,y_88/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1733492678/39-13915136752ffaab873b"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@aria-hidden": "true",
+                    "@class": "sc-jUhsXd gbxWvu",
+                    "hr": {
+                      "@class": "sc-fZSzjs kgWFfO"
+                    }
+                  },
+                  {
+                    "@class": "sc-deTYHS espHEt",
+                    "@role": "listitem",
+                    "div": {
+                      "@class": "sc-kKyYz jzXcOB",
+                      "div": [
+                        {
+                          "@class": "sc-gAOUPA gZmIaQ",
+                          "div": {
+                            "@class": "sc-eJNWfD hzBpgx",
+                            "div": [
+                              {
+                                "@class": "sc-fjohHk glKee",
+                                "a": {
+                                  "@aria-label": "Lisää artikkeleita aiheesta Vaalit",
+                                  "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                                  "@href": "https://yle.fi/t/18-218195/fi",
+                                  "#text": "Vaalit"
+                                }
+                              },
+                              {
+                                "@class": "sc-eQkCLH dsmTJG",
+                                "time": {
+                                  "@class": "sc-geTSWJ dUzrQh",
+                                  "@datetime": "2025-01-16T18:41:30+02:00",
+                                  "#text": "Julkaistu\n            \n            \n            16.1.2025"
+                                }
+                              }
+                            ],
+                            "h3": {
+                              "@class": "sc-bNtlzC eGiYeo",
+                              "a": {
+                                "@class": "sc-ifISnl hcDWQv",
+                                "@href": "https://yle.fi/a/74-20137486",
+                                "#text": "Romaniassa otetaan uusi yritys presidentinvaaleissa toukokuussa"
+                              }
+                            },
+                            "time": {
+                              "@aria-hidden": "true",
+                              "@class": "sc-hwcCMm eGomKG",
+                              "#text": "16.1."
+                            }
+                          }
+                        },
+                        {
+                          "@class": "sc-dGFvgh hggeEO",
+                          "div": {
+                            "@class": "sc-glqzCN hqchfN",
+                            "div": {
+                              "@class": "sc-jScdur jHArTB",
+                              "picture": {
+                                "source": [
+                                  {
+                                    "@data-testid": "source-for-S",
+                                    "@media": "(max-width: 767px)",
+                                    "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3602,w_3602,x_337,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1737045966/39-1391983675548e2e78b1 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3602,w_3602,x_337,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1737045966/39-1391983675548e2e78b1 1x"
+                                  },
+                                  {
+                                    "@data-testid": "source-for-M",
+                                    "@media": "(min-width: 768px)",
+                                    "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_2297,w_4083,x_51,y_30/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1737045966/39-1391983675548e2e78b1 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_2297,w_4083,x_51,y_30/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1737045966/39-1391983675548e2e78b1 1x"
+                                  }
+                                ],
+                                "img": {
+                                  "@alt": "Calin Georgescu.",
+                                  "@class": "sc-dcKlJK fTKhMH",
+                                  "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2297,w_4083,x_51,y_30/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1737045966/39-1391983675548e2e78b1"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@aria-hidden": "true",
+                    "@class": "sc-jUhsXd gbxWvu",
+                    "hr": {
+                      "@class": "sc-fZSzjs kgWFfO"
+                    }
+                  },
+                  {
+                    "@class": "sc-deTYHS espHEt",
+                    "@role": "listitem",
+                    "div": {
+                      "@class": "sc-kKyYz jzXcOB",
+                      "div": [
+                        {
+                          "@class": "sc-gAOUPA gZmIaQ",
+                          "div": {
+                            "@class": "sc-eJNWfD hzBpgx",
+                            "div": [
+                              {
+                                "@class": "sc-fjohHk glKee",
+                                "a": {
+                                  "@aria-label": "Lisää artikkeleita aiheesta Vaalit",
+                                  "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                                  "@href": "https://yle.fi/t/18-218195/fi",
+                                  "#text": "Vaalit"
+                                }
+                              },
+                              {
+                                "@class": "sc-eQkCLH dsmTJG",
+                                "time": {
+                                  "@class": "sc-geTSWJ dUzrQh",
+                                  "@datetime": "2024-12-02T05:21:40+02:00",
+                                  "#text": "Julkaistu\n            \n            \n            2024"
+                                }
+                              }
+                            ],
+                            "h3": {
+                              "@class": "sc-bNtlzC eGiYeo",
+                              "a": {
+                                "@class": "sc-ifISnl hcDWQv",
+                                "@href": "https://yle.fi/a/74-20127499",
+                                "#text": "Mies nousi äänikuninkaaksi puskista, ja nyt Romanian presidentinvaalit saatetaan perua hänen takiaan"
+                              }
+                            },
+                            "time": {
+                              "@aria-hidden": "true",
+                              "@class": "sc-hwcCMm eGomKG",
+                              "#text": "2024"
+                            }
+                          }
+                        },
+                        {
+                          "@class": "sc-dGFvgh hggeEO",
+                          "div": {
+                            "@class": "sc-glqzCN hqchfN",
+                            "div": {
+                              "@class": "sc-jScdur jHArTB",
+                              "picture": {
+                                "source": [
+                                  {
+                                    "@data-testid": "source-for-S",
+                                    "@media": "(max-width: 767px)",
+                                    "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_1290,w_1290,x_0,y_224/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1733128235/39-1389071674d6fdd59703 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_1290,w_1290,x_0,y_224/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1733128235/39-1389071674d6fdd59703 1x"
+                                  },
+                                  {
+                                    "@data-testid": "source-for-M",
+                                    "@media": "(min-width: 768px)",
+                                    "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_725,w_1290,x_0,y_386/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1733128235/39-1389071674d6fdd59703 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_725,w_1290,x_0,y_386/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1733128235/39-1389071674d6fdd59703 1x"
+                                  }
+                                ],
+                                "img": {
+                                  "@alt": "Romanialainen presidenttiehdokas Călin Georgescu esitti itsensä urheilullisena lokakuun lopussa julkaistulla Tiktok-videollaan.",
+                                  "@class": "sc-dcKlJK fTKhMH",
+                                  "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_725,w_1290,x_0,y_386/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1733128235/39-1389071674d6fdd59703"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "div": {
+                  "@class": "sc-hZARmv bNLDLe",
+                  "a": [
+                    {
+                      "@aria-label": "Lisää artikkeleita aiheesta Vaalit",
+                      "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                      "@href": "https://yle.fi/t/18-218195/fi",
+                      "#text": "Vaalit"
+                    },
+                    {
+                      "@aria-label": "Lisää artikkeleita aiheesta Romania",
+                      "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                      "@href": "https://yle.fi/t/18-185666/fi",
+                      "#text": "Romania"
+                    },
+                    {
+                      "@aria-label": "Lisää artikkeleita aiheesta Romanian politiikka",
+                      "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                      "@href": "https://yle.fi/t/18-103966/fi",
+                      "#text": "Romanian politiikka"
+                    }
+                  ],
+                  "div": {
+                    "@class": "sc-dKKIkQ dfGXgP",
+                    "button": {
+                      "@aria-busy": "false",
+                      "@aria-disabled": "false",
+                      "@aria-label": "Näytä kaikki aiheet",
+                      "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-3 jmqUl dhtMex",
+                      "span": {
+                        "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 hvskzw dXmWOo yds-button__icon",
+                        "svg": {
+                          "@aria-hidden": "true",
+                          "@class": "sc-fpEFIB cluDHh",
+                          "@fill": "none",
+                          "@height": "24",
+                          "@viewbox": "0 0 24 24",
+                          "@width": "24",
+                          "path": {
+                            "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                            "@fill": "currentColor"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

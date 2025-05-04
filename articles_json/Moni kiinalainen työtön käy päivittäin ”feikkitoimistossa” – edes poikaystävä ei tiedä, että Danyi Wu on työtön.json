@@ -1,0 +1,241 @@
+{
+  "article": {
+    "@class": "yle__article arkki-theme-default",
+    "@data-vrsproduct": "uutiset",
+    "header": {
+      "@class": "yle__article__header",
+      "div": [
+        {
+          "@class": "sc-dbVXhp cBCGOO",
+          "a": {
+            "@aria-label": "Lisää artikkeleita aiheesta Kiina",
+            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+            "@href": "https://yle.fi/t/18-168817/fi",
+            "#text": "Kiina"
+          }
+        },
+        {
+          "@class": "sc-lpbaSe cwlsYQ",
+          "ul": {
+            "@aria-label": "Tekijä",
+            "@class": "sc-cNFqVt gmcymk",
+            "li": {
+              "@class": "sc-fpgwy dVrUIC",
+              "span": {
+                "@class": "sc-dZEakj krffzS",
+                "#text": "Ulla Malminen"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-eAZzZC cUksiH",
+          "div": {
+            "@class": "sc-bTPSfG himLlc yle__article__date",
+            "time": {
+              "@class": "sc-geTSWJ dUzrQh yle__article__date--published",
+              "@datetime": "2025-05-03T19:02:23+03:00",
+              "#text": "3.5. 19:02"
+            }
+          }
+        },
+        {
+          "@class": "sc-cbJLzd fQlwJR",
+          "button": {
+            "@class": "sc-goJFMH hdACns",
+            "@data-testid": "default-article-audio-placeholder",
+            "span": [
+              {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-1 EPLBc dgcsOm",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 ruUVE dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@clip-rule": "evenodd",
+                      "@d": "M5.52 2.122a1 1 0 0 1 1.02.037l14 9a1 1 0 0 1 0 1.682l-14 9A1 1 0 0 1 5 21V3a1 1 0 0 1 .52-.878",
+                      "@fill": "currentColor",
+                      "@fill-rule": "evenodd"
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "sc-jgGpnn laJhEh",
+                "#text": "Kuuntele juttu 1:58"
+              }
+            ]
+          },
+          "div": [
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jweKAa gPvEkW",
+              "div": {
+                "@data-testid": "default-article-audio-player"
+              }
+            },
+            {
+              "@class": "sc-ecBcpz fdHQgB"
+            }
+          ]
+        }
+      ],
+      "h1": {
+        "@class": "sc-ifkGpL jgDrMU yle__article__heading yle__article__heading--1",
+        "#text": "Moni kiinalainen työtön käy päivittäin ”feikkitoimistossa” – edes poikaystävä ei tiedä, että Danyi Wu on työtön"
+      },
+      "p": {
+        "@class": "sc-kiMgGE sc-dCVDEO eQvHnw hjdIYW yle__article__paragraph",
+        "#text": "Kiinassa työtön voi kokea menettävänsä kasvonsa."
+      },
+      "figure": {
+        "@class": "sc-jnflPq gibcrQ yle__article__figure",
+        "script": {
+          "@type": "application/ld+json",
+          "#text": "{\"@id\":\"74-20159560\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Danyi Wu on etsinyt töitä parin kuukauden ajan Chongqingin kaupungissa.\",\"name\":\"Kiinassa vuokrataan ”feikkitoimistoja” työttömyyttään peitteleville ihmisille\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-1-74403967-1746285766172\",\"uploadDate\":\"2025-05-03T18:14:51+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74403967\"}}"
+        },
+        "div": {
+          "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+          "div": {
+            "div": {
+              "@class": "sc-icsLOd deQvTQ",
+              "@data-testid": "video-player"
+            }
+          }
+        },
+        "figcaption": {
+          "@class": "sc-fsjlER icGrCJ",
+          "span": "Danyi Wu on etsinyt töitä parin kuukauden ajan Chongqingin kaupungissa."
+        }
+      }
+    },
+    "section": {
+      "@class": "yle__article__content",
+      "p": [
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Monet kiinalaiset työttömät haluavat peitellä työttömyyttään sosiaalisen paineen vuoksi."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "em": {
+            "@class": "sc-bLOsqA bMNXIX yle__article__emphasis",
+            "#text": "France Télévision"
+          },
+          "#text": "Tämä on synnyttänyt uudenlaista liiketoimintaa, kertoo Ranskan yleisradio\n   \n   huhtikuun lopussa julkaistussa jutussaan."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Yrittäjät vuokraavat niin sanottuja feikkitoimistotiloja työttömille, jotka teeskentelevät käyvänsä töissä."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Yulong Li"
+          },
+          "#text": "Kuvitteellista yritystä Chongqingin kaupungissa johtava\n   \n   laskuttaa ”leikkityöntekijöiltään” kuusi euroa päivässä siitä, että nämä käyttävät hänen toimistoaan."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Työttömät pitävät toimistolla feikkipalavereja, pelaavat tietokoneilla ja pelikorteilla. Videon perusteella näyttää siltä, että leikisti töissä käymisellä on työttömille ainakin sosiaalista merkitystä."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Danyi Wu"
+          },
+          "#text": "Yksi heistä on 21-vuotias tietokonegrafiikkasuunnittelija\n   \n   . Hän lähti kotiseudultaan etsimään töitä isosta kaupungista, mutta vielä ei ole tärpännyt."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Danyi Wu on käynyt feikkitoimistolla kahden kuukauden ajan. Hän kuvaa itseään säännöllisesti ”työtiloissa” ja julkaisee materiaalia sosiaaliseen verkostoonsa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Perheeni kyselee aina, mitä teen, joten otan heille jotain näytettävää."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Edes poikaystävä, jonka kanssa Danyi Wu asuu, ei tiedä, että hän on työtön, koska hän menee joka aamu toimistolle."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Minusta tuntuu, että kaikilla muilla ympärilläni on työpaikka. Se aiheuttaa minulle epämukavan tunteen, että menetän kasvoni."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Nuorten työttömyys on kasvava ongelma Kiinassa. Virallisten lukujen mukaan 17 prosenttia alle 24-vuotiaista on työttömiä, mutta jotkut asiantuntijat uskovat, että luku voi olla todellisuudessa korkeampi."
+        }
+      ],
+      "h2": {
+        "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+        "#text": "Perheelle oltava ”jotain näytettävää”"
+      }
+    },
+    "footer": {
+      "@class": "yle__article__footer",
+      "div": [
+        {
+          "@class": "sc-hjWhcS leSngs"
+        },
+        {
+          "div": {
+            "@class": "sc-hZARmv bNLDLe",
+            "a": [
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Kiina",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-168817/fi",
+                "#text": "Kiina"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Työttömyys",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-217989/fi",
+                "#text": "Työttömyys"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Työllisyys ja työttömyys",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-35124/fi",
+                "#text": "Työllisyys ja työttömyys"
+              }
+            ],
+            "div": {
+              "@class": "sc-dKKIkQ dfGXgP",
+              "button": {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@aria-label": "Näytä kaikki aiheet",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-3 jmqUl dhtMex",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 hvskzw dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@class": "sc-fpEFIB cluDHh",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                      "@fill": "currentColor"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,516 @@
+{
+  "article": {
+    "@class": "yle__article arkki-theme-default",
+    "@data-vrsproduct": "uutiset",
+    "header": {
+      "@class": "yle__article__header",
+      "div": [
+        {
+          "@class": "sc-dbVXhp cBCGOO",
+          "a": {
+            "@aria-label": "Lisää artikkeleita aiheesta Talous",
+            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+            "@href": "https://yle.fi/t/18-204933/fi",
+            "#text": "Talous"
+          }
+        },
+        {
+          "@class": "sc-lpbaSe cwlsYQ",
+          "ul": {
+            "@aria-label": "Tekijä",
+            "@class": "sc-cNFqVt gmcymk",
+            "li": {
+              "@class": "sc-fpgwy dVrUIC",
+              "span": {
+                "@class": "sc-dZEakj krffzS",
+                "#text": "Jani Parkkari"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-eAZzZC cUksiH",
+          "div": {
+            "@class": "sc-bTPSfG himLlc yle__article__date",
+            "time": [
+              {
+                "@class": "sc-geTSWJ dUzrQh yle__article__date--published",
+                "@datetime": "2025-05-03T12:14:48+03:00",
+                "#text": "3.5. 12:14"
+              },
+              {
+                "@class": "sc-geTSWJ dUzrQh yle__article__date--modified",
+                "@datetime": "2025-05-03T12:20:17+03:00",
+                "#text": "Päivitetty\n     \n     \n     3.5. 12:20"
+              }
+            ],
+            "span": {
+              "@aria-hidden": "true",
+              "@class": "sc-diziqI dgaCq",
+              "#text": "•"
+            }
+          }
+        },
+        {
+          "@class": "sc-cbJLzd fQlwJR",
+          "button": {
+            "@class": "sc-goJFMH hdACns",
+            "@data-testid": "default-article-audio-placeholder",
+            "span": [
+              {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-1 EPLBc dgcsOm",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 ruUVE dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@clip-rule": "evenodd",
+                      "@d": "M5.52 2.122a1 1 0 0 1 1.02.037l14 9a1 1 0 0 1 0 1.682l-14 9A1 1 0 0 1 5 21V3a1 1 0 0 1 .52-.878",
+                      "@fill": "currentColor",
+                      "@fill-rule": "evenodd"
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "sc-jgGpnn laJhEh",
+                "#text": "Kuuntele juttu 1:02"
+              }
+            ]
+          },
+          "div": [
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jweKAa gPvEkW",
+              "div": {
+                "@data-testid": "default-article-audio-player"
+              }
+            },
+            {
+              "@class": "sc-ecBcpz fdHQgB"
+            }
+          ]
+        }
+      ],
+      "h1": {
+        "@class": "sc-ifkGpL jgDrMU yle__article__heading yle__article__heading--1",
+        "#text": "Finnair peruu noin sata lentoa maanantaina"
+      },
+      "p": {
+        "@class": "sc-kiMgGE sc-dCVDEO eQvHnw hjdIYW yle__article__paragraph",
+        "#text": "Lentojen peruutuksien arvioidaan vaikuttavan noin 7 500 asiakkaaseen."
+      },
+      "figure": {
+        "@class": "sc-jnflPq edfVsP yle__article__figure",
+        "script": {
+          "@type": "application/ld+json",
+          "#text": "{\"@id\":\"74-20159530\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Matkustajia Helsinki-Vantaan lentoasemalla 2. toukokuuta.\",\"copyrightHolder\":\"Petteri Juuti / Yle\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-1459049681476ed39157\",\"keywords\":\"Helsinki-Vantaan lentoasema,lentokenttä,lentokentät,Finnair,lentoliikenne,lentomatkailu,turistit,matkailijat,ilmailuala,Ilmailualan liitto (IAU)\"}}"
+        },
+        "div": {
+          "@class": "sc-jxyWrI sc-lcsTPt lbLrnE hUpsZg",
+          "div": {
+            "@class": "sc-gDVcuj lnQPSU",
+            "div": [
+              {
+                "@class": "sc-jScdur jHArTB",
+                "picture": {
+                  "source": [
+                    {
+                      "@data-testid": "source-for-S",
+                      "@media": "(max-width: 767px)",
+                      "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746171920/39-1459049681476ed39157 2x,https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746171920/39-1459049681476ed39157 1x"
+                    },
+                    {
+                      "@data-testid": "source-for-M",
+                      "@media": "(min-width: 768px)",
+                      "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_424,w_636/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746171920/39-1459049681476ed39157 2x,https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_424,w_636/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746171920/39-1459049681476ed39157 1x"
+                    }
+                  ],
+                  "img": {
+                    "@alt": "Matkustajia Helsinki-Vantaan lentoasemalla.",
+                    "@class": "sc-dcKlJK fTKhMH",
+                    "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_3078,w_5472,x_0,y_253/ar_1.7777777777777777,c_fill,g_faces,h_431,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746171920/39-1459049681476ed39157"
+                  }
+                }
+              },
+              {
+                "@class": "sc-bpuAaX bNVMPp",
+                "button": {
+                  "@aria-busy": "false",
+                  "@aria-disabled": "false",
+                  "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                  "span": {
+                    "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                    "#text": "Avaa kuvien katselu"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "figcaption": {
+          "@class": "sc-fsjlER icGrCJ",
+          "span": [
+            "Matkustajia Helsinki-Vantaan lentoasemalla 2. toukokuuta.",
+            "Kuva: Petteri Juuti / Yle"
+          ]
+        }
+      }
+    },
+    "section": {
+      "@class": "yle__article__content",
+      "p": [
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Finnair ilmoittaa peruvansa maanantaina noin sata lentoa Ilmailualan Unionin työtaistelutoimien vuoksi."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Yhtiön mukaan lentojen peruutuksien arvioidaan vaikuttavan noin 7 500 asiakkaaseen."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Finnair tarjoaa peruttujen lentojen asiakkaille vaihtoehtoisen lennon, jonka näkee yhtiön nettisivujen Varaukseni-palvelusta tai mobiilisovelluksesta."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Vaihtoehtoisesti asiakas voi perua matkan ja hakea lipun hinnan takaisinmaksua."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Helsinki-Vantaan lentoaseman matkatavaroiden käsittelyssä voi esiintyä häiriöitä maanantaina, joten Finnair suosittelee saapumaan ajoissa kentälle. Tärkeät tavarat kuten lääkkeet kannattaa pakata käsimatkatavaroihin."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "a": {
+            "@class": "sc-iCmUMC eAECGk yle__article__link",
+            "@href": "https://yle.fi/a/74-20159154",
+            "@role": "link",
+            "#text": "Finnair perui noin 140 lentoa"
+          },
+          "#text": "Perjantaina\n   \n   työtaistelun takia. Tuolloin peruutukset vaikuttivat arviolta noin 12 000 matkustajaan."
+        }
+      ]
+    },
+    "footer": {
+      "@class": "yle__article__footer",
+      "div": [
+        {
+          "@class": "sc-hjWhcS leSngs"
+        },
+        {
+          "@aria-label": "Aiheesta enemmän",
+          "@class": "yle__article__links",
+          "@role": "list",
+          "div": [
+            {
+              "@class": "sc-deTYHS espHEt",
+              "@role": "listitem",
+              "div": {
+                "@class": "sc-kKyYz jzXcOB",
+                "div": [
+                  {
+                    "@class": "sc-gAOUPA gZmIaQ",
+                    "div": {
+                      "@class": "sc-eJNWfD hzBpgx",
+                      "div": [
+                        {
+                          "@class": "sc-fjohHk glKee",
+                          "a": {
+                            "@aria-label": "Lisää artikkeleita aiheesta Politiikka",
+                            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                            "@href": "https://yle.fi/t/18-220306/fi",
+                            "#text": "Politiikka"
+                          }
+                        },
+                        {
+                          "@class": "sc-eQkCLH dsmTJG",
+                          "time": {
+                            "@class": "sc-geTSWJ dUzrQh",
+                            "@datetime": "2025-05-02T17:31:37+03:00",
+                            "#text": "Julkaistu\n         \n         \n         2.5.2025"
+                          }
+                        }
+                      ],
+                      "h3": {
+                        "@class": "sc-bNtlzC eGiYeo",
+                        "a": {
+                          "@class": "sc-ifISnl hcDWQv",
+                          "@href": "https://yle.fi/a/74-20159320",
+                          "#text": "Ilmailualan lakot jatkuvat maanantaina – palkoista ei ole päästy sopuun"
+                        }
+                      },
+                      "time": {
+                        "@aria-hidden": "true",
+                        "@class": "sc-hwcCMm eGomKG",
+                        "#text": "2.5."
+                      }
+                    }
+                  },
+                  {
+                    "@class": "sc-dGFvgh hggeEO",
+                    "div": {
+                      "@class": "sc-glqzCN hqchfN",
+                      "div": {
+                        "@class": "sc-jScdur jHArTB",
+                        "picture": {
+                          "source": [
+                            {
+                              "@data-testid": "source-for-S",
+                              "@media": "(max-width: 767px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3999,w_3999,x_516,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746185287/39-14592746814abd28f16b 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3999,w_3999,x_516,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746185287/39-14592746814abd28f16b 1x"
+                            },
+                            {
+                              "@data-testid": "source-for-M",
+                              "@media": "(min-width: 768px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_2812,w_5000,x_0,y_344/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746185287/39-14592746814abd28f16b 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_2812,w_5000,x_0,y_344/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746185287/39-14592746814abd28f16b 1x"
+                            }
+                          ],
+                          "img": {
+                            "@alt": "Nainen seisoo isätilassa pukeutuneena siniseen raidalliseen paitaan ja mustaan bleiseriin. ",
+                            "@class": "sc-dcKlJK fTKhMH",
+                            "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2812,w_5000,x_0,y_344/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746185287/39-14592746814abd28f16b"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jUhsXd gbxWvu",
+              "hr": {
+                "@class": "sc-fZSzjs kgWFfO"
+              }
+            },
+            {
+              "@class": "sc-deTYHS espHEt",
+              "@role": "listitem",
+              "div": {
+                "@class": "sc-kKyYz jzXcOB",
+                "div": [
+                  {
+                    "@class": "sc-gAOUPA gZmIaQ",
+                    "div": {
+                      "@class": "sc-eJNWfD hzBpgx",
+                      "div": [
+                        {
+                          "@class": "sc-fjohHk glKee",
+                          "a": {
+                            "@aria-label": "Lisää artikkeleita aiheesta Liikenne",
+                            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                            "@href": "https://yle.fi/t/18-217946/fi",
+                            "#text": "Liikenne"
+                          }
+                        },
+                        {
+                          "@class": "sc-eQkCLH dsmTJG",
+                          "time": {
+                            "@class": "sc-geTSWJ dUzrQh",
+                            "@datetime": "2025-05-02T10:28:38+03:00",
+                            "#text": "Julkaistu\n         \n         \n         2.5.2025"
+                          }
+                        }
+                      ],
+                      "h3": {
+                        "@class": "sc-bNtlzC eGiYeo",
+                        "a": {
+                          "@class": "sc-ifISnl hcDWQv",
+                          "@href": "https://yle.fi/a/74-20159288",
+                          "#text": "Habiib tuli liian aikaisin lennolle, Lidia pohti pääseekö Norjaan rippijuhliin – ilmailualan lakko jännitti matkustajia"
+                        }
+                      },
+                      "time": {
+                        "@aria-hidden": "true",
+                        "@class": "sc-hwcCMm eGomKG",
+                        "#text": "2.5."
+                      }
+                    }
+                  },
+                  {
+                    "@class": "sc-dGFvgh hggeEO",
+                    "div": {
+                      "@class": "sc-glqzCN hqchfN",
+                      "div": {
+                        "@class": "sc-jScdur jHArTB",
+                        "picture": {
+                          "source": [
+                            {
+                              "@data-testid": "source-for-S",
+                              "@media": "(max-width: 767px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3648,w_3648,x_759,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746171937/39-1459050681476ed99eec 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3648,w_3648,x_759,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746171937/39-1459050681476ed99eec 1x"
+                            },
+                            {
+                              "@data-testid": "source-for-M",
+                              "@media": "(min-width: 768px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3078,w_5472,x_0,y_540/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746171937/39-1459050681476ed99eec 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3078,w_5472,x_0,y_540/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746171937/39-1459050681476ed99eec 1x"
+                            }
+                          ],
+                          "img": {
+                            "@alt": "Matkustajia Helsinki-Vantaan lentoasemalla.",
+                            "@class": "sc-dcKlJK fTKhMH",
+                            "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_3078,w_5472,x_0,y_540/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746171937/39-1459050681476ed99eec"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jUhsXd gbxWvu",
+              "hr": {
+                "@class": "sc-fZSzjs kgWFfO"
+              }
+            },
+            {
+              "@class": "sc-deTYHS espHEt",
+              "@role": "listitem",
+              "div": {
+                "@class": "sc-kKyYz jzXcOB",
+                "div": [
+                  {
+                    "@class": "sc-gAOUPA gZmIaQ",
+                    "div": {
+                      "@class": "sc-eJNWfD hzBpgx",
+                      "div": [
+                        {
+                          "@class": "sc-fjohHk glKee",
+                          "a": {
+                            "@aria-label": "Lisää artikkeleita aiheesta Liikenne",
+                            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                            "@href": "https://yle.fi/t/18-217946/fi",
+                            "#text": "Liikenne"
+                          }
+                        },
+                        {
+                          "@class": "sc-eQkCLH dsmTJG",
+                          "time": {
+                            "@class": "sc-geTSWJ dUzrQh",
+                            "@datetime": "2025-04-30T18:43:17+03:00",
+                            "#text": "Julkaistu\n         \n         \n         30.4.2025"
+                          }
+                        }
+                      ],
+                      "h3": {
+                        "@class": "sc-bNtlzC eGiYeo",
+                        "a": {
+                          "@class": "sc-ifISnl hcDWQv",
+                          "@href": "https://yle.fi/a/74-20159154",
+                          "#text": "Finnair peruu noin 140 perjantain lentoa työtaistelun takia"
+                        }
+                      },
+                      "time": {
+                        "@aria-hidden": "true",
+                        "@class": "sc-hwcCMm eGomKG",
+                        "#text": "30.4."
+                      }
+                    }
+                  },
+                  {
+                    "@class": "sc-dGFvgh hggeEO",
+                    "div": {
+                      "@class": "sc-glqzCN hqchfN",
+                      "div": {
+                        "@class": "sc-jScdur jHArTB",
+                        "picture": {
+                          "source": [
+                            {
+                              "@data-testid": "source-for-S",
+                              "@media": "(max-width: 767px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_4143,w_4143,x_2070,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1743000674/39-144180967e413e8c4293 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_4143,w_4143,x_2070,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1743000674/39-144180967e413e8c4293 1x"
+                            },
+                            {
+                              "@data-testid": "source-for-M",
+                              "@media": "(min-width: 768px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3495,w_6214,x_0,y_131/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1743000674/39-144180967e413e8c4293 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3495,w_6214,x_0,y_131/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1743000674/39-144180967e413e8c4293 1x"
+                            }
+                          ],
+                          "img": {
+                            "@alt": "Ihmisiä ja Finnairin logoja lentoasemalla.",
+                            "@class": "sc-dcKlJK fTKhMH",
+                            "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_3495,w_6214,x_0,y_131/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1743000674/39-144180967e413e8c4293"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "div": {
+            "@class": "sc-hZARmv bNLDLe",
+            "a": [
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Talous",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-204933/fi",
+                "#text": "Talous"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Finnair",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-169143/fi",
+                "#text": "Finnair"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Lakot",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-204408/fi",
+                "#text": "Lakot"
+              }
+            ],
+            "div": {
+              "@class": "sc-dKKIkQ dfGXgP",
+              "button": {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@aria-label": "Näytä kaikki aiheet",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-3 jmqUl dhtMex",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 hvskzw dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@class": "sc-fpEFIB cluDHh",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                      "@fill": "currentColor"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "h2": [
+        {
+          "@class": "sc-eQkCLH dsmTJG",
+          "#text": "Aiheesta enemmän: Paketissa 3 linkkiä"
+        },
+        {
+          "@aria-hidden": "true",
+          "@class": "sc-gGarWV itlDVR yle__article__heading yle__article__heading--3",
+          "#text": "Aiheesta enemmän"
+        }
+      ]
+    }
+  }
+}

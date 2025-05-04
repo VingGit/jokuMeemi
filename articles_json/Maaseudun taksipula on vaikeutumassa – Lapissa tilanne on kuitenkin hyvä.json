@@ -1,0 +1,581 @@
+{
+  "article": {
+    "@class": "yle__article arkki-theme-default",
+    "@data-vrsproduct": "uutiset",
+    "header": {
+      "@class": "yle__article__header",
+      "div": [
+        {
+          "@class": "sc-dbVXhp cBCGOO",
+          "a": {
+            "@aria-label": "Lisää artikkeleita aiheesta Liikenne",
+            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+            "@href": "https://yle.fi/t/18-217946/fi",
+            "#text": "Liikenne"
+          }
+        },
+        {
+          "@class": "sc-lpbaSe cwlsYQ",
+          "ul": {
+            "@aria-label": "Tekijä",
+            "@class": "sc-cNFqVt gmcymk",
+            "li": {
+              "@class": "sc-fpgwy dVrUIC",
+              "span": {
+                "@class": "sc-dZEakj krffzS",
+                "#text": "STT"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-eAZzZC cUksiH",
+          "div": {
+            "@class": "sc-bTPSfG himLlc yle__article__date",
+            "time": {
+              "@class": "sc-geTSWJ dUzrQh yle__article__date--published",
+              "@datetime": "2025-05-04T09:04:44+03:00",
+              "#text": "9:04"
+            }
+          }
+        },
+        {
+          "@class": "sc-cbJLzd fQlwJR",
+          "button": {
+            "@class": "sc-goJFMH hdACns",
+            "@data-testid": "default-article-audio-placeholder",
+            "span": [
+              {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-1 EPLBc dgcsOm",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 ruUVE dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@clip-rule": "evenodd",
+                      "@d": "M5.52 2.122a1 1 0 0 1 1.02.037l14 9a1 1 0 0 1 0 1.682l-14 9A1 1 0 0 1 5 21V3a1 1 0 0 1 .52-.878",
+                      "@fill": "currentColor",
+                      "@fill-rule": "evenodd"
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "sc-jgGpnn laJhEh",
+                "#text": "Kuuntele juttu 4:34"
+              }
+            ]
+          },
+          "div": [
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jweKAa gPvEkW",
+              "div": {
+                "@data-testid": "default-article-audio-player"
+              }
+            },
+            {
+              "@class": "sc-ecBcpz fdHQgB"
+            }
+          ]
+        }
+      ],
+      "h1": {
+        "@class": "sc-ifkGpL jgDrMU yle__article__heading yle__article__heading--1",
+        "#text": "Maaseudun taksipula on vaikeutumassa – Lapissa tilanne on kuitenkin hyvä"
+      },
+      "p": {
+        "@class": "sc-kiMgGE sc-dCVDEO eQvHnw hjdIYW yle__article__paragraph",
+        "#text": "Uusia taksiyrittäjiä tarvittaisiin etenkin Etelä-Karjalaan, Pohjanmaalle, Kymenlaaksoon ja Etelä-Savoon."
+      },
+      "figure": {
+        "@class": "sc-jnflPq edfVsP yle__article__figure",
+        "script": {
+          "@type": "application/ld+json",
+          "#text": "{\"@id\":\"74-20159598\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Etelä-Savoon tarvittaisiin uusia taksiyrittäjiä. Kuvassa on Mäntyharjun taksiasema.\",\"copyrightHolder\":\"Lauri Heino / Lehtikuva\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-14598556816fdb70c8c1\",\"keywords\":\"Mäntyharju,taksiliikenne,taksit,taksiasemat,taksinkuljettajat\"}}"
+        },
+        "div": {
+          "@class": "sc-jxyWrI sc-lcsTPt lbLrnE hUpsZg",
+          "div": {
+            "@class": "sc-gDVcuj lnQPSU",
+            "div": [
+              {
+                "@class": "sc-jScdur jHArTB",
+                "picture": {
+                  "source": [
+                    {
+                      "@data-testid": "source-for-S",
+                      "@media": "(max-width: 767px)",
+                      "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746337309/39-14598556816fdb70c8c1 2x,https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746337309/39-14598556816fdb70c8c1 1x"
+                    },
+                    {
+                      "@data-testid": "source-for-M",
+                      "@media": "(min-width: 768px)",
+                      "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_424,w_636/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746337309/39-14598556816fdb70c8c1 2x,https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_424,w_636/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746337309/39-14598556816fdb70c8c1 1x"
+                    }
+                  ],
+                  "img": {
+                    "@alt": "Mäntyharjun taksiasema ulkoapäin.",
+                    "@class": "sc-dcKlJK fTKhMH",
+                    "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_1992,w_3543,x_0,y_0/ar_1.7777777777777777,c_fill,g_faces,h_431,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746337309/39-14598556816fdb70c8c1"
+                  }
+                }
+              },
+              {
+                "@class": "sc-bpuAaX bNVMPp",
+                "button": {
+                  "@aria-busy": "false",
+                  "@aria-disabled": "false",
+                  "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                  "span": {
+                    "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                    "#text": "Avaa kuvien katselu"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "figcaption": {
+          "@class": "sc-fsjlER icGrCJ",
+          "span": [
+            "Etelä-Savoon tarvittaisiin uusia taksiyrittäjiä. Kuvassa on Mäntyharjun taksiasema.",
+            "Kuva: Lauri Heino / Lehtikuva"
+          ]
+        }
+      }
+    },
+    "section": {
+      "@class": "yle__article__content",
+      "p": [
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Maaseudulla voi olla vaikeaa saada taksia. Kaikkein hankalinta se on arkiöisin."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Taksiyrittäjät hakeutuvat alueille, joilla liiketoiminta on kannattavinta – eli kasvukeskuksiin. Yrittäjät myös ikääntyvät, eikä uusia kuljettajia saada riittävästi etenkään syrjäseuduille."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Annukka Mickelsson"
+          },
+          "#text": "– Maaseutu tyhjenee ja kyydit vähenevät. Autoilijoista on tullut yrittäjiä, joiden on laskettava, missä kannattaa ajaa ja milloin kannattaa valvoa. Nyt ollaan murroksessa ja etsitään hyviä tapoja hoitaa kuljetuksia tasapuolisesti, kuvaa Taksiliiton toimitusjohtaja\n   \n   ."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Suomessa on hänen mukaansa jo kuntia, joissa ei ole kirjoilla yhtään kokonaista taksiautoa tuhatta asukasta kohden. Maakunnista Etelä-Karjalassa on vain 1,9 taksia tuhatta asukasta kohden. Pohjanmaalla vastaava luku on 2, Kymenlaaksossa 2,3 ja Etelä-Savossa 2,5."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Lapin tilanne on hyvä turismin vuoksi: Lapissa takseja on tuhatta asukasta kohden lähes viisi."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Eniten takseja on pääkaupunkiseudulla."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Maalla taksin saaminen voi olla jo mahdotonta arkiyönä, jos ennakkotilausta ei ole."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Reijo Volanen"
+          },
+          "#text": "– Aikaisemmin tämä ei ollut ongelma, kun lakiin ja lupaehtoihin liittyi päivystysvelvollisuus. Paikallisyhdistys teki ajovuorolistoja, ja määrättiin tietty auto päivystämään tiettynä aikana. Kun laki uudistettiin, velvollisuus poistui, kertoo taksiyrittäjä\n   \n   Mäntyharjulta."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Hän ottaisi päivystykset takaisin, mutta ei usko, että moni muu tähän enää suostuisi. Arkiyövuorojen ajaminen ei ole Mäntyharjullakaan kannattavaa, vaikka kyseessä on kesäisin vilkas mökkikunta. Hiljaisten aikojen päivystys on muutaman taksiyrittäjän varassa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Nyt meneillään on puolivuotinen kokeilu taksien päivystyslisästä."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Lähdimme kollegan kanssa ajamaan asiaa ja kysyimme, haluaako Mäntyharju säilyttää taksipalvelun ympärivuorokautisena, Volanen kertoo."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Kesällä selviää, haluaako kunta jatkaa kokeilua."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Volasta huolestuttaa ympärivuorokautisen taksipalvelun päättyminen maalla. Kuka kuljettaa yksinäisen vanhuksen lääkäriin, jos ambulanssi ei ota kyytiin eikä taksia ole tarjolla?"
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Volanen on itse jo eläkeiässä, ja hänen on tarkoitus lopettaa liikennöinti."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Jos katson koko taksiuraani, minua on ruokkinut jaksamaan se, että nuorimmat asiakkaani ovat päiväkodista ja esikoulusta, vanhimmat hoitolaitoksista. Tässä työssä ei ole samanlaisia päiviä, hän summaa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Taksiyrittäjät keskittyvät nykyään kaupunkeihin, ja maalla toiminta nojaa osaltaan yhteiskunnan ostamiin kyyteihin. Näitä ovat Kela-taksikuljetukset ja ohjattu joukkoliikenne: kunta ostaa esimerkiksi asiointikyytejä keskustaan."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Mickelssonin mukaan Kela-kyydeissä on kannattavuusongelmia, ja niitä ajaa vain osa yrittäjistä. Ne eivät kiinnosta nopeita voittoja haluavia yrittäjiä tai Uberin ja Boltin kaltaisia alustatalouden toimijoita."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Kela-kyyteihin haetaan autoja kaukaakin, joten taksin saaminen voi kestää kauan."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Enää ei ole pakko lähteä, vaikka kutsu tulee, mutta keikka ei kannata. Se on vapauden toinen puoli, Mickelsson toteaa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Taksialan kilpailu vapautettiin vuonna 2018 yhdessä yössä. Äkillisestä kilpailun vapauttamisesta seurasi ongelmia, joita hallitus koettaa nyt ratkoa kiristämällä sääntelyä uudelleen."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Uusi taksilaki lähti reilu viikko sitten lausuntokierrokselle, ja syksyksi kaavaillaan lain käsittelyä eduskunnassa. Uudella taksilailla halutaan eroon pimeistä takseista, jotka eivät maksa veroja eivätkä noudata alan sääntöjä."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Maaseudun taksiajojen turvaamiseen ei ole toistaiseksi tiedossa lainsäädännöllistä ratkaisua. Kilpailuviranomaisen kanta on se, että taksipäivystyksistä sopiminen taksien kesken on markkinoiden jakamista ja kiellettyä toimintaa. Taksiliiton mielestä asia vaatisi kuitenkin toisenlaista ratkaisua."
+        }
+      ],
+      "figure": [
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20159598\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Taksinkuljetta Al-Hussaini Abbas Taksi Helsingistä on tyytyväinen työhönsä. Hän kertoi lokakuussa 2024 Ylelle, että hän on ollut alalla kuusi vuotta. Taksinkuljettajia on eniten juuri suurissa kaupungeissa.\",\"name\":\"Taksinkuljettaja Al-Hussaini Abbas pitää työstään Taksi Helsingissä\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-67-5cd76e7b01c0401e98d444f703824289\",\"uploadDate\":\"2024-10-25T18:48:30+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-72265301\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+            "div": {
+              "div": {
+                "@class": "sc-icsLOd deQvTQ",
+                "@data-testid": "video-player"
+              }
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": "Taksinkuljetta Al-Hussaini Abbas Taksi Helsingistä on tyytyväinen työhönsä. Hän kertoi lokakuussa 2024 Ylelle, että hän on ollut alalla kuusi vuotta. Taksinkuljettajia on eniten juuri suurissa kaupungeissa."
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20159598\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Taksiyrittäjä Reijo Volanen on toiminut taksiyrittäjänä 1980-luvulta asti.\",\"copyrightHolder\":\"Lauri Heino / Lehtikuva\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-14598566816fdb71d3ed\",\"keywords\":\"Mäntyharju,taksiliikenne,taksit,taksiasemat,taksinkuljettajat\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE hUpsZg",
+            "div": {
+              "@class": "sc-gDVcuj lnQPSU",
+              "div": [
+                {
+                  "@class": "sc-jScdur jHArTB",
+                  "picture": {
+                    "source": [
+                      {
+                        "@data-testid": "source-for-S",
+                        "@media": "(max-width: 767px)",
+                        "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746337309/39-14598566816fdb71d3ed 2x,https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_511,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746337309/39-14598566816fdb71d3ed 1x"
+                      },
+                      {
+                        "@data-testid": "source-for-M",
+                        "@media": "(min-width: 768px)",
+                        "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_424,w_636/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746337309/39-14598566816fdb71d3ed 2x,https://images.cdn.yle.fi/image/upload/ar_1.5,c_fill,g_faces,h_424,w_636/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746337309/39-14598566816fdb71d3ed 1x"
+                      }
+                    ],
+                    "img": {
+                      "@alt": " Taksiyrittäjä Reijo Volanen istuu taksinsa kuljettajan paikalla.",
+                      "@class": "sc-dcKlJK fTKhMH",
+                      "@loading": "lazy",
+                      "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_1992,w_3543,x_0,y_98/ar_1.7777777777777777,c_fill,g_faces,h_431,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746337309/39-14598566816fdb71d3ed"
+                    }
+                  }
+                },
+                {
+                  "@class": "sc-bpuAaX bNVMPp",
+                  "button": {
+                    "@aria-busy": "false",
+                    "@aria-disabled": "false",
+                    "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                    "span": {
+                      "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                      "#text": "Avaa kuvien katselu"
+                    }
+                  }
+                }
+              ]
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": [
+              "Taksiyrittäjä Reijo Volanen on toiminut taksiyrittäjänä 1980-luvulta asti.",
+              "Kuva: Lauri Heino / Lehtikuva"
+            ]
+          }
+        }
+      ],
+      "h2": [
+        {
+          "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+          "#text": "Kokenut yrittäjä palauttaisi päivystysvuorot"
+        },
+        {
+          "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+          "#text": "Kela-kyytejä ajaa vain osa takseista"
+        },
+        {
+          "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+          "#text": "Taksilain uudistus syksyllä eduskuntaan"
+        }
+      ]
+    },
+    "footer": {
+      "@class": "yle__article__footer",
+      "div": [
+        {
+          "@class": "sc-hjWhcS leSngs"
+        },
+        {
+          "@aria-label": "Aiheesta enemmän",
+          "@class": "yle__article__links",
+          "@role": "list",
+          "div": [
+            {
+              "@class": "sc-deTYHS espHEt",
+              "@role": "listitem",
+              "div": {
+                "@class": "sc-kKyYz jzXcOB",
+                "div": [
+                  {
+                    "@class": "sc-gAOUPA gZmIaQ",
+                    "div": {
+                      "@class": "sc-eJNWfD hzBpgx",
+                      "div": [
+                        {
+                          "@class": "sc-fjohHk glKee",
+                          "a": {
+                            "@aria-label": "Lisää artikkeleita aiheesta Liikenne",
+                            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                            "@href": "https://yle.fi/t/18-217946/fi",
+                            "#text": "Liikenne"
+                          }
+                        },
+                        {
+                          "@class": "sc-eQkCLH dsmTJG",
+                          "time": {
+                            "@class": "sc-geTSWJ dUzrQh",
+                            "@datetime": "2025-02-03T11:25:36+02:00",
+                            "#text": "Julkaistu\n         \n         \n         3.2.2025"
+                          }
+                        }
+                      ],
+                      "h3": {
+                        "@class": "sc-bNtlzC eGiYeo",
+                        "a": {
+                          "@class": "sc-ifISnl hcDWQv",
+                          "@href": "https://yle.fi/a/74-20141076",
+                          "#text": "Helsingin päärautatieasemalla operoi vastaisuudessa vain kaksi taksifirmaa"
+                        }
+                      },
+                      "time": {
+                        "@aria-hidden": "true",
+                        "@class": "sc-hwcCMm eGomKG",
+                        "#text": "3.2."
+                      }
+                    }
+                  },
+                  {
+                    "@class": "sc-dGFvgh hggeEO",
+                    "div": {
+                      "@class": "sc-glqzCN hqchfN",
+                      "div": {
+                        "@class": "sc-jScdur jHArTB",
+                        "picture": {
+                          "source": [
+                            {
+                              "@data-testid": "source-for-S",
+                              "@media": "(max-width: 767px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_2004,w_2004,x_1175,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1579597508/39-5893215d761727a875f 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_2004,w_2004,x_1175,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1579597508/39-5893215d761727a875f 1x"
+                            },
+                            {
+                              "@data-testid": "source-for-M",
+                              "@media": "(min-width: 768px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_2004,w_3563,x_0,y_0/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1579597508/39-5893215d761727a875f 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_2004,w_3563,x_0,y_0/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1579597508/39-5893215d761727a875f 1x"
+                            }
+                          ],
+                          "img": {
+                            "@alt": "Takseja Helsingin rautatieaseman luona",
+                            "@class": "sc-dcKlJK fTKhMH",
+                            "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2004,w_3563,x_0,y_0/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1579597508/39-5893215d761727a875f"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jUhsXd gbxWvu",
+              "hr": {
+                "@class": "sc-fZSzjs kgWFfO"
+              }
+            },
+            {
+              "@class": "sc-deTYHS espHEt",
+              "@role": "listitem",
+              "div": {
+                "@class": "sc-kKyYz jzXcOB",
+                "div": [
+                  {
+                    "@class": "sc-gAOUPA gZmIaQ",
+                    "div": {
+                      "@class": "sc-eJNWfD hzBpgx",
+                      "div": [
+                        {
+                          "@class": "sc-fjohHk glKee",
+                          "a": {
+                            "@aria-label": "Lisää artikkeleita aiheesta Liikenne",
+                            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                            "@href": "https://yle.fi/t/18-217946/fi",
+                            "#text": "Liikenne"
+                          }
+                        },
+                        {
+                          "@class": "sc-eQkCLH dsmTJG",
+                          "time": {
+                            "@class": "sc-geTSWJ dUzrQh",
+                            "@datetime": "2024-10-29T17:29:29+02:00",
+                            "#text": "Julkaistu\n         \n         \n         2024"
+                          }
+                        }
+                      ],
+                      "h3": {
+                        "@class": "sc-bNtlzC eGiYeo",
+                        "a": {
+                          "@class": "sc-ifISnl hcDWQv",
+                          "@href": "https://yle.fi/a/74-20119385",
+                          "#text": "Taksialan kilpailu kiristyy – Uber laajensi useisiin uusiin kaupunkeihin Suomessa, kuljettajamäärä tuplaantunut"
+                        }
+                      },
+                      "time": {
+                        "@aria-hidden": "true",
+                        "@class": "sc-hwcCMm eGomKG",
+                        "#text": "2024"
+                      }
+                    }
+                  },
+                  {
+                    "@class": "sc-dGFvgh hggeEO",
+                    "div": {
+                      "@class": "sc-glqzCN hqchfN",
+                      "div": {
+                        "@class": "sc-jScdur jHArTB",
+                        "picture": {
+                          "source": [
+                            {
+                              "@data-testid": "source-for-S",
+                              "@media": "(max-width: 767px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_4000,w_4000,x_875,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1729751217/39-13684316719e83b95e6d 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_4000,w_4000,x_875,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1729751217/39-13684316719e83b95e6d 1x"
+                            },
+                            {
+                              "@data-testid": "source-for-M",
+                              "@media": "(min-width: 768px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3375,w_6000,x_0,y_262/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1729751217/39-13684316719e83b95e6d 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3375,w_6000,x_0,y_262/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1729751217/39-13684316719e83b95e6d 1x"
+                            }
+                          ],
+                          "img": {
+                            "@alt": "Henkilökuvassa Al-Hussaini Abbas, taksinkuljettaja.",
+                            "@class": "sc-dcKlJK fTKhMH",
+                            "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_3375,w_6000,x_0,y_262/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1729751217/39-13684316719e83b95e6d"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "div": {
+            "@class": "sc-hZARmv bNLDLe",
+            "a": [
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Liikenne",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-217946/fi",
+                "#text": "Liikenne"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Taksiliikenne",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-83374/fi",
+                "#text": "Taksiliikenne"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Liikenne ja kuljetus",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-91232/fi",
+                "#text": "Liikenne ja kuljetus"
+              }
+            ],
+            "div": {
+              "@class": "sc-dKKIkQ dfGXgP",
+              "button": {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@aria-label": "Näytä kaikki aiheet",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-3 jmqUl dhtMex",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 hvskzw dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@class": "sc-fpEFIB cluDHh",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                      "@fill": "currentColor"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "h2": [
+        {
+          "@class": "sc-eQkCLH dsmTJG",
+          "#text": "Aiheesta enemmän: Paketissa 2 linkkiä"
+        },
+        {
+          "@aria-hidden": "true",
+          "@class": "sc-gGarWV itlDVR yle__article__heading yle__article__heading--3",
+          "#text": "Aiheesta enemmän"
+        }
+      ]
+    }
+  }
+}

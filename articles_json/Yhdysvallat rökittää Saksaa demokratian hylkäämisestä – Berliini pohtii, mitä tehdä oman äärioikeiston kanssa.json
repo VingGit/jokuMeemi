@@ -1,0 +1,622 @@
+{
+  "article": {
+    "@class": "yle__article arkki-theme-default",
+    "@data-vrsproduct": "uutiset",
+    "header": {
+      "@class": "yle__article__header",
+      "div": [
+        {
+          "@class": "sc-dbVXhp cBCGOO",
+          "a": {
+            "@aria-label": "Lisää artikkeleita aiheesta Saksa",
+            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+            "@href": "https://yle.fi/t/18-177448/fi",
+            "#text": "Saksa"
+          }
+        },
+        {
+          "@class": "sc-lpbaSe cwlsYQ",
+          "ul": {
+            "@aria-label": "Tekijä",
+            "@class": "sc-cNFqVt gmcymk",
+            "li": {
+              "@class": "sc-fpgwy dVrUIC",
+              "span": {
+                "@class": "sc-dZEakj krffzS",
+                "#text": "Pauli Lahti"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-eAZzZC cUksiH",
+          "div": {
+            "@class": "sc-bTPSfG himLlc yle__article__date",
+            "time": {
+              "@class": "sc-geTSWJ dUzrQh yle__article__date--published",
+              "@datetime": "2025-05-03T18:50:08+03:00",
+              "#text": "3.5. 18:50"
+            }
+          }
+        },
+        {
+          "@class": "sc-cbJLzd fQlwJR",
+          "button": {
+            "@class": "sc-goJFMH hdACns",
+            "@data-testid": "default-article-audio-placeholder",
+            "span": [
+              {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-1 EPLBc dgcsOm",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 ruUVE dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@clip-rule": "evenodd",
+                      "@d": "M5.52 2.122a1 1 0 0 1 1.02.037l14 9a1 1 0 0 1 0 1.682l-14 9A1 1 0 0 1 5 21V3a1 1 0 0 1 .52-.878",
+                      "@fill": "currentColor",
+                      "@fill-rule": "evenodd"
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "sc-jgGpnn laJhEh",
+                "#text": "Kuuntele juttu 2:44"
+              }
+            ]
+          },
+          "div": [
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jweKAa gPvEkW",
+              "div": {
+                "@data-testid": "default-article-audio-player"
+              }
+            },
+            {
+              "@class": "sc-ecBcpz fdHQgB"
+            }
+          ]
+        }
+      ],
+      "h1": {
+        "@class": "sc-ifkGpL jgDrMU yle__article__heading yle__article__heading--1",
+        "#text": "Yhdysvallat rökittää Saksaa demokratian hylkäämisestä – Berliini pohtii, mitä tehdä oman äärioikeiston kanssa"
+      },
+      "p": {
+        "@class": "sc-kiMgGE sc-dCVDEO eQvHnw hjdIYW yle__article__paragraph",
+        "#text": "Saksassa keskustelu kansansuosikki AfD:n kohtalosta kiihtyy. Äärioikeistolaiseksi luokiteltu puolue voi pidemmän päälle olla uhka maan demokratialle."
+      },
+      "figure": {
+        "@class": "sc-jnflPq edfVsP yle__article__figure",
+        "script": {
+          "@type": "application/ld+json",
+          "#text": "{\"@id\":\"74-20159556\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"AfD-puolueen johtokaksikko Alice Weidel ja Tino Chrupalla lehdistötilaisuudessa Berliinissä 24. helmikuuta.\",\"copyrightHolder\":\"Filip Singer / EPA\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_1.5729260257562145,c_fill,g_faces,h_487,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-145968468162bedbc65c\",\"keywords\":\"Vaihtoehto Saksalle (AfD),Tino Chrupalla,Alice Weidel\"}}"
+        },
+        "div": {
+          "@class": "sc-jxyWrI sc-lcsTPt lbLrnE keacmY",
+          "div": {
+            "@class": "sc-gDVcuj lnQPSU",
+            "div": [
+              {
+                "@class": "sc-jScdur jHArTB",
+                "picture": {
+                  "source": [
+                    {
+                      "@data-testid": "source-for-S",
+                      "@media": "(max-width: 767px)",
+                      "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5729260257562145,c_fill,g_faces,h_487,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746283591/39-145968468162bedbc65c 2x,https://images.cdn.yle.fi/image/upload/ar_1.5729260257562145,c_fill,g_faces,h_487,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746283591/39-145968468162bedbc65c 1x"
+                    },
+                    {
+                      "@data-testid": "source-for-M",
+                      "@media": "(min-width: 768px)",
+                      "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.5729260257562145,c_fill,g_faces,h_404,w_636/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746283591/39-145968468162bedbc65c 2x,https://images.cdn.yle.fi/image/upload/ar_1.5729260257562145,c_fill,g_faces,h_404,w_636/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746283591/39-145968468162bedbc65c 1x"
+                    }
+                  ],
+                  "img": {
+                    "@alt": "Alice Weidel ja Tino Chrupalla AfD-puolueen lehdistötilaisuudessa.",
+                    "@class": "sc-dcKlJK fTKhMH",
+                    "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2954,w_5252,x_0,y_6/ar_1.7777777777777777,c_fill,g_faces,h_431,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746283591/39-145968468162bedbc65c"
+                  }
+                }
+              },
+              {
+                "@class": "sc-bpuAaX bNVMPp",
+                "button": {
+                  "@aria-busy": "false",
+                  "@aria-disabled": "false",
+                  "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                  "span": {
+                    "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                    "#text": "Avaa kuvien katselu"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "figcaption": {
+          "@class": "sc-fsjlER icGrCJ",
+          "span": [
+            "AfD-puolueen johtokaksikko Alice Weidel ja Tino Chrupalla lehdistötilaisuudessa Berliinissä 24. helmikuuta.",
+            "Kuva: Filip Singer / EPA"
+          ]
+        }
+      }
+    },
+    "section": {
+      "@class": "yle__article__content",
+      "p": [
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Saksan suojelupoliisi (BfV) linjasi eilen perjantaina, että AfD eli Vaihtoehto Saksalle -puolue on äärioikeistolainen liike."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Se oli kirjaus, joka aiheutti kohahduksia Yhdysvalloissa asti."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Marco Rubio"
+          },
+          "#text": "Ulkoministeri\n   \n   reagoi ensimmäisenä. Viestipalvelu X:ään kirjoittamassaan tekstissä hän kuvasi päätöstä ”valepukuiseksi tyranniaksi”."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "a": {
+            "@class": "sc-iCmUMC eAECGk yle__article__link",
+            "@href": "https://www.bbc.com/news/articles/cy4vz9jed5lo",
+            "@role": "link",
+            "#text": "puolestaan arvioi,"
+          },
+          "#text": "Varapresidentti J.D. Vance\n   \n   että ”Saksan eliitti rakensi Berliinin muurin uudelleen”."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Saksassa tilanne nähdään ymmärrettävästi toisin. Maalla on natsi-ajoilta ruma muisto siitä, mitä tapahtuu, kun äärioikeisto ottaa vallan itselleen."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Nyt kun Saksan turvallisuusviranomaiset ovat luokitelleet AfD:n jopa vaaraksi demokratialle, puolue joutuu aiempaa tiukempaan tarkkailuun."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Lisävaltuuksien avulla viranomaiset saavat jatkossa esimerkiksi kuunnella AfD-poliitikkojen puhelimia tai ujuttaa omia työntekijöitään puolueen sisälle peitetehtäviin."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "a": {
+            "@class": "sc-iCmUMC eAECGk yle__article__link",
+            "@href": "https://www.verfassungsschutz.de/SharedD",
+            "@role": "link",
+            "#text": "tasavertaisina kansalaisina"
+          },
+          "#text": "Suojelupoliisi perusteli päätöstä sillä, että AFD puolueena ei pidä kaikkia ihmisiä\n   \n   . Käytännössä tämä tarkoittaa muslimimaista tulevia ihmisiä."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Tino Chrupalla"
+          },
+          "a": {
+            "@class": "sc-iCmUMC eAECGk yle__article__link",
+            "@href": "https://www.sueddeutsche.de/panorama/afd-chef-chrupalla-schwarzer-freitag-fuer-die-demokratie-li.3246152",
+            "@role": "link",
+            "#text": "Perustelut eivät kuulemma"
+          },
+          "#text": "AfD:n toinen puheenjohtaja\n   \n   ei sulattanut suojelupoliisin linjausta.\n   \n   riittäneet, ja edessä on oikeustaisteluita."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Saksan muut puolueet joutuvat joka tapauksessa ottamaan kantaa siihen, miten toimia jatkossa AfD:n kanssa. Tähänkään asti yksikään merkittävä puolue ei ole suostunut tekemään sen kanssa yhteistyötä valtakunnan tasolla."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Yhtenä vaihtoehtona on se, että perustuslainvastaiseksi tulkitun AfD:n toiminta kielletään kokonaan. Siihen on kuitenkin pitkä matka."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Olaf Scholz"
+          },
+          "#text": "Viimeisiä päiviään liittokanslerin virkaa hoitava\n   \n   (SPD) vastustaa pikaisia päätöksiä. Asia on tutkittava huolellisesti, harkitsevuudestaan, tai jopa jahkailustaan, tunnetuksi tullut Scholz sanoi."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "AfD:n kieltämiselle on helppo löytää perusteluita puolesta ja vastaan."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Teoreettinen keskustelu aiheesta on kuitenkin vaikeampaa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "a": {
+            "@class": "sc-iCmUMC eAECGk yle__article__link",
+            "@href": "https://www.wahlrecht.de/umfragen/",
+            "@role": "link",
+            "#text": "mielipidemittausten mukaan"
+          },
+          "#text": "Iso kysymys kuuluu: miten voisi olla mahdollista kieltää puolue, jota\n   \n   kannattaa joka neljäs saksalainen."
+        }
+      ],
+      "h2": [
+        {
+          "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+          "#text": "AfD joutuu tarkkaan syyniin"
+        },
+        {
+          "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+          "#text": "Kansansuosikkia on vaikea syrjäyttää"
+        }
+      ],
+      "figure": [
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20159556\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"AfD:n toinen puheenjohtaja tivaa perusteluja puolueen luokittelemiselle äärioikeistolaiseksi.\",\"name\":\"AfD:n puheenjohtaja perää todisteita\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-67-b19aa22159c947edb4e1f29d88f25f92\",\"uploadDate\":\"2025-05-03T15:04:14+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74403947\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+            "div": {
+              "div": {
+                "@class": "sc-icsLOd deQvTQ",
+                "@data-testid": "video-player"
+              }
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": "AfD:n toinen puheenjohtaja tivaa perusteluja puolueen luokittelemiselle äärioikeistolaiseksi."
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20159556\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Väistyvä liittokansleri Scholz ei kannata pikaratkaisua AfD:n kieltämisessä.\",\"name\":\"Scholz ei kannata AfD:n nopeaa kieltämistä\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-67-9a1ef9e70a8947fe869162861eca3113\",\"uploadDate\":\"2025-05-03T14:52:38+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74403944\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+            "div": {
+              "div": {
+                "@class": "sc-icsLOd deQvTQ",
+                "@data-testid": "video-player"
+              }
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": "Väistyvä liittokansleri Scholz ei kannata pikaratkaisua AfD:n kieltämisessä."
+          }
+        }
+      ]
+    },
+    "footer": {
+      "@class": "yle__article__footer",
+      "div": [
+        {
+          "@class": "sc-hjWhcS leSngs"
+        },
+        {
+          "@aria-label": "Aiheesta enemmän",
+          "@class": "yle__article__links",
+          "@role": "list",
+          "div": [
+            {
+              "@class": "sc-deTYHS espHEt",
+              "@role": "listitem",
+              "div": {
+                "@class": "sc-kKyYz jzXcOB",
+                "div": [
+                  {
+                    "@class": "sc-gAOUPA gZmIaQ",
+                    "div": {
+                      "@class": "sc-eJNWfD hzBpgx",
+                      "div": [
+                        {
+                          "@class": "sc-fjohHk glKee",
+                          "a": {
+                            "@aria-label": "Lisää artikkeleita aiheesta Saksa",
+                            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                            "@href": "https://yle.fi/t/18-177448/fi",
+                            "#text": "Saksa"
+                          }
+                        },
+                        {
+                          "@class": "sc-eQkCLH dsmTJG",
+                          "time": {
+                            "@class": "sc-geTSWJ dUzrQh",
+                            "@datetime": "2025-05-02T11:21:10+03:00",
+                            "#text": "Julkaistu\n         \n         \n         2.5.2025"
+                          }
+                        }
+                      ],
+                      "h3": {
+                        "@class": "sc-bNtlzC eGiYeo",
+                        "a": {
+                          "@class": "sc-ifISnl hcDWQv",
+                          "@href": "https://yle.fi/a/74-20159334",
+                          "#text": "Vaihtoehto Saksalle -puolue luokiteltiin Saksassa äärijärjestöksi"
+                        }
+                      },
+                      "time": {
+                        "@aria-hidden": "true",
+                        "@class": "sc-hwcCMm eGomKG",
+                        "#text": "2.5."
+                      }
+                    }
+                  },
+                  {
+                    "@class": "sc-dGFvgh hggeEO",
+                    "div": {
+                      "@class": "sc-glqzCN hqchfN",
+                      "div": {
+                        "@class": "sc-jScdur jHArTB",
+                        "picture": {
+                          "source": [
+                            {
+                              "@data-testid": "source-for-S",
+                              "@media": "(max-width: 767px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_2572,w_2572,x_400,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1740334785/39-142621567bb664225347 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_2572,w_2572,x_400,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1740334785/39-142621567bb664225347 1x"
+                            },
+                            {
+                              "@data-testid": "source-for-M",
+                              "@media": "(min-width: 768px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_2170,w_3858,x_0,y_163/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1740334785/39-142621567bb664225347 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_2170,w_3858,x_0,y_163/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1740334785/39-142621567bb664225347 1x"
+                            }
+                          ],
+                          "img": {
+                            "@alt": "AfD.n johtoa vaalivalvojaisissa.",
+                            "@class": "sc-dcKlJK fTKhMH",
+                            "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2170,w_3858,x_0,y_163/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1740334785/39-142621567bb664225347"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jUhsXd gbxWvu",
+              "hr": {
+                "@class": "sc-fZSzjs kgWFfO"
+              }
+            },
+            {
+              "@class": "sc-deTYHS espHEt",
+              "@role": "listitem",
+              "div": {
+                "@class": "sc-kKyYz jzXcOB",
+                "div": [
+                  {
+                    "@class": "sc-gAOUPA gZmIaQ",
+                    "div": {
+                      "@class": "sc-eJNWfD hzBpgx",
+                      "div": [
+                        {
+                          "@class": "sc-fjohHk glKee",
+                          "a": {
+                            "@aria-label": "Lisää artikkeleita aiheesta Saksa",
+                            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                            "@href": "https://yle.fi/t/18-177448/fi",
+                            "#text": "Saksa"
+                          }
+                        },
+                        {
+                          "@class": "sc-eQkCLH dsmTJG",
+                          "time": {
+                            "@class": "sc-geTSWJ dUzrQh",
+                            "@datetime": "2025-01-26T11:05:12+02:00",
+                            "#text": "Julkaistu\n         \n         \n         26.1.2025"
+                          }
+                        }
+                      ],
+                      "h3": {
+                        "@class": "sc-bNtlzC eGiYeo",
+                        "a": {
+                          "@class": "sc-ifISnl hcDWQv",
+                          "@href": "https://yle.fi/a/74-20139400",
+                          "#text": "”AfD ei ole vaihtoehto Saksalle” – kymmenet­tuhannet osoittivat mieltään äärioikeistoa vastaan"
+                        }
+                      },
+                      "time": {
+                        "@aria-hidden": "true",
+                        "@class": "sc-hwcCMm eGomKG",
+                        "#text": "26.1."
+                      }
+                    }
+                  },
+                  {
+                    "@class": "sc-dGFvgh hggeEO",
+                    "div": {
+                      "@class": "sc-glqzCN hqchfN",
+                      "div": {
+                        "@class": "sc-jScdur jHArTB",
+                        "picture": {
+                          "source": [
+                            {
+                              "@data-testid": "source-for-S",
+                              "@media": "(max-width: 767px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_5464,w_5464,x_2329,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1737880913/39-14119726795f51aedac6 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_5464,w_5464,x_2329,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1737880913/39-14119726795f51aedac6 1x"
+                            },
+                            {
+                              "@data-testid": "source-for-M",
+                              "@media": "(min-width: 768px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_4597,w_8174,x_0,y_341/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1737880913/39-14119726795f51aedac6 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_4597,w_8174,x_0,y_341/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1737880913/39-14119726795f51aedac6 1x"
+                            }
+                          ],
+                          "img": {
+                            "@alt": "Mielenosoitus Berliinissä Brandenburgin portin edessä. Mielenosoittajilla on käsissään kirjaimia, joista muodostuvat sanat Hope & Resistance.",
+                            "@class": "sc-dcKlJK fTKhMH",
+                            "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_4597,w_8174,x_0,y_341/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1737880913/39-14119726795f51aedac6"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jUhsXd gbxWvu",
+              "hr": {
+                "@class": "sc-fZSzjs kgWFfO"
+              }
+            },
+            {
+              "@class": "sc-deTYHS espHEt",
+              "@role": "listitem",
+              "div": {
+                "@class": "sc-kKyYz jzXcOB",
+                "div": [
+                  {
+                    "@class": "sc-gAOUPA gZmIaQ",
+                    "div": {
+                      "@class": "sc-eJNWfD hzBpgx",
+                      "div": [
+                        {
+                          "@class": "sc-fjohHk glKee",
+                          "a": {
+                            "@aria-label": "Lisää artikkeleita aiheesta Saksa",
+                            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                            "@href": "https://yle.fi/t/18-177448/fi",
+                            "#text": "Saksa"
+                          }
+                        },
+                        {
+                          "@class": "sc-eQkCLH dsmTJG",
+                          "time": {
+                            "@class": "sc-geTSWJ dUzrQh",
+                            "@datetime": "2025-02-23T09:00:14+02:00",
+                            "#text": "Julkaistu\n         \n         \n         23.2.2025"
+                          }
+                        }
+                      ],
+                      "h3": {
+                        "@class": "sc-bNtlzC eGiYeo",
+                        "a": {
+                          "@class": "sc-ifISnl hcDWQv",
+                          "@href": "https://yle.fi/a/74-20145420",
+                          "#text": "Kristillisdemokraatit vaalivoittoon Saksassa\n – äänestysaktiivisuus nousi yli 80 prosentin"
+                        }
+                      },
+                      "time": {
+                        "@aria-hidden": "true",
+                        "@class": "sc-hwcCMm eGomKG",
+                        "#text": "23.2."
+                      }
+                    }
+                  },
+                  {
+                    "@class": "sc-dGFvgh hggeEO",
+                    "div": {
+                      "@class": "sc-glqzCN hqchfN",
+                      "div": {
+                        "@class": "sc-jScdur jHArTB",
+                        "picture": {
+                          "source": [
+                            {
+                              "@data-testid": "source-for-S",
+                              "@media": "(max-width: 767px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/13-1-73691085-1740374020744 2x,https://images.cdn.yle.fi/image/upload/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/13-1-73691085-1740374020744 1x"
+                            },
+                            {
+                              "@data-testid": "source-for-M",
+                              "@media": "(min-width: 768px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/13-1-73691085-1740374020744 2x,https://images.cdn.yle.fi/image/upload/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/13-1-73691085-1740374020744 1x"
+                            }
+                          ],
+                          "img": {
+                            "@alt": "",
+                            "@class": "sc-dcKlJK fTKhMH",
+                            "@src": "https://images.cdn.yle.fi/image/upload/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/13-1-73691085-1740374020744"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "div": {
+            "@class": "sc-hZARmv bNLDLe",
+            "a": [
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Saksa",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-177448/fi",
+                "#text": "Saksa"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Vaihtoehto Saksalle (AfD)",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-132700/fi",
+                "#text": "Vaihtoehto Saksalle (AfD)"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Yhdysvallat",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-193507/fi",
+                "#text": "Yhdysvallat"
+              }
+            ],
+            "div": {
+              "@class": "sc-dKKIkQ dfGXgP",
+              "button": {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@aria-label": "Näytä kaikki aiheet",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-3 jmqUl dhtMex",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 hvskzw dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@class": "sc-fpEFIB cluDHh",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                      "@fill": "currentColor"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "h2": [
+        {
+          "@class": "sc-eQkCLH dsmTJG",
+          "#text": "Aiheesta enemmän: Paketissa 3 linkkiä"
+        },
+        {
+          "@aria-hidden": "true",
+          "@class": "sc-gGarWV itlDVR yle__article__heading yle__article__heading--3",
+          "#text": "Aiheesta enemmän"
+        }
+      ]
+    }
+  }
+}

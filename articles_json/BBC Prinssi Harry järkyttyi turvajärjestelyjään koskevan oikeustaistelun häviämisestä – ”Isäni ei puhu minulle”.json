@@ -1,0 +1,309 @@
+{
+  "article": {
+    "@class": "yle__article arkki-theme-default",
+    "@data-vrsproduct": "uutiset",
+    "header": {
+      "@class": "yle__article__header",
+      "div": [
+        {
+          "@class": "sc-dbVXhp cBCGOO",
+          "a": {
+            "@aria-label": "Lisää artikkeleita aiheesta Britannia",
+            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+            "@href": "https://yle.fi/t/18-182159/fi",
+            "#text": "Britannia"
+          }
+        },
+        {
+          "@class": "sc-lpbaSe cwlsYQ",
+          "ul": {
+            "@aria-label": "Tekijä",
+            "@class": "sc-cNFqVt gmcymk",
+            "li": {
+              "@class": "sc-fpgwy dVrUIC",
+              "span": {
+                "@class": "sc-dZEakj krffzS",
+                "#text": "Antti Palomaa"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-eAZzZC cUksiH",
+          "div": {
+            "@class": "sc-bTPSfG himLlc yle__article__date",
+            "time": [
+              {
+                "@class": "sc-geTSWJ dUzrQh yle__article__date--published",
+                "@datetime": "2025-05-03T14:19:46+03:00",
+                "#text": "3.5. 14:19"
+              },
+              {
+                "@class": "sc-geTSWJ dUzrQh yle__article__date--modified",
+                "@datetime": "2025-05-03T14:41:54+03:00",
+                "#text": "Päivitetty\n     \n     \n     3.5. 14:41"
+              }
+            ],
+            "span": {
+              "@aria-hidden": "true",
+              "@class": "sc-diziqI dgaCq",
+              "#text": "•"
+            }
+          }
+        },
+        {
+          "@class": "sc-cbJLzd fQlwJR",
+          "button": {
+            "@class": "sc-goJFMH hdACns",
+            "@data-testid": "default-article-audio-placeholder",
+            "span": [
+              {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-1 EPLBc dgcsOm",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 ruUVE dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@clip-rule": "evenodd",
+                      "@d": "M5.52 2.122a1 1 0 0 1 1.02.037l14 9a1 1 0 0 1 0 1.682l-14 9A1 1 0 0 1 5 21V3a1 1 0 0 1 .52-.878",
+                      "@fill": "currentColor",
+                      "@fill-rule": "evenodd"
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "sc-jgGpnn laJhEh",
+                "#text": "Kuuntele juttu 2:49"
+              }
+            ]
+          },
+          "div": [
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jweKAa gPvEkW",
+              "div": {
+                "@data-testid": "default-article-audio-player"
+              }
+            },
+            {
+              "@class": "sc-ecBcpz fdHQgB"
+            }
+          ]
+        }
+      ],
+      "h1": {
+        "@class": "sc-ifkGpL jgDrMU yle__article__heading yle__article__heading--1",
+        "#text": "BBC: Prinssi Harry järkyttyi turvajärjestelyjään koskevan oikeustaistelun häviämisestä – ”Isäni ei puhu minulle”"
+      },
+      "p": {
+        "@class": "sc-kiMgGE sc-dCVDEO eQvHnw hjdIYW yle__article__paragraph",
+        "#text": "Britannian prinssi Harry antoi haastattelun yksinoikeudella BBC:lle Kaliforniassa sen jälkeen, kun oli hävinnyt turvajärjestelyjään Britanniassa koskevan oikeustaistelunsa."
+      },
+      "figure": {
+        "@class": "sc-jnflPq gibcrQ yle__article__figure",
+        "script": {
+          "@type": "application/ld+json",
+          "#text": "{\"@id\":\"74-20159539\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Prinssi Harry kertoi BBC:lle, että hänen isänsä, kuningas Charles III, ei puhu hänelle turvallisuusasian takia. Videon editointi: Atte Nurminen / Yle. \",\"name\":\"BBC:n erikoishaastattelu: Prinssi Harry haluaa tehdä sovun perheensä kanssa\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/39-125048065df226f053d2\",\"uploadDate\":\"2025-05-03T14:23:55+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74403942\"}}"
+        },
+        "div": {
+          "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+          "div": {
+            "div": {
+              "@class": "sc-icsLOd deQvTQ",
+              "@data-testid": "video-player"
+            }
+          }
+        },
+        "figcaption": {
+          "@class": "sc-fsjlER icGrCJ",
+          "span": "Prinssi Harry kertoi BBC:lle, että hänen isänsä, kuningas Charles III, ei puhu hänelle turvallisuusasian takia. Videon editointi: Atte Nurminen / Yle."
+        }
+      }
+    },
+    "section": {
+      "@class": "yle__article__content",
+      "p": [
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Harry"
+          },
+          "#text": "Prinssi\n   \n   haluaa päästä sopuun perheensä kanssa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": [
+            {
+              "@class": "sc-fGdmel gJEGys yle__article__strong",
+              "#text": "Charles III"
+            },
+            {
+              "@class": "sc-fGdmel gJEGys yle__article__strong",
+              "#text": "Dianan"
+            }
+          ],
+          "a": {
+            "@class": "sc-iCmUMC eAECGk yle__article__link",
+            "@href": "https://www.bbc.com/news/articles/c8074n5z597o",
+            "@role": "link",
+            "#text": "haastattelussa"
+          },
+          "#text": "Kuningas\n   \n   :n ja edesmenneen prinsessa\n   \n   nuorempi poika esitti toiveen sovusta Britannian yleisradioyhtiön perjantaina julkaisemassa\n   \n   ."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Prinssi Harry kertoi olevansa järkyttynyt siitä, että hävisi turvajärjestelyjään koskevan oikeustaistelun."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "a": {
+            "@class": "sc-iCmUMC eAECGk yle__article__link",
+            "@href": "https://www.bbc.com/news/articles/c2kvw2pvw8eo",
+            "@role": "link",
+            "#text": "torjui"
+          },
+          "#text": "Perjantaina oikeusistuin\n   \n   prinssi Harryn asiaa koskeneen valituksen."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Buckinghamin palatsi kommentoi, että oikeusistuimet ovat tutkineet kaikki nämä asiat toistuvasti ja päätyneet aina samaan lopputulokseen."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Meghan"
+          },
+          "#text": "Prinssi Harry on taistellut vuodesta 2020 sen puolesta, että hän ja hänen puolisonsa\n   \n   olisivat yhä oikeutettuja poliisin suojeluun Britanniassa käydessään."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Britannian hallituksen komitea päätti laskea prinssi Harryn suojelun tasoa sen jälkeen, kun prinssi luopui kuninkaallisista velvollisuuksistaan ja muutti Yhdysvaltoihin."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Prinssi Harry antoi haastattelun yksinoikeudella BBC:lle Kaliforniassa. Hän kertoi, että hänen isänsä, kuningas Charles III, ei puhu hänelle turvallisuuskysymyksen takia."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Prinssi Harry sanoi, että ei haluaisi enää tapella."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Elämä on arvokasta. En tiedä, kuinka kauan isäni elää."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Prinssi Harry sanoi myös, että hän ei pysty nyt näkemään tulevaisuutta, jossa toisi vaimonsa ja lapsensa takaisin Britanniaan."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– He jäävät paitsi kaikesta. Rakastan maatani, olen aina rakastanut, huolimatta siitä, mitä jotkut ihmiset siinä maassa ovat tehneet."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Prinssi Harry sanoi, että hänen isällään on turvallisuuskysymyksessä paljon valtaa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Hän voisi astua sivuun ja antaa asiantuntijoiden tehdä, mitä pitää."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Prinssi Harry katsoo, että kuningashuone sekaantui vuonna 2020 hänen turvallisuuttaan koskeneeseen päätökseen."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Keir Starmer"
+          },
+          "#text": "Prinssi toivoi, että nykyinen hallitus ja sen pääministeri\n   \n   puuttuisivat hänen suojeluaan koskevaan tilanteeseen."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "a": {
+            "@class": "sc-iCmUMC eAECGk yle__article__link",
+            "@href": "https://yle.fi/a/74-20012234",
+            "@role": "link",
+            "#text": "kirjan"
+          },
+          "#text": "Prinssi Harryn mukaan hänen ja joidenkin kuninkaallisen perheen jäsenten välillä on ollut paljon erimielisyyksiä. Hän arvioi, että jotkut hänen perheenjäsenensä eivät anna koskaan anteeksi, että hän kirjoitti paljastavan\n   \n   omasta elämästään, tai monia muitakaan asioita."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Prinssi sanoi kaipaavansa Britanniaa ja pitävänsä surullisena sitä, että ei voi näyttää lapsilleen kotimaataan."
+        }
+      ],
+      "h2": {
+        "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+        "#text": "Prinssi haluaisi lopettaa tappelemisen"
+      }
+    },
+    "footer": {
+      "@class": "yle__article__footer",
+      "div": [
+        {
+          "@class": "sc-hjWhcS leSngs"
+        },
+        {
+          "div": {
+            "@class": "sc-hZARmv bNLDLe",
+            "a": [
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Britannia",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-182159/fi",
+                "#text": "Britannia"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Britannian kuninkaallinen perhe",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-140872/fi",
+                "#text": "Britannian kuninkaallinen perhe"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Prinssi Harry, Sussexin herttua",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-132617/fi",
+                "#text": "Prinssi Harry, Sussexin herttua"
+              }
+            ],
+            "div": {
+              "@class": "sc-dKKIkQ dfGXgP",
+              "button": {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@aria-label": "Näytä kaikki aiheet",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-3 jmqUl dhtMex",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 hvskzw dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@class": "sc-fpEFIB cluDHh",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                      "@fill": "currentColor"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

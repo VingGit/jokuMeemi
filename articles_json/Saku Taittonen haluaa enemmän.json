@@ -1,0 +1,1503 @@
+{
+  "article": {
+    "@class": "yle__article arkki-theme-default",
+    "@data-vrsproduct": "uutiset",
+    "header": {
+      "@class": "yle__article__header",
+      "div": [
+        {
+          "@class": "sc-djyMRm fcgIrf",
+          "figure": {
+            "@class": "sc-jnflPq hiwDpk yle__article__figure",
+            "script": {
+              "@type": "application/ld+json",
+              "#text": "{\"@id\":\"74-20156802\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Näyttelijä Saku Taittonen kuvattiin Helsingin Katajanokalla huhtikuussa 2025.\",\"name\":\"Näyttelijä Saku Taittonen tähyää ulkomaille\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/39-14583516812175215cb2\",\"uploadDate\":\"2025-04-30T15:20:09+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74390946\"}}"
+            },
+            "div": {
+              "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+              "div": {
+                "div": {
+                  "@class": "sc-icsLOd deQvTQ",
+                  "@data-testid": "video-player"
+                }
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "div": [
+              {
+                "@class": "sc-hAZuot jzsrSZ",
+                "div": {
+                  "@class": "sc-eEEJIs bIoUXJ",
+                  "a": {
+                    "@aria-label": "Lisää artikkeleita aiheesta Elokuvat",
+                    "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                    "@href": "https://yle.fi/t/18-204945/fi",
+                    "#text": "Elokuvat"
+                  },
+                  "h1": {
+                    "@class": "sc-dpVtxq esLfzP yle__article__heading yle__article__heading--1",
+                    "#text": "Saku Taittonen haluaa enemmän"
+                  }
+                }
+              },
+              {
+                "@class": "sc-cbJLzd AyXGI",
+                "div": {
+                  "@class": "sc-gklEHm GuNCl",
+                  "button": {
+                    "@class": "sc-ctzWlN gMnUWl",
+                    "span": [
+                      {
+                        "@aria-busy": "false",
+                        "@aria-disabled": "false",
+                        "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-1 EPLBc dgcsOm",
+                        "span": {
+                          "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 ruUVE dXmWOo yds-button__icon",
+                          "svg": {
+                            "@aria-hidden": "true",
+                            "@fill": "none",
+                            "@height": "24",
+                            "@viewbox": "0 0 24 24",
+                            "@width": "24",
+                            "path": {
+                              "@clip-rule": "evenodd",
+                              "@d": "M5.52 2.122a1 1 0 0 1 1.02.037l14 9a1 1 0 0 1 0 1.682l-14 9A1 1 0 0 1 5 21V3a1 1 0 0 1 .52-.878",
+                              "@fill": "currentColor",
+                              "@fill-rule": "evenodd"
+                            }
+                          }
+                        }
+                      },
+                      {
+                        "@class": "sc-kMAVeI qZhVm",
+                        "#text": "Kuuntele juttu"
+                      }
+                    ]
+                  },
+                  "div": {
+                    "@aria-hidden": "true",
+                    "@class": "sc-iOQeA-D lnQvwX",
+                    "div": {
+                      "@class": "sc-fSvtUC iYmpUq",
+                      "div": {
+                        "@data-testid": "feature-article-audio-player"
+                      },
+                      "p": {
+                        "@class": "sc-wPObs dnUrWI",
+                        "a": {
+                          "@class": "sc-iEQsMV kcjgne",
+                          "@href": "https://yle.fi/aihe/a/20-10006416",
+                          "#text": "Lue lisää."
+                        },
+                        "#text": "Jutun lukee koneääni."
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "sc-eAZzZC cddaUL",
+                "div": [
+                  {
+                    "@class": "sc-bTPSfG himLlc yle__article__date",
+                    "time": {
+                      "@class": "sc-geTSWJ dUzrQh yle__article__date--published",
+                      "@datetime": "2025-05-04T07:30:36+03:00",
+                      "#text": "7:30"
+                    }
+                  },
+                  {
+                    "@class": "sc-gfTxxn eOcsrq",
+                    "div": {
+                      "@class": "sc-ckzTOx eEVykp",
+                      "div": [
+                        {
+                          "@class": "sc-hHwaUx cAMGoR",
+                          "span": [
+                            {
+                              "@class": "sc-bGQaqj klbnav",
+                              "#text": "Teksti\n         \n         :"
+                            },
+                            {
+                              "@class": "sc-feJtxQ kjtsHA",
+                              "#text": "Jonni Aromaa"
+                            }
+                          ]
+                        },
+                        {
+                          "@class": "sc-hHwaUx cAMGoR",
+                          "span": [
+                            {
+                              "@class": "sc-bGQaqj klbnav",
+                              "#text": "Kuvat\n         \n         :"
+                            },
+                            {
+                              "@class": "sc-feJtxQ kjtsHA",
+                              "#text": "Benjamin Suomela"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ],
+            "p": {
+              "@class": "sc-kiMgGE sc-dCVDEO idXkML fbeREN yle__article__paragraph",
+              "#text": "Näyttelijä, Jussi-palkittu kulttuurivieras Saku Taittonen tähyää töihin ulkomaille. Hän pitää itseään isänsä soihdunkantajana."
+            }
+          }
+        }
+      ]
+    },
+    "section": {
+      "@class": "yle__article__content",
+      "div": [
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Saku Taittonen"
+              },
+              "#text": ", 29, ei olisi voinut ikimaailmassa kuvitella tulevansa isona näyttelijäksi."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Etelä-Pohjanmaalla kasvanut mies pääsi Taideyliopiston teatterikorkeakouluun 24-vuotiaana. Nyt hän valmistuu sieltä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "em": {
+                "@class": "sc-bLOsqA bMNXIX yle__article__emphasis",
+                "#text": "Levoton Tuhkimo"
+              },
+              "#text": "Ollakseen vasta opiskelija Taittonen on päässyt pitkälle: hänet palkittiin Jussi-gaalassa\n     \n     -elokuvan pääroolista maaliskuussa, ja nyt läpimurtorooli-Jussin pokannut näyttelijä on laittanut kaikki paukut töiden etsimiseen ulkomailta."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Suomessakaan niitä ei ole."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Taittonen on kahden näyttelijöitä välittävän kansainvälisen agentin listoilla, ja hinku maailmalle on kova. Hän toivoo, että työnhaussa auttavat hänen ammatti- ja kielitaitonsa. Niiden lisäksi Taittonen on komea mies, jossa on hiljaista karismaa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Ulkomailla elokuvien ja tv-sarjojen budjetit ovat suuremmat. Kunnon resurssit antavat näyttelijälle enemmän tilaa roolin rakentamiseen. Se kiehtoo Taittosta. Hän on määrätietoinen ihminen, jolla on selkeät tavoitteet."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "em": {
+                "@class": "sc-bLOsqA bMNXIX yle__article__emphasis",
+                "#text": "Levoton Tuhkimo"
+              },
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Neumannia"
+              },
+              "#text": "-elokuvassa Taittonen näytteli 1980-luvulla ilmiöksi nousseen Dingo-yhtyeen keulakuvaa\n     \n     . Hän paneutui roolityöhön niin perinpohjaisesti, ettei siinä päässyt edes kunnon tuntipalkoille. Kyse on ajankäytöstä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Olen näyttelijä ja taiteilija henkeen ja vereen. Kun tehdään töitä, ne tehdään kunnolla."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "figure": {
+              "@class": "sc-jnflPq gibcrQ yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20156802\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Saku Taittonen innostui näyttelemisestä vaihto-oppilaana Yhdysvalloissa.\",\"copyrightHolder\":\"Benjamin Suomela / Yle\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_0.6666666666666666,c_fill,g_faces,h_1150,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-145835568121754bc7fe\",\"keywords\":\"Saku Taittonen,Suomalaiset näyttelijät\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-lcsTPt lbLrnE hJKqus",
+                "div": {
+                  "@class": "sc-gDVcuj lnQPSU",
+                  "div": [
+                    {
+                      "@class": "sc-jScdur jHArTB",
+                      "picture": {
+                        "source": [
+                          {
+                            "@data-testid": "source-for-S",
+                            "@media": "(max-width: 767px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_5676,w_3784,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1150,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746016429/39-145835568121754bc7fe 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_5676,w_3784,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1150,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746016429/39-145835568121754bc7fe 1x"
+                          },
+                          {
+                            "@data-testid": "source-for-M",
+                            "@media": "(min-width: 768px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_5676,w_3784,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1317,w_878/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746016429/39-145835568121754bc7fe 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_5676,w_3784,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1317,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746016429/39-145835568121754bc7fe 1x"
+                          }
+                        ],
+                        "img": {
+                          "@alt": "Henkilö katsoo ohi kameran.",
+                          "@class": "sc-dcKlJK fTKhMH",
+                          "@loading": "lazy",
+                          "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2128,w_3784,x_0,y_1640/ar_1.7777777777777777,c_fill,g_faces,h_493,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746016429/39-145835568121754bc7fe"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "sc-bpuAaX bNVMPp",
+                      "button": {
+                        "@aria-busy": "false",
+                        "@aria-disabled": "false",
+                        "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                        "span": {
+                          "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                          "#text": "Avaa kuvien katselu"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "figcaption": {
+                "@class": "sc-fsjlER icGrCJ",
+                "span": [
+                  "Saku Taittonen innostui näyttelemisestä vaihto-oppilaana Yhdysvalloissa.",
+                  "Kuva: Benjamin Suomela / Yle"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Taittonen puhuu haastattelussa vahvaa Etelä-Pohjanmaan murretta, mutta häneltä irtoaa myös amerikanenglanti, sillä näyttelijä oli vuoden vaihto-oppilaana lukioaikana Yhdysvalloissa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Minulla on hyvä englannin taito ja amerikkalainen aksentti."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Hän kertoo katsoneensa elämänsä aikana enimmäkseen Hollywood-elokuvia."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Tykkään niistä. Jenkeistä on tullut parhaimmin kerrotut tarinat sadan viime vuoden aikana, ja niitä me yritämme imitoida."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Tavoitteissaan näyttelijä puhuu kansainvälisistä tv-sarjoista ja elokuvista."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Se maailma vetää puoleensa. Nyt minulla on ehkä mahdollisuus olla mukana jossain niistä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "h2": {
+              "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+              "#text": "Poikia odotti kollektiivinen rangaistus"
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Taittonen on putkahtanut alalle suoraan pellon laidalta."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Olen kotoisin niin landelta kuin vain voi olla."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Näyttelijä varttui Kuortaneella, joka tunnetaan kaksikerroksisista, punamullalla maalatuista pohjalaistaloistaan. Ympärillä aukeaa lakeus. Taittoset olivat kovia urheilemaan, ja kotona katsottiin myös paljon elokuvia."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "”Äitee” oli mukana kokoomuksen riveissä kunnallispolitiikassa, ja ”iskä” johti Pohjanmaan Kokoomusta. Hän oli ala-asteen rehtori ja auktoriteetti paikkakunnalla."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "figure": {
+              "@class": "sc-jnflPq gibcrQ yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20156802\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Taittonen uskoo metodinäyttelemiseen. Siinä pyritään mahdollisimman vahvaan roolihenkilöön eläytymiseen.\",\"copyrightHolder\":\"Benjamin Suomela / Yle\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_1.0,c_fill,g_faces,h_767,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-145835468121753c0fe6\",\"keywords\":\"Saku Taittonen,Suomalaiset näyttelijät\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-lcsTPt lbLrnE gTSqXo",
+                "div": {
+                  "@class": "sc-gDVcuj lnQPSU",
+                  "div": [
+                    {
+                      "@class": "sc-jScdur jHArTB",
+                      "picture": {
+                        "source": [
+                          {
+                            "@data-testid": "source-for-S",
+                            "@media": "(max-width: 767px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3975,w_3975,x_0,y_0/ar_1.0,c_fill,g_faces,h_767,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746016419/39-145835468121753c0fe6 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3975,w_3975,x_0,y_0/ar_1.0,c_fill,g_faces,h_767,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746016419/39-145835468121753c0fe6 1x"
+                          },
+                          {
+                            "@data-testid": "source-for-M",
+                            "@media": "(min-width: 768px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3975,w_3975,x_0,y_0/ar_1.0,c_fill,g_faces,h_878,w_878/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746016419/39-145835468121753c0fe6 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3975,w_3975,x_0,y_0/ar_1.0,c_fill,g_faces,h_878,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746016419/39-145835468121753c0fe6 1x"
+                          }
+                        ],
+                        "img": {
+                          "@alt": "Ihminen istuu tuolilla kadulla kaupungin keskustassa, ympärillään rivi autoja ja kauniita vanhoja rakennuksia. Hän näyttää rentoutuvan ulkoilmassa.",
+                          "@class": "sc-dcKlJK fTKhMH",
+                          "@loading": "lazy",
+                          "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2235,w_3975,x_0,y_1068/ar_1.7777777777777777,c_fill,g_faces,h_493,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746016419/39-145835468121753c0fe6"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "sc-bpuAaX bNVMPp",
+                      "button": {
+                        "@aria-busy": "false",
+                        "@aria-disabled": "false",
+                        "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                        "span": {
+                          "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                          "#text": "Avaa kuvien katselu"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "figcaption": {
+                "@class": "sc-fsjlER icGrCJ",
+                "span": [
+                  "Taittonen uskoo metodinäyttelemiseen. Siinä pyritään mahdollisimman vahvaan roolihenkilöön eläytymiseen.",
+                  "Kuva: Benjamin Suomela / Yle"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Kaikki tiesivät muutaman tuhannen asukkaan Kuortaneella, kenen poika Saku oli. Hänellä on kaksi veljeä, ja Taittonen on heistä nuorin. Pojat viettivät eniten aikaa isän kanssa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Meillä oli aina tosi kova kuri, mutta isä oli myös reilu ja osasi pitää hauskaa. Jos yksi pojista töppäsi, kaikki kärsivät. Opimme siinä kyllä tavoille, ja välillä vähän liiankin lujaa kantapään kautta."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Nuorimmaisella riitti energiaa, ja mopo lähti toisinaan käsistä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Pyörin välillä poikaporukoissa, ja tuli tehtyä kaikenlaista, mutta en ollut koskaan pahantahtoinen."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Energiaa sai purettua myös soittamiseen. Tuleva näyttelijä hakkasi rumpuja jo pikkupoikana. Hänestä piti tulla muusikko. Esikuvana toimi isä, joka sävelsi kappaleita, soitti ja esiintyi puoliammattilaisena bändissä opettajan hommansa ohella."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Tulevaisuuden suunnitelmat muuttuivat, kun Taittonen oli vuoden vaihto-oppilaana USA:ssa. Siellä häntä puraisi teatterikärpänen. Taittonen opiskeli koulussa Floridassa draamaa puolitoista tuntia päivässä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Muistan kuinka analysoimme tekstejä. Englanti sujui minulta hyvin ja nappasin tosi nopeasti sen, mitä tekstillä haettiin."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Taittonen uskoo, että hänellä on siihen intuitio."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Siitä se pikkuhiljaa lähti. Ajattelin, että ehkä minusta on tähän."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "figure": {
+              "@class": "sc-jnflPq gibcrQ yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20156802\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Näyttelijällä on keskimäärin pari päivää aikaa opetella rooli kansainvälistä koe-esiintymistä varten. Ne tehdään videolle.\",\"copyrightHolder\":\"Benjamin Suomela / Yle\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_0.6667271078875794,c_fill,g_faces,h_1150,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-145835268121752640ab\",\"keywords\":\"Saku Taittonen,Suomalaiset näyttelijät\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-lcsTPt lbLrnE hAPDKI",
+                "div": {
+                  "@class": "sc-gDVcuj lnQPSU",
+                  "div": [
+                    {
+                      "@class": "sc-jScdur jHArTB",
+                      "picture": {
+                        "source": [
+                          {
+                            "@data-testid": "source-for-S",
+                            "@media": "(max-width: 767px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_5501,w_3667,x_0,y_0/ar_0.6667271078875794,c_fill,g_faces,h_1150,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746016410/39-145835268121752640ab 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_5501,w_3667,x_0,y_0/ar_0.6667271078875794,c_fill,g_faces,h_1150,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746016410/39-145835268121752640ab 1x"
+                          },
+                          {
+                            "@data-testid": "source-for-M",
+                            "@media": "(min-width: 768px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_5501,w_3667,x_0,y_0/ar_0.6667271078875794,c_fill,g_faces,h_1316,w_878/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746016410/39-145835268121752640ab 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_5501,w_3667,x_0,y_0/ar_0.6667271078875794,c_fill,g_faces,h_1316,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746016410/39-145835268121752640ab 1x"
+                          }
+                        ],
+                        "img": {
+                          "@alt": "Henkilö hymyilee huppu päässä ja nojaa keltaista seinää vasten.",
+                          "@class": "sc-dcKlJK fTKhMH",
+                          "@loading": "lazy",
+                          "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2068,w_3677,x_0,y_1686/ar_1.7777777777777777,c_fill,g_faces,h_493,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746016410/39-145835268121752640ab"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "sc-bpuAaX bNVMPp",
+                      "button": {
+                        "@aria-busy": "false",
+                        "@aria-disabled": "false",
+                        "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                        "span": {
+                          "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                          "#text": "Avaa kuvien katselu"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "figcaption": {
+                "@class": "sc-fsjlER icGrCJ",
+                "span": [
+                  "Näyttelijällä on keskimäärin pari päivää aikaa opetella rooli kansainvälistä koe-esiintymistä varten. Ne tehdään videolle.",
+                  "Kuva: Benjamin Suomela / Yle"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "h2": {
+              "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+              "#text": "Taittonen oli vastarannan kiiski Teatterikorkeassa"
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Lukion jälkeen Taittonen oli vakuuttunut, että hänestä tulee näyttelijä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Teatterikorkeakoulu tuntui silti utopialta. Taittonen haki sinne ja jäi ensi yrittämällä rannalle. Monella ammattinäyttelijällä on ollut sama kohtalo. Isä kannusti poikaa hakemaan opiskelupaikkaa myös muualta."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Isä halusi tietysti vanhempana, että pojan tulevaisuus olisi edes jollain lailla turvattu, mutta olen jääräpää. Ajattelin, ettei muuta vaihtoehtoa ole kuin näyttelijäntaide tai musiikki."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Pikkupoikana aloitettu rumpujen soitto kantoi hedelmää, ja Taittonen pääsi opiskelemaan muusikoksi pop-konservatorioon (Gradia) Jyväskylään. Hän oli harjaantunut rumpaliksi metallibändeissä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Kahden vuoden musiikkiopintojen jälkeen ovet aukesivat Teatterikorkeakouluun. Se oli unelmien täyttymys, vaikka uudesta näyttelijäntaiteen opiskelijasta tuntui käsittämättömältä, että juuri hänet valittiin. Teatterikorkeakoulu oli Taittosen mielikuvissa ollut vain yli-ihmisiä ja näyttelijäperheen lapsia varten."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Illuusio särkyi, kun pääsin sisään."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "figure": {
+              "@class": "sc-jnflPq gibcrQ yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20156802\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Taittonen purki Teatterikorkean poliittisia jännitteitä koulun punttisalilla.\",\"copyrightHolder\":\"Benjamin Suomela / Yle\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_0.6666666666666666,c_fill,g_faces,h_1150,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-1458353681217535d082\",\"keywords\":\"Saku Taittonen,Suomalaiset näyttelijät\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-lcsTPt lbLrnE hJKqus",
+                "div": {
+                  "@class": "sc-gDVcuj lnQPSU",
+                  "div": [
+                    {
+                      "@class": "sc-jScdur jHArTB",
+                      "picture": {
+                        "source": [
+                          {
+                            "@data-testid": "source-for-S",
+                            "@media": "(max-width: 767px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_4971,w_3314,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1150,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746016419/39-1458353681217535d082 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_4971,w_3314,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1150,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746016419/39-1458353681217535d082 1x"
+                          },
+                          {
+                            "@data-testid": "source-for-M",
+                            "@media": "(min-width: 768px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_4971,w_3314,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1317,w_878/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746016419/39-1458353681217535d082 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_4971,w_3314,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1317,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746016419/39-1458353681217535d082 1x"
+                          }
+                        ],
+                        "img": {
+                          "@alt": "Henkilö katsoo kameraan ja nojaa seinään.",
+                          "@class": "sc-dcKlJK fTKhMH",
+                          "@loading": "lazy",
+                          "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_1864,w_3314,x_0,y_692/ar_1.7777777777777777,c_fill,g_faces,h_493,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746016419/39-1458353681217535d082"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "sc-bpuAaX bNVMPp",
+                      "button": {
+                        "@aria-busy": "false",
+                        "@aria-disabled": "false",
+                        "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                        "span": {
+                          "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                          "#text": "Avaa kuvien katselu"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "figcaption": {
+                "@class": "sc-fsjlER icGrCJ",
+                "span": [
+                  "Taittonen purki Teatterikorkean poliittisia jännitteitä koulun punttisalilla.",
+                  "Kuva: Benjamin Suomela / Yle"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Koulun poliittisuus löi heti kasvoille. Teatterikorkeakoulussa asioita tarkasteltiin intersektionaalisen feminismin kautta, ja Taittosella oli asian kanssa opettelemista. Intersektionaalinen feminismi tarkoittaa yksinkertaistettuna sitä, miten epätasa-arvoa voidaan tunnistaa ja purkaa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Georg Floydin"
+              },
+              "#text": "Ennen kuin koulu oli edes alkanut, opiskelijat vaativat uusilta opiskelijoilta nimiä adressiin, jossa haluttiin puuttua koulun opetuksen sisältöön. Kimmokkeena toimi mustaihoisen\n     \n     surma USA:ssa toukokuussa 2020."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Lähdin jo siinä vastarintaan. Totesin, etten voi kirjoittaa mitään adressia, kun en ole ollut tuntiakaan koulussa, enkä tiedä mitä tunneilla opetetaan."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Kokoomuslaisessa perheessä kasvaneelle Taittoselle opiskelu oli usein kuin ”hiihtämistä ylämäkeen”. Hän mieltää itsensä ”jonnekin vihreiden ja kokoomuksen välimaastoon”."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Vasemmistossa ei ole mitään vikaa, mutta ääriaatteet ovat ongelmallisia. Tulevat ne kummasta suunnasta tahansa."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Taittonen viittaa ”äärivasemmiston propagandaan”, jota tuli hänen mukaansa vastaan opiskelijoiden julkisilla sähköpostialustoilla."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Minulla on koulusta kavereita äärivasemmalta ja aktivisteista. Teatterikorkeakoulussa on todella paljon fiksuja tyyppejä. En vain hyväksy kaikkia vaikuttamisen menetelmiä. Ristiriidat syntyvät niistä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Poliittisista jännitteistä huolimatta Taittonen kertoo pitäneensä koulusta todella paljon. Hän sai tehdä siellä kaikkea sitä, mitä hän teki myös aiemmin siviilissä: liikuntaa, akrobatiaa, musiikkia ja näyttelemistä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Olen ikionnellinen ja äärimmäisen iloinen siitä, että olen saanut opiskella Teatterikorkeakoulussa. Rakastan sitä instituutiota yli kaiken."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "h2": {
+              "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+              "#text": "Isästä puhuminen nostaa tunteet pintaan"
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Itsevarman oloisella Taittosella on kipupiste, josta hän ei yleensä puhu. Näyttelijä ei pysty nytkään pidättelemään kyyneleitä, kun puhe kääntyy isään. Tämä kuoli viisi vuotta sitten pitkän sairauden murtamana."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Taittosta satuttaa se, ettei isä nähnyt, mitä pojasta tuli. Hän kokee olevansa isänsä soihdunkantaja."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Kunnioitimme ja arvostimme toisiamme. Isä oli aina ylpeä kaikesta, mitä tein."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "em": {
+                "@class": "sc-bLOsqA bMNXIX yle__article__emphasis",
+                "#text": "Myrskyluodon Maijassa"
+              },
+              "#text": "Kun isä kuoli Taittonen eli todeksi ensimmäistä unelmaansa teatterissa. Hän oli päässyt muusikko-opintojen keskeltä iltanäyttelijäksi pieneen Varkauden Teatteriin. Taittosella oli sivurooli\n     \n     ."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Nuori mies jäi surun kanssa Varkaudessa yksin."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Siinä meni puurot ja vellit sekaisin. Henkilökohtaisen tragedian keskellä oli todella ankeaa näytellä."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "figure": {
+              "@class": "sc-jnflPq gibcrQ yle__article__figure",
+              "script": {
+                "@type": "application/ld+json",
+                "#text": "{\"@id\":\"74-20156802\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"Saku Taittonen on orientoitunut henkisesti kansainvälisen uran rakentamiseen. Hänet kuvattiin Katajanokalla Helsingissä huhtikuussa 2025.\",\"copyrightHolder\":\"Benjamin Suomela / Yle\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_0.6666666666666666,c_fill,g_faces,h_1150,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-1458356681217557589e\",\"keywords\":\"Saku Taittonen,Suomalaiset näyttelijät\"}}"
+              },
+              "div": {
+                "@class": "sc-jxyWrI sc-lcsTPt lbLrnE hJKqus",
+                "div": {
+                  "@class": "sc-gDVcuj lnQPSU",
+                  "div": [
+                    {
+                      "@class": "sc-jScdur jHArTB",
+                      "picture": {
+                        "source": [
+                          {
+                            "@data-testid": "source-for-S",
+                            "@media": "(max-width: 767px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_5583,w_3721,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1150,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746016440/39-1458356681217557589e 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_5583,w_3721,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1150,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746016440/39-1458356681217557589e 1x"
+                          },
+                          {
+                            "@data-testid": "source-for-M",
+                            "@media": "(min-width: 768px)",
+                            "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_5583,w_3721,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1317,w_878/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746016440/39-1458356681217557589e 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_5583,w_3721,x_0,y_0/ar_0.6666666666666666,c_fill,g_faces,h_1317,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746016440/39-1458356681217557589e 1x"
+                          }
+                        ],
+                        "img": {
+                          "@alt": "Henkilö seisoo keskellä autotietä. Taustalla on autoja ja kauniita rakennuksia.",
+                          "@class": "sc-dcKlJK fTKhMH",
+                          "@loading": "lazy",
+                          "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2093,w_3721,x_0,y_1138/ar_1.7777777777777777,c_fill,g_faces,h_493,w_878/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746016440/39-1458356681217557589e"
+                        }
+                      }
+                    },
+                    {
+                      "@class": "sc-bpuAaX bNVMPp",
+                      "button": {
+                        "@aria-busy": "false",
+                        "@aria-disabled": "false",
+                        "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                        "span": {
+                          "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                          "#text": "Avaa kuvien katselu"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              "figcaption": {
+                "@class": "sc-fsjlER icGrCJ",
+                "span": [
+                  "Saku Taittonen on orientoitunut henkisesti kansainvälisen uran rakentamiseen. Hänet kuvattiin Katajanokalla Helsingissä huhtikuussa 2025.",
+                  "Kuva: Benjamin Suomela / Yle"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Muusikoksi opiskellut nuori mies sävelsi kappaleen isän muistolle, ja sen soittaminen nostaa yhä uudestaan tunteet pintaan."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Voin käsitellä sillä tavalla surua. Se ei lähde koskaan pois."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Haastattelun jälkeen Taittonen palaa kotiin Helsingissä ja toivoo, että agenteilla olisi taas asiaa. Viimeisimmästä koe-esiintymisestä on jo pari viikkoa. Ne tehdään tätä nykyä kotona tallenteelle. Ammattikielellä niiden nimi on self-tape."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Vielä ei ole onnistanut. Taittonen kertoo tekevänsä koe-esiintymisten eteen töitä ”niska limassa”. Vastauksen odottaminen on hermoja raastavaa puuhaa. Jos vastausta edes tulee."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Taittonen on realisti. Hän ymmärtää, että kilpailu on kovaa, ja ”siellä on kymmenen tuhatta muuta näköistäni ja oloistani jätkää hakemassa rooleja”."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Agenttini sanoi, että kyse ei ole sprintistä vaan maratonista."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Ehkä jonain päivänä tärppää. Taittosen on pakko uskoa siihen."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "– Kun se yksi rooli nappaisi, että saisin mahdollisuuden todistaa olevani hyvä näyttelijä. Minulla on tosi suuri luotto omiin taitoihini."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "#text": "Kun Taittonen pääsee kotiin, sähköpostissa odottaa viesti agentilta. On aika tehdä taas self-tape."
+            }
+          }
+        },
+        {
+          "@class": "sc-kKWcMV jnGIFw",
+          "div": {
+            "@class": "sc-bpEFQo kNxGxn",
+            "p": {
+              "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+              "strong": {
+                "@class": "sc-fGdmel gJEGys yle__article__strong",
+                "#text": "Lue edellinen kulttuurivieras:"
+              },
+              "a": {
+                "@class": "sc-iCmUMC eAECGk yle__article__link",
+                "@href": "https://yle.fi/a/74-20155229",
+                "@role": "link",
+                "#text": "Aija Puurtinen treenasi Käärijän kanssa vessassa – nyt hän valmentaa Erika Vikmanista viisuvoittajaa"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "footer": {
+      "@class": "yle__article__footer",
+      "div": {
+        "@class": "sc-kKWcMV jnGIFw",
+        "div": {
+          "@class": "sc-bpEFQo kNxGxn",
+          "div": {
+            "@class": "sc-eLbqow iOsXZW",
+            "h2": [
+              {
+                "@class": "sc-gGarWV itlDVR yle__article__heading yle__article__heading--3",
+                "#text": "Tekijät"
+              },
+              {
+                "@class": "sc-eQkCLH dsmTJG",
+                "#text": "Aiheesta enemmän: Paketissa 3 linkkiä"
+              },
+              {
+                "@aria-hidden": "true",
+                "@class": "sc-gGarWV itlDVR yle__article__heading yle__article__heading--3",
+                "#text": "Aiheesta enemmän"
+              }
+            ],
+            "div": [
+              {
+                "@class": "sc-ckzTOx ccphMP",
+                "div": [
+                  {
+                    "@class": "sc-hHwaUx cAMGoR",
+                    "span": [
+                      {
+                        "@class": "sc-bGQaqj klbnav",
+                        "#text": "Teksti\n        \n        :"
+                      },
+                      {
+                        "@class": "sc-feJtxQ kjtsHA",
+                        "#text": "Jonni Aromaa"
+                      }
+                    ]
+                  },
+                  {
+                    "@class": "sc-hHwaUx cAMGoR",
+                    "span": [
+                      {
+                        "@class": "sc-bGQaqj klbnav",
+                        "#text": "Kuvat\n        \n        :"
+                      },
+                      {
+                        "@class": "sc-feJtxQ kjtsHA",
+                        "#text": "Benjamin Suomela"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "@class": "sc-hjWhcS leSngs"
+              },
+              {
+                "@aria-label": "Aiheesta enemmän",
+                "@class": "yle__article__links",
+                "@role": "list",
+                "div": [
+                  {
+                    "@class": "sc-deTYHS espHEt",
+                    "@role": "listitem",
+                    "div": {
+                      "@class": "sc-kKyYz jzXcOB",
+                      "div": [
+                        {
+                          "@class": "sc-gAOUPA gZmIaQ",
+                          "div": {
+                            "@class": "sc-eJNWfD hzBpgx",
+                            "div": [
+                              {
+                                "@class": "sc-fjohHk glKee",
+                                "a": {
+                                  "@aria-label": "Lisää artikkeleita aiheesta Työelämä",
+                                  "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                                  "@href": "https://yle.fi/t/18-218737/fi",
+                                  "#text": "Työelämä"
+                                }
+                              },
+                              {
+                                "@class": "sc-eQkCLH dsmTJG",
+                                "time": {
+                                  "@class": "sc-geTSWJ dUzrQh",
+                                  "@datetime": "2025-02-20T09:00:46+02:00",
+                                  "#text": "Julkaistu\n            \n            \n            20.2.2025"
+                                }
+                              }
+                            ],
+                            "h3": {
+                              "@class": "sc-bNtlzC eGiYeo",
+                              "a": {
+                                "@class": "sc-ifISnl hcDWQv",
+                                "@href": "https://yle.fi/a/74-20136936",
+                                "#text": "Tv-alan ahdinko iski näyttelijöihin – yksi kouluttautui hierojaksi, toinen meni raksalle"
+                              }
+                            },
+                            "time": {
+                              "@aria-hidden": "true",
+                              "@class": "sc-hwcCMm eGomKG",
+                              "#text": "20.2."
+                            }
+                          }
+                        },
+                        {
+                          "@class": "sc-dGFvgh hggeEO",
+                          "div": {
+                            "@class": "sc-glqzCN hqchfN",
+                            "div": {
+                              "@class": "sc-jScdur jHArTB",
+                              "picture": {
+                                "source": [
+                                  {
+                                    "@data-testid": "source-for-S",
+                                    "@media": "(max-width: 767px)",
+                                    "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_4000,w_4000,x_852,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1739803257/39-142334567b343252abfc 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_4000,w_4000,x_852,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1739803257/39-142334567b343252abfc 1x"
+                                  },
+                                  {
+                                    "@data-testid": "source-for-M",
+                                    "@media": "(min-width: 768px)",
+                                    "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3375,w_6000,x_0,y_125/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1739803257/39-142334567b343252abfc 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3375,w_6000,x_0,y_125/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1739803257/39-142334567b343252abfc 1x"
+                                  }
+                                ],
+                                "img": {
+                                  "@alt": "Satu tuulille kiinnitetään esitysmikrofoni, lähikuva. Maskeeraajan vihreäkyntiset kädet, Satu tuuli hienoisesti hymyilee.",
+                                  "@class": "sc-dcKlJK fTKhMH",
+                                  "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_3375,w_6000,x_0,y_125/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1739803257/39-142334567b343252abfc"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@aria-hidden": "true",
+                    "@class": "sc-jUhsXd gbxWvu",
+                    "hr": {
+                      "@class": "sc-fZSzjs kgWFfO"
+                    }
+                  },
+                  {
+                    "@class": "sc-deTYHS espHEt",
+                    "@role": "listitem",
+                    "div": {
+                      "@class": "sc-kKyYz jzXcOB",
+                      "div": [
+                        {
+                          "@class": "sc-gAOUPA gZmIaQ",
+                          "div": {
+                            "@class": "sc-eJNWfD hzBpgx",
+                            "div": [
+                              {
+                                "@class": "sc-fjohHk glKee",
+                                "a": {
+                                  "@aria-label": "Lisää artikkeleita aiheesta Elokuvat",
+                                  "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                                  "@href": "https://yle.fi/t/18-204945/fi",
+                                  "#text": "Elokuvat"
+                                }
+                              },
+                              {
+                                "@class": "sc-eQkCLH dsmTJG",
+                                "time": {
+                                  "@class": "sc-geTSWJ dUzrQh",
+                                  "@datetime": "2024-12-05T20:18:42+02:00",
+                                  "#text": "Julkaistu\n            \n            \n            2024"
+                                }
+                              }
+                            ],
+                            "h3": {
+                              "@class": "sc-bNtlzC eGiYeo",
+                              "a": {
+                                "@class": "sc-ifISnl hcDWQv",
+                                "@href": "https://yle.fi/a/74-20129384",
+                                "#text": "Neumannin rooli teki näyttelijä Saku Taittosesta armottoman Dingo-fanin: ”Ei ole biisiä, jota en niiltä tietäisi ulkoa”"
+                              }
+                            },
+                            "time": {
+                              "@aria-hidden": "true",
+                              "@class": "sc-hwcCMm eGomKG",
+                              "#text": "2024"
+                            }
+                          }
+                        },
+                        {
+                          "@class": "sc-dGFvgh hggeEO",
+                          "div": {
+                            "@class": "sc-glqzCN hqchfN",
+                            "div": {
+                              "@class": "sc-jScdur jHArTB",
+                              "picture": {
+                                "source": [
+                                  {
+                                    "@data-testid": "source-for-S",
+                                    "@media": "(max-width: 767px)",
+                                    "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_5057,w_5057,x_2204,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1734606017/39-134013966cf1923e6025 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_5057,w_5057,x_2204,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1734606017/39-134013966cf1923e6025 1x"
+                                  },
+                                  {
+                                    "@data-testid": "source-for-M",
+                                    "@media": "(min-width: 768px)",
+                                    "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_4255,w_7565,x_19,y_209/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1734606017/39-134013966cf1923e6025 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_4255,w_7565,x_19,y_209/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1734606017/39-134013966cf1923e6025 1x"
+                                  }
+                                ],
+                                "img": {
+                                  "@alt": "Saku Taittonen Neumannina ihailijoiden ympäröimänä.",
+                                  "@class": "sc-dcKlJK fTKhMH",
+                                  "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_4255,w_7565,x_19,y_209/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1734606017/39-134013966cf1923e6025"
+                                }
+                              }
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "@role": "listitem",
+                    "div": [
+                      {
+                        "@aria-hidden": "true",
+                        "@class": "sc-jUhsXd gbxWvu",
+                        "hr": {
+                          "@class": "sc-fZSzjs kgWFfO"
+                        }
+                      },
+                      {
+                        "@class": "sc-OFYOc iwFpha",
+                        "div": {
+                          "@class": "sc-giZQJr evHIRR",
+                          "div": {
+                            "@class": "sc-deTYHS hrSOml",
+                            "div": {
+                              "@class": "sc-kKyYz jzXcOB",
+                              "div": [
+                                {
+                                  "@class": "sc-gAOUPA gZmIaQ",
+                                  "div": [
+                                    {
+                                      "@class": "sc-cnQhix jKjZsM",
+                                      "svg": {
+                                        "@aria-hidden": "true",
+                                        "@fill": "none",
+                                        "@height": "12",
+                                        "@viewbox": "0 0 321 48",
+                                        "@width": "80",
+                                        "path": [
+                                          {
+                                            "@d": "M48.73 2.226v43.547c0 1.188-1.028 2.227-2.156 2.227H2.984C1.759 48 .73 46.96.73 45.773V2.226C.73.99 1.76 0 2.984 0h43.59c1.128 0 2.156.99 2.156 2.226",
+                                            "@fill": "#ffffff"
+                                          },
+                                          {
+                                            "@clip-rule": "evenodd",
+                                            "@d": "M23.19 10.124h1.957c1.586 0 1.586 1.42 1.586 2.268v16.945c0 .738-.145 1.493-1.22 1.493h-.64c-1.052 0-1.264-.571-1.264-1.493V13.2h-.33c-1.386 0-1.536-.788-1.536-1.127v-.867c0-1.082 1.088-1.082 1.446-1.082m16.404 17.762c.238-.047.444-.087.648-.087.62 0 .99.387.99 1.037v.499c0 .687-.356.933-.743 1.097-.607.279-2.156.58-4.114.58-4.707 0-6.457-1.862-6.457-6.868 0-5.128 1.879-7.415 6.093-7.415 4.989 0 5.566 3.653 5.566 6.4 0 1.293-.655 1.869-2.121 1.869H33.1c.104 2.6.495 3.165 3.82 3.165 1.286 0 2.097-.162 2.581-.259zm-20.26-10.791h-.773c-.85 0-1.138.53-1.347 1.447l-2.16 9.393h-.372c-.796.028-1.157-.081-1.415-1.114l-2.188-8.291-.024-.091c-.166-.63-.354-1.344-1.227-1.344h-.82c-.746 0-1.174.41-1.174 1.127 0 .394.106.978.333 1.84l2.324 8.285c.431 1.622 1.351 2.346 2.982 2.346h1.007c-.133.694-.299 1.485-.4 1.801-.408 1.267-1.02 1.499-2.08 1.499-.93 0-1.536-.071-1.98-.123l-.044-.005-.012-.002c-.255-.029-.457-.052-.651-.052-.621 0-.992.388-.992 1.038v.546c0 .685.355.93.735 1.092.572.26 1.283.4 3.4.4 2.169 0 3.778-1.165 4.304-3.118.903-3.354 3.314-13.47 3.417-13.9.011-.046.286-1.123.286-1.647 0-.675-.454-1.128-1.128-1.128m16.726 2.114c-1.91.001-2.823.999-2.944 3.229l5.662-.005c-.084-2.258-.903-3.224-2.718-3.224",
+                                            "@fill": "#000000",
+                                            "@fill-rule": "evenodd"
+                                          },
+                                          {
+                                            "@d": "M33.117 22.437c.122-2.23 1.033-3.228 2.944-3.228h.002c1.816 0 2.632.966 2.716 3.224zM84.934 35.448H68.662L64.282 48h-9.696L71.722.528h11.484L100.006 48h-10.56zM77.026 9.624l-6.24 18.456H82.93zM132.526 48l-10.692-16.2h-7.308V48h-9.432V1.656S111.13 0 121.954 0c12.42 0 19.848 4.32 19.848 14.004 0 9.888-6.108 14.136-10.488 16.068L143.794 48zm-17.988-23.7h10.692c4.584-1.92 6.708-4.38 6.708-9.36 0-5.184-3.72-7.236-9.828-7.236-3.852 0-7.572.66-7.572.66zM149.386 48V.66h32.328v8.028h-22.836v11.88h19.716v7.704h-19.716V39.96h23.436V48zM189.358 48V.66h32.328v8.028H198.85v11.88h19.716v7.704H198.85V39.96h23.436V48zM238.678 48h-9.36V.66h8.76l22.908 29.94V.66h9.432V48h-7.104l-24.636-31.464zM305.794 35.448h-16.271L285.154 48h-9.696L292.583.528h11.483L320.866 48h-10.56zm-7.896-25.824-6.24 18.456h12.145z",
+                                            "@fill": "#ffffff"
+                                          }
+                                        ]
+                                      }
+                                    },
+                                    {
+                                      "@class": "sc-iUzTDT kBQhzS",
+                                      "a": {
+                                        "@class": "sc-kGRgbs cbMUok",
+                                        "@href": "https://areena.yle.fi/1-67023904",
+                                        "h3": {
+                                          "@class": "sc-jaWAjX jftlCC",
+                                          "span": {
+                                            "@class": "sc-geBPDW cgXQJu",
+                                            "#text": "Elokuvan hetki:"
+                                          },
+                                          "#text": "Levoton tuhkimo"
+                                        }
+                                      },
+                                      "div": {
+                                        "@class": "sc-fYfiXS hzXBjI",
+                                        "#text": "13 min"
+                                      }
+                                    }
+                                  ]
+                                },
+                                {
+                                  "@class": "sc-dGFvgh hggeEO",
+                                  "div": {
+                                    "@class": "sc-glqzCN hqchfN",
+                                    "div": {
+                                      "@class": "sc-jScdur jHArTB",
+                                      "picture": {
+                                        "source": [
+                                          {
+                                            "@data-testid": "source-for-S",
+                                            "@media": "(max-width: 767px)",
+                                            "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/13-1-67023904-1705561890519 2x,https://images.cdn.yle.fi/image/upload/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/13-1-67023904-1705561890519 1x"
+                                          },
+                                          {
+                                            "@data-testid": "source-for-M",
+                                            "@media": "(min-width: 768px)",
+                                            "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/13-1-67023904-1705561890519 2x,https://images.cdn.yle.fi/image/upload/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/13-1-67023904-1705561890519 1x"
+                                          }
+                                        ],
+                                        "img": {
+                                          "@alt": "",
+                                          "@class": "sc-dcKlJK fTKhMH",
+                                          "@src": "https://images.cdn.yle.fi/image/upload/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/13-1-67023904-1705561890519"
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              ]
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "div": {
+                  "@class": "sc-hZARmv bNLDLe",
+                  "a": [
+                    {
+                      "@aria-label": "Lisää artikkeleita aiheesta Elokuvat",
+                      "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                      "@href": "https://yle.fi/t/18-204945/fi",
+                      "#text": "Elokuvat"
+                    },
+                    {
+                      "@aria-label": "Lisää artikkeleita aiheesta Saku Taittonen",
+                      "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                      "@href": "https://yle.fi/t/18-357362/fi",
+                      "#text": "Saku Taittonen"
+                    },
+                    {
+                      "@aria-label": "Lisää artikkeleita aiheesta Taideyliopiston Teatterikorkeakoulu",
+                      "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                      "@href": "https://yle.fi/t/18-185136/fi",
+                      "#text": "Taideyliopiston Teatterikorkeakoulu"
+                    }
+                  ],
+                  "div": {
+                    "@class": "sc-dKKIkQ dfGXgP",
+                    "button": {
+                      "@aria-busy": "false",
+                      "@aria-disabled": "false",
+                      "@aria-label": "Näytä kaikki aiheet",
+                      "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-3 jmqUl dhtMex",
+                      "span": {
+                        "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 hvskzw dXmWOo yds-button__icon",
+                        "svg": {
+                          "@aria-hidden": "true",
+                          "@class": "sc-fpEFIB cluDHh",
+                          "@fill": "none",
+                          "@height": "24",
+                          "@viewbox": "0 0 24 24",
+                          "@width": "24",
+                          "path": {
+                            "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                            "@fill": "currentColor"
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  }
+}

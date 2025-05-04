@@ -1,0 +1,682 @@
+{
+  "article": {
+    "@class": "yle__article arkki-theme-default",
+    "@data-vrsproduct": "uutiset",
+    "header": {
+      "@class": "yle__article__header",
+      "div": [
+        {
+          "@class": "sc-dbVXhp cBCGOO",
+          "a": {
+            "@aria-label": "Lisää artikkeleita aiheesta Turvallisuus",
+            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+            "@href": "https://yle.fi/t/18-217329/fi",
+            "#text": "Turvallisuus"
+          }
+        },
+        {
+          "@class": "sc-lpbaSe cwlsYQ",
+          "ul": {
+            "@aria-label": "Tekijä",
+            "@class": "sc-cNFqVt gmcymk",
+            "li": {
+              "@class": "sc-fpgwy dVrUIC",
+              "span": {
+                "@class": "sc-dZEakj krffzS",
+                "#text": "Minna Pantzar"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-eAZzZC cUksiH",
+          "div": {
+            "@class": "sc-bTPSfG himLlc yle__article__date",
+            "time": [
+              {
+                "@class": "sc-geTSWJ dUzrQh yle__article__date--published",
+                "@datetime": "2025-05-03T18:02:22+03:00",
+                "#text": "3.5. 18:02"
+              },
+              {
+                "@class": "sc-geTSWJ dUzrQh yle__article__date--modified",
+                "@datetime": "2025-05-03T19:56:50+03:00",
+                "#text": "Päivitetty\n     \n     \n     3.5. 19:56"
+              }
+            ],
+            "span": {
+              "@aria-hidden": "true",
+              "@class": "sc-diziqI dgaCq",
+              "#text": "•"
+            }
+          }
+        },
+        {
+          "@class": "sc-cbJLzd fQlwJR",
+          "button": {
+            "@class": "sc-goJFMH hdACns",
+            "@data-testid": "default-article-audio-placeholder",
+            "span": [
+              {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-1 EPLBc dgcsOm",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 ruUVE dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@clip-rule": "evenodd",
+                      "@d": "M5.52 2.122a1 1 0 0 1 1.02.037l14 9a1 1 0 0 1 0 1.682l-14 9A1 1 0 0 1 5 21V3a1 1 0 0 1 .52-.878",
+                      "@fill": "currentColor",
+                      "@fill-rule": "evenodd"
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "sc-jgGpnn laJhEh",
+                "#text": "Kuuntele juttu 3:48"
+              }
+            ]
+          },
+          "div": [
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jweKAa gPvEkW",
+              "div": {
+                "@data-testid": "default-article-audio-player"
+              }
+            },
+            {
+              "@class": "sc-ecBcpz fdHQgB"
+            }
+          ]
+        }
+      ],
+      "h1": {
+        "@class": "sc-ifkGpL jgDrMU yle__article__heading yle__article__heading--1",
+        "#text": "Tätä uusi avaus Nato-menojen kasvattamisesta voisi tarkoittaa Suomelle"
+      },
+      "p": {
+        "@class": "sc-kiMgGE sc-dCVDEO eQvHnw hjdIYW yle__article__paragraph",
+        "#text": "Puolustusvaliokunnan puheenjohtajan Jukka Kopran mukaan Suomi saavuttaisi löyhemmän puolustukseen ja turvallisuuteen liittyvän 1,5 prosentin tavoitteen bkt:stä helposti."
+      },
+      "figure": {
+        "@class": "sc-jnflPq edfVsP yle__article__figure",
+        "script": {
+          "@type": "application/ld+json",
+          "#text": "{\"@id\":\"74-20159552\",\"@context\":\"https://schema.org\",\"image\":{\"@type\":\"ImageObject\",\"description\":\"F/A-18 Hornet -monitoimihävittäjä Keflavikin lentokentällä Islannissa.\",\"copyrightHolder\":\"Benjamin Suomela / Yle\",\"url\":\"https://images.cdn.yle.fi/image/upload/ar_1.499267935578331,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/39-141705567a3912ef17ed\",\"keywords\":\"F/A-18 Hornet,Hornet-hävittäjät,Suomen ilmavoimat,ilmavoimat,Islanti,Nato,Nato-yhteistyö\"}}"
+        },
+        "div": {
+          "@class": "sc-jxyWrI sc-lcsTPt lbLrnE jDFCgk",
+          "div": {
+            "@class": "sc-gDVcuj lnQPSU",
+            "div": [
+              {
+                "@class": "sc-jScdur jHArTB",
+                "picture": {
+                  "source": [
+                    {
+                      "@data-testid": "source-for-S",
+                      "@media": "(max-width: 767px)",
+                      "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.499267935578331,c_fill,g_faces,h_511,w_767/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1738849122/39-141705567a3912ef17ed 2x,https://images.cdn.yle.fi/image/upload/ar_1.499267935578331,c_fill,g_faces,h_511,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1738849122/39-141705567a3912ef17ed 1x"
+                    },
+                    {
+                      "@data-testid": "source-for-M",
+                      "@media": "(min-width: 768px)",
+                      "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.499267935578331,c_fill,g_faces,h_424,w_636/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1738849122/39-141705567a3912ef17ed 2x,https://images.cdn.yle.fi/image/upload/ar_1.499267935578331,c_fill,g_faces,h_424,w_636/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1738849122/39-141705567a3912ef17ed 1x"
+                    }
+                  ],
+                  "img": {
+                    "@alt": "F/A-18 Hornet -monitoimihävittäjä Keflavikin lentokentällä Islannissa.",
+                    "@class": "sc-dcKlJK fTKhMH",
+                    "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_4597,w_8174,x_15,y_730/ar_1.7777777777777777,c_fill,g_faces,h_431,w_767/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1738849122/39-141705567a3912ef17ed"
+                  }
+                }
+              },
+              {
+                "@class": "sc-bpuAaX bNVMPp",
+                "button": {
+                  "@aria-busy": "false",
+                  "@aria-disabled": "false",
+                  "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                  "span": {
+                    "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                    "#text": "Avaa kuvien katselu"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "figcaption": {
+          "@class": "sc-fsjlER icGrCJ",
+          "span": [
+            "F/A-18 Hornet -monitoimihävittäjä Keflavikin lentokentällä Islannissa.",
+            "Kuva: Benjamin Suomela / Yle"
+          ]
+        }
+      }
+    },
+    "section": {
+      "@class": "yle__article__content",
+      "aside": {
+        "@aria-label": "Faktalaatikko",
+        "@class": "sc-dHZbTr elfWKD yle__article__aside",
+        "div": {
+          "@class": "sc-fCdovG cBYAnR",
+          "div": {
+            "@class": "sc-kEzwgR fPyzjh",
+            "h2": {
+              "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+              "#text": "Uutinen lyhyesti"
+            },
+            "div": [
+              {
+                "@aria-hidden": "true",
+                "@class": "sc-bjhZkk duimeV",
+                "@id": ":Rppbcq:",
+                "div": {
+                  "@inert": "",
+                  "@tabindex": "-1",
+                  "ul": {
+                    "@class": "sc-bpSLYx eYdtXb yle__article__list yle__article__list--ul",
+                    "li": [
+                      {
+                        "@class": "sc-djWYAM ifbBJP",
+                        "#text": "Naton pääsihteeri Mark Rutten odotetaan ehdottavan kaksiosaista mallia puolustusmenojen nostamiseksi Yhdysvaltojen vaatimusten mukaiseksi."
+                      },
+                      {
+                        "@class": "sc-djWYAM ifbBJP",
+                        "#text": "Malli sisältää 3,5 prosentin menot puolustukseen ja 1,5 prosenttia muihin turvallisuuskustannuksiin."
+                      },
+                      {
+                        "@class": "sc-djWYAM ifbBJP",
+                        "#text": "Puolustusvaliokunnan puheenjohtaja uskoo, että Suomi voi helposti saavuttaa 1,5 prosentin osuuden nykyisillä kustannuksilla."
+                      }
+                    ]
+                  },
+                  "p": {
+                    "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+                    "em": {
+                      "@class": "sc-bLOsqA bMNXIX yle__article__emphasis",
+                      "#text": "Tämä on tekoälyn avulla tuotettu, toimittajan tarkistama tiivistelmä."
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "sc-dBCvnn ikgDRX",
+                "div": {
+                  "button": {
+                    "@aria-busy": "false",
+                    "@aria-controls": ":Rppbcq:",
+                    "@aria-disabled": "false",
+                    "@aria-expanded": "false",
+                    "@aria-label": "Avaa Faktalaatikko",
+                    "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-2 bkia-dX kfEGnE",
+                    "span": [
+                      {
+                        "@class": "ydscr__sc-17sr1bx-7 lahfHk yds-button__content",
+                        "#text": "Avaa"
+                      },
+                      {
+                        "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 iSKgjw dXmWOo yds-button__icon",
+                        "svg": {
+                          "@aria-hidden": "true",
+                          "@class": "sc-fvGHPC iXleOz",
+                          "@fill": "none",
+                          "@height": "24",
+                          "@viewbox": "0 0 24 24",
+                          "@width": "24",
+                          "path": {
+                            "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                            "@fill": "currentColor"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "p": [
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": [
+            {
+              "@class": "sc-fGdmel gJEGys yle__article__strong",
+              "#text": "Mark Rutten"
+            },
+            {
+              "@class": "sc-fGdmel gJEGys yle__article__strong",
+              "#text": "Donald Trumpin"
+            }
+          ],
+          "a": {
+            "@class": "sc-iCmUMC eAECGk yle__article__link",
+            "@href": "https://yle.fi/a/74-20159489",
+            "@role": "link",
+            "#text": "kaksiosaisesta mallista,"
+          },
+          "#text": "Naton pääsihteeri\n   \n   kerrottiin perjantaina suunnittelevan esitystä\n   \n   jonka avulla Nato-maat voisivat nostaa menonsa lähelle Yhdysvaltain presidentin\n   \n   vaatimaa viiden prosentin tasoa bruttokansantuotteesta."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Rutten mallissa tavoite olisi yhteenlasku: 3,5 prosentin puolustusmenoihin ja 1,5 prosenttia löyhemmin puolustautumiseen ja turvallisuuteen liittyviin menoihin."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Suomi käytti viime vuonna puolustukseensa noin 2,4 prosenttia bruttokansantuotteesta. Puoliväliriihessä hallitus asetti puolustusmenotavoitteen kolmeen prosenttiin."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Viisi prosenttia puolestaan olisi useille maille poliittisesti mahdoton, sillä se vaatisi velanottoa tai muiden menojen karsimista puolustuksen kustannuksella."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "strong": {
+            "@class": "sc-fGdmel gJEGys yle__article__strong",
+            "#text": "Jukka Kopra"
+          },
+          "#text": "Rutten kaksiosaisella mallilla se kuitenkin voisi onnistua, ja Suomen kohdalla etenkin sen 1,5 prosentin osalta jopa helposti, sanoo puolustusvaliokunnan puheenjohtaja\n   \n   (kok.)"
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Meidän olisi itse asiassa aika helppoa saada tuo 1,5 prosenttia täyteen verrattuna moneen muuhun maahan. Kysymys on jo nykyään isosta joukosta kustannuksia, joita ei lasketa puolustusmenoihin."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Löyhemmin puolustukseen ja turvallisuuteen liittyviä menoja Suomella tosiaan on jo runsaasti."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Meidän kannattaisi sisällyttää tuohon 1,5 prosentin osuuteen väestönsuojankustannukset, huoltovarmuusmaksut sekä kyberpuolustuksen menoja muilta hallinnonaloilta. Jos mukaan lasketaan vielä kaikki kriittisen infran suojelukustannukset ja esimerkiksi varalaskeutumispaikkojen rakentaminen ja ylläpito, niin mennään jo varmaan tavoiterajan ylikin, Kopra sanoo."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Lisäksi tarvetta olisi lisätä näitä investointeja."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Meillä on lisäksi joukkojen liikuttelemiseen liittyviä hankkeita tai tarpeita, joita pitäisi kehittää. Pitäisi rakentaa teitä, vahvistaa siltoja ja rakentaa ratoja pohjoiseen, hän sanoo."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Kopran mukaan 1,5 prosentin tavoitteen toteutuminen bruttokansantuotteesta tarkoittaa käytännössä useita miljardeja euroja."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Tässä ei nyt ole summia sitten vielä mainittu, mutta bruttokansantuoteosuutena puhumme silloin muutamasta miljardista eurosta."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Suomi voisi siis jo hyvän varautumisensa ansiosta saavuttaa kriteerin paljolti jo joka tapauksessa olemassa olevilla kustannuksilla."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "– Pidän tätä Rutten puolentoista prosentin vähän väljempää kriteeristöä kyllä tervetulleena keskustelunavauksena. Meillä on paljon sellaisia menoja, joita me voisimme tähän kategoriaan laittaa, hän sanoo."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "em": {
+            "@class": "sc-bLOsqA bMNXIX yle__article__emphasis",
+            "#text": "Korjattu 3.5. kello 19.56: Aiemmin jutussa luki, että Naton pääsihteeri Rutte on esittänyt uutta mallia. Oikeasti Rutten on kerrottu suunnittelevan esitystä uudesta mallista."
+          }
+        }
+      ],
+      "figure": {
+        "@class": "sc-jnflPq gibcrQ yle__article__figure",
+        "script": {
+          "@type": "application/ld+json",
+          "#text": "{\"@id\":\"74-20159552\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Katso miksi Suomi saavuttaisi kevyemmän Nato-puolustautumisen tavoitteen helposti. Puolustusvaliokunnan puheenjohtaja Jukka Kopra listaa.\",\"name\":\"Katso miksi Suomi saavuttaisi kevyemmän Nato-puolustautumisen tavoitteen helposti.\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-67-48af5ed3933d4ab492e4f8f1f3c549d7\",\"uploadDate\":\"2025-05-03T16:44:40+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74403955\"}}"
+        },
+        "div": {
+          "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+          "div": {
+            "div": {
+              "@class": "sc-icsLOd deQvTQ",
+              "@data-testid": "video-player"
+            }
+          }
+        },
+        "figcaption": {
+          "@class": "sc-fsjlER icGrCJ",
+          "span": "Katso miksi Suomi saavuttaisi kevyemmän Nato-puolustautumisen tavoitteen helposti. Puolustusvaliokunnan puheenjohtaja Jukka Kopra listaa."
+        }
+      },
+      "h2": [
+        {
+          "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+          "#text": "”Tavoite saavutettavissa monia muita maita helpommin”"
+        },
+        {
+          "@class": "sc-fbguzk jvvVKp yle__article__heading yle__article__heading--2",
+          "#text": "Suomi pääsee pitkälle jo olemassa olevilla kustannuksilla"
+        }
+      ]
+    },
+    "footer": {
+      "@class": "yle__article__footer",
+      "div": [
+        {
+          "@class": "sc-hjWhcS leSngs"
+        },
+        {
+          "@aria-label": "Aiheesta enemmän",
+          "@class": "yle__article__links",
+          "@role": "list",
+          "div": [
+            {
+              "@class": "sc-deTYHS espHEt",
+              "@role": "listitem",
+              "div": {
+                "@class": "sc-kKyYz jzXcOB",
+                "div": [
+                  {
+                    "@class": "sc-gAOUPA gZmIaQ",
+                    "div": {
+                      "@class": "sc-eJNWfD hzBpgx",
+                      "div": [
+                        {
+                          "@class": "sc-fjohHk glKee",
+                          "a": {
+                            "@aria-label": "Lisää artikkeleita aiheesta Nato",
+                            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                            "@href": "https://yle.fi/t/18-174473/fi",
+                            "#text": "Nato"
+                          }
+                        },
+                        {
+                          "@class": "sc-eQkCLH dsmTJG",
+                          "time": {
+                            "@class": "sc-geTSWJ dUzrQh",
+                            "@datetime": "2025-05-03T07:30:36+03:00",
+                            "#text": "Julkaistu\n         \n         \n         3.5.2025"
+                          }
+                        }
+                      ],
+                      "h3": {
+                        "@class": "sc-bNtlzC eGiYeo",
+                        "a": {
+                          "@class": "sc-ifISnl hcDWQv",
+                          "@href": "https://yle.fi/a/74-20159489",
+                          "#text": "Analyysi: Nato yrittää saada puolustusmenot Trumpin vaatimaan viiteen prosenttiin erikoisella yhteenlaskulla"
+                        }
+                      },
+                      "time": {
+                        "@aria-hidden": "true",
+                        "@class": "sc-hwcCMm eGomKG",
+                        "#text": "3.5."
+                      }
+                    }
+                  },
+                  {
+                    "@class": "sc-dGFvgh hggeEO",
+                    "div": {
+                      "@class": "sc-glqzCN hqchfN",
+                      "div": {
+                        "@class": "sc-jScdur jHArTB",
+                        "picture": {
+                          "source": [
+                            {
+                              "@data-testid": "source-for-S",
+                              "@media": "(max-width: 767px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_2667,w_2667,x_0,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1741889757/39-143583167d320bb2a588 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_2667,w_2667,x_0,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1741889757/39-143583167d320bb2a588 1x"
+                            },
+                            {
+                              "@data-testid": "source-for-M",
+                              "@media": "(min-width: 768px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_2239,w_3990,x_0,y_83/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1741889757/39-143583167d320bb2a588 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_2239,w_3990,x_0,y_83/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1741889757/39-143583167d320bb2a588 1x"
+                            }
+                          ],
+                          "img": {
+                            "@alt": "Mark Rutte och Donald Trump i Vita huset.",
+                            "@class": "sc-dcKlJK fTKhMH",
+                            "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2239,w_3990,x_0,y_83/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1741889757/39-143583167d320bb2a588"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jUhsXd gbxWvu",
+              "hr": {
+                "@class": "sc-fZSzjs kgWFfO"
+              }
+            },
+            {
+              "@class": "sc-deTYHS espHEt",
+              "@role": "listitem",
+              "div": {
+                "@class": "sc-kKyYz jzXcOB",
+                "div": [
+                  {
+                    "@class": "sc-gAOUPA gZmIaQ",
+                    "div": {
+                      "@class": "sc-eJNWfD hzBpgx",
+                      "div": [
+                        {
+                          "@class": "sc-fjohHk glKee",
+                          "a": {
+                            "@aria-label": "Lisää artikkeleita aiheesta Nato",
+                            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                            "@href": "https://yle.fi/t/18-174473/fi",
+                            "#text": "Nato"
+                          }
+                        },
+                        {
+                          "@class": "sc-eQkCLH dsmTJG",
+                          "time": {
+                            "@class": "sc-geTSWJ dUzrQh",
+                            "@datetime": "2025-05-03T16:44:42+03:00",
+                            "#text": "Julkaistu\n         \n         \n         3.5.2025"
+                          }
+                        }
+                      ],
+                      "h3": {
+                        "@class": "sc-bNtlzC eGiYeo",
+                        "a": {
+                          "@class": "sc-ifISnl hcDWQv",
+                          "@href": "https://yle.fi/a/74-20159514",
+                          "#text": "Naton pääsihteeriltä kekseliäs ehdotus puolustusmenojen laskemiseen – seitsemän vastausta, jotka kertovat mistä on kyse"
+                        }
+                      },
+                      "time": {
+                        "@aria-hidden": "true",
+                        "@class": "sc-hwcCMm eGomKG",
+                        "#text": "3.5."
+                      }
+                    }
+                  },
+                  {
+                    "@class": "sc-dGFvgh hggeEO",
+                    "div": {
+                      "@class": "sc-glqzCN hqchfN",
+                      "div": {
+                        "@class": "sc-jScdur jHArTB",
+                        "picture": {
+                          "source": [
+                            {
+                              "@data-testid": "source-for-S",
+                              "@media": "(max-width: 767px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_2993,w_2993,x_93,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746277336/39-1459673681613875db3d 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_2993,w_2993,x_93,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746277336/39-1459673681613875db3d 1x"
+                            },
+                            {
+                              "@data-testid": "source-for-M",
+                              "@media": "(min-width: 768px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_2526,w_4491,x_0,y_132/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746277336/39-1459673681613875db3d 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_2526,w_4491,x_0,y_132/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746277336/39-1459673681613875db3d 1x"
+                            }
+                          ],
+                          "img": {
+                            "@alt": "Naton pääsihteeri Mark Rutte puhuu tiedotusvälineille tapaamisen jälkeen Yhdysvaltain presidentin Donald Trumpin kanssa .",
+                            "@class": "sc-dcKlJK fTKhMH",
+                            "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2526,w_4491,x_0,y_132/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746277336/39-1459673681613875db3d"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jUhsXd gbxWvu",
+              "hr": {
+                "@class": "sc-fZSzjs kgWFfO"
+              }
+            },
+            {
+              "@class": "sc-deTYHS espHEt",
+              "@role": "listitem",
+              "div": {
+                "@class": "sc-kKyYz jzXcOB",
+                "div": [
+                  {
+                    "@class": "sc-gAOUPA gZmIaQ",
+                    "div": {
+                      "@class": "sc-eJNWfD hzBpgx",
+                      "div": [
+                        {
+                          "@class": "sc-fjohHk glKee",
+                          "a": {
+                            "@aria-label": "Lisää artikkeleita aiheesta Turvallisuus",
+                            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                            "@href": "https://yle.fi/t/18-217329/fi",
+                            "#text": "Turvallisuus"
+                          }
+                        },
+                        {
+                          "@class": "sc-eQkCLH dsmTJG",
+                          "time": {
+                            "@class": "sc-geTSWJ dUzrQh",
+                            "@datetime": "2025-01-02T11:54:17+02:00",
+                            "#text": "Julkaistu\n         \n         \n         2.1.2025"
+                          }
+                        }
+                      ],
+                      "h3": {
+                        "@class": "sc-bNtlzC eGiYeo",
+                        "a": {
+                          "@class": "sc-ifISnl hcDWQv",
+                          "@href": "https://yle.fi/a/74-20134158",
+                          "#text": "Puolustusvaliokunnasta penätään hallitukselta toimia kriittisten kohteiden turvaamiseksi – ”On oltu hyväuskoisia”"
+                        }
+                      },
+                      "time": {
+                        "@aria-hidden": "true",
+                        "@class": "sc-hwcCMm eGomKG",
+                        "#text": "2.1."
+                      }
+                    }
+                  },
+                  {
+                    "@class": "sc-dGFvgh hggeEO",
+                    "div": {
+                      "@class": "sc-glqzCN hqchfN",
+                      "div": {
+                        "@class": "sc-jScdur jHArTB",
+                        "picture": {
+                          "source": [
+                            {
+                              "@data-testid": "source-for-S",
+                              "@media": "(max-width: 767px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3961,w_3961,x_487,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1735322392/39-1400411676ebb7a4d68d 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3961,w_3961,x_487,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1735322392/39-1400411676ebb7a4d68d 1x"
+                            },
+                            {
+                              "@data-testid": "source-for-M",
+                              "@media": "(min-width: 768px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3342,w_5942,x_0,y_309/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1735322392/39-1400411676ebb7a4d68d 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3342,w_5942,x_0,y_309/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1735322392/39-1400411676ebb7a4d68d 1x"
+                            }
+                          ],
+                          "img": {
+                            "@alt": "Eagle S laiva on ankkurissa sumun keskellä.",
+                            "@class": "sc-dcKlJK fTKhMH",
+                            "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_3342,w_5942,x_0,y_309/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1735322392/39-1400411676ebb7a4d68d"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "div": {
+            "@class": "sc-hZARmv bNLDLe",
+            "a": [
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Turvallisuus",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-217329/fi",
+                "#text": "Turvallisuus"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Nato",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-174473/fi",
+                "#text": "Nato"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Politiikka",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-220306/fi",
+                "#text": "Politiikka"
+              }
+            ],
+            "div": {
+              "@class": "sc-dKKIkQ dfGXgP",
+              "button": {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@aria-label": "Näytä kaikki aiheet",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-3 jmqUl dhtMex",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 hvskzw dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@class": "sc-fpEFIB cluDHh",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                      "@fill": "currentColor"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "h2": [
+        {
+          "@class": "sc-eQkCLH dsmTJG",
+          "#text": "Aiheesta enemmän: Paketissa 3 linkkiä"
+        },
+        {
+          "@aria-hidden": "true",
+          "@class": "sc-gGarWV itlDVR yle__article__heading yle__article__heading--3",
+          "#text": "Aiheesta enemmän"
+        }
+      ]
+    }
+  }
+}

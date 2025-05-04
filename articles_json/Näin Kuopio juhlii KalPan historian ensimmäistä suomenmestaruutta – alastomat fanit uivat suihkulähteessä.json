@@ -1,0 +1,614 @@
+{
+  "article": {
+    "@class": "yle__article arkki-theme-default",
+    "@data-vrsproduct": "urheilu",
+    "header": {
+      "@class": "yle__article__header",
+      "div": [
+        {
+          "@class": "sc-dbVXhp cBCGOO",
+          "a": {
+            "@aria-label": "Lisää artikkeleita aiheesta Jääkiekko",
+            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+            "@href": "https://yle.fi/t/18-189456/fi",
+            "#text": "Jääkiekko"
+          }
+        },
+        {
+          "@class": "sc-lpbaSe cwlsYQ",
+          "ul": {
+            "@aria-label": "Tekijät",
+            "@class": "sc-cNFqVt gmcymk",
+            "li": [
+              {
+                "@class": "sc-fpgwy dVrUIC",
+                "span": [
+                  {
+                    "@class": "sc-dZEakj krffzS",
+                    "#text": "Anna Ronkainen"
+                  },
+                  {
+                    "@aria-hidden": "true",
+                    "@class": "sc-dZEakj krffzS",
+                    "#text": ","
+                  }
+                ]
+              },
+              {
+                "@class": "sc-fpgwy dVrUIC",
+                "span": {
+                  "@class": "sc-dZEakj krffzS",
+                  "#text": "Veera Järvenpää"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "@class": "sc-eAZzZC cUksiH",
+          "div": {
+            "@class": "sc-bTPSfG himLlc yle__article__date",
+            "time": [
+              {
+                "@class": "sc-geTSWJ dUzrQh yle__article__date--published",
+                "@datetime": "2025-05-03T23:37:32+03:00",
+                "#text": "3.5. 23:37"
+              },
+              {
+                "@class": "sc-geTSWJ dUzrQh yle__article__date--modified",
+                "@datetime": "2025-05-04T00:10:30+03:00",
+                "#text": "Päivitetty\n     \n     \n     0:10"
+              }
+            ],
+            "span": {
+              "@aria-hidden": "true",
+              "@class": "sc-diziqI dgaCq",
+              "#text": "•"
+            }
+          }
+        },
+        {
+          "@class": "sc-cbJLzd fQlwJR",
+          "button": {
+            "@class": "sc-goJFMH hdACns",
+            "@data-testid": "default-article-audio-placeholder",
+            "span": [
+              {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-1 EPLBc dgcsOm",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 ruUVE dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@clip-rule": "evenodd",
+                      "@d": "M5.52 2.122a1 1 0 0 1 1.02.037l14 9a1 1 0 0 1 0 1.682l-14 9A1 1 0 0 1 5 21V3a1 1 0 0 1 .52-.878",
+                      "@fill": "currentColor",
+                      "@fill-rule": "evenodd"
+                    }
+                  }
+                }
+              },
+              {
+                "@class": "sc-jgGpnn laJhEh",
+                "#text": "Kuuntele juttu 1:11"
+              }
+            ]
+          },
+          "div": [
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jweKAa gPvEkW",
+              "div": {
+                "@data-testid": "default-article-audio-player"
+              }
+            },
+            {
+              "@class": "sc-ecBcpz fdHQgB"
+            }
+          ]
+        }
+      ],
+      "h1": {
+        "@class": "sc-ifkGpL jgDrMU yle__article__heading yle__article__heading--1",
+        "#text": "Näin Kuopio juhlii KalPan historian ensimmäistä suomenmestaruutta – alastomat fanit uivat suihkulähteessä"
+      },
+      "p": {
+        "@class": "sc-kiMgGE sc-dCVDEO eQvHnw hjdIYW yle__article__paragraph",
+        "#text": "KalPa otti SaiPasta voiton tiukassa finaaliottelussa. Kuopio repesi, kun kulta varmistui. Yle seurasi kiekkokansan juhlintaa torilla."
+      },
+      "figure": {
+        "@class": "sc-jnflPq gibcrQ yle__article__figure",
+        "script": {
+          "@type": "application/ld+json",
+          "#text": "{\"@id\":\"74-20159583\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Kalpa voitti seurahistoriansa ensimmäisen SM-liiga mestaruuden.\",\"name\":\"Miehiä uimassa Veljimies-patsaalla Kuopiossa KalPan voiton kunniaksi\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/39-1459769681678e6f1b31\",\"uploadDate\":\"2025-05-03T23:16:29+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74404025\"}}"
+        },
+        "div": {
+          "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+          "div": {
+            "div": {
+              "@class": "sc-icsLOd deQvTQ",
+              "@data-testid": "video-player"
+            }
+          }
+        }
+      }
+    },
+    "section": {
+      "@class": "yle__article__content",
+      "p": [
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "KalPan historian ensimmäinen suomenmestaruus sai Kuopion kiekkokansan sekaisin. Tuhannet ihmiset kokoontuivat torille juhlistamaan keltamustaa kiekkokultaa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "KalPa-fanit saapuivat eri puolilta Suomea seuraamaan ratkaisevaa finaaliottelua."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Torilta löytyi myös KalPan junioripelaajia, jotka olivat tulleet seuraamaan esikuviensa taistelua kullasta."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Huivit nousivat ilmaan ja Stefanos Lekkas sai oman kannatushuutonsa."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Moni itki ilosta, kun KalPan historiallinen mestaruus varmistui."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Koko Kuopio on kullasta sekaisin, ja mestaruus on kaupungille suuri asia."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Kiekkokauteen mahtuu monenlaisia vaiheita, ja torille oli tultu jopa Oulusta saakka katsomaan ratkaisupeliä."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Kalakukkokin oli tullut torille juhlimaan KalPan suomenmestaruutta."
+        },
+        {
+          "@class": "sc-kiMgGE sc-bhgfbr eQvHnw iEywHx yle__article__paragraph",
+          "#text": "Kultajuhlat toi aikuisten lisäksi myös lapsia Kuopion torille."
+        }
+      ],
+      "figure": [
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20159583\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Mestareiden kunniaksi tehtiin suuria aaltoja. Video: Sami Takkinen /Yle\",\"name\":\"kuopion_tori_02\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-1-74404001-1746319224577\",\"uploadDate\":\"2025-05-03T22:11:07+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74404001\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+            "div": {
+              "div": {
+                "@class": "sc-icsLOd deQvTQ",
+                "@data-testid": "video-player"
+              }
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": "Mestareiden kunniaksi tehtiin suuria aaltoja. Video: Sami Takkinen /Yle"
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20159583\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Fanit ovat odottaneet KalPan mestaruutta vuosikymmeniä. Video: Sami Takkinen / Yle\",\"name\":\"kuopion_tori_01\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-1-74404005-1746319253479\",\"uploadDate\":\"2025-05-03T22:13:39+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74404005\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+            "div": {
+              "div": {
+                "@class": "sc-icsLOd deQvTQ",
+                "@data-testid": "video-player"
+              }
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": "Fanit ovat odottaneet KalPan mestaruutta vuosikymmeniä. Video: Sami Takkinen / Yle"
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20159583\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"kuopion_tori_03\",\"name\":\"kuopion_tori_03\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-1-74404007-1746319273375\",\"uploadDate\":\"2025-05-03T22:14:57+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74404007\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+            "div": {
+              "div": {
+                "@class": "sc-icsLOd deQvTQ",
+                "@data-testid": "video-player"
+              }
+            }
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20159583\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Näin kova huuto irtoaa onnellisilta kiekkofaneilta. Video: Sami Takkinen / Yle\",\"name\":\"kuopion_tori_04\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-1-74404009-1746319296935\",\"uploadDate\":\"2025-05-03T22:15:26+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74404009\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+            "div": {
+              "div": {
+                "@class": "sc-icsLOd deQvTQ",
+                "@data-testid": "video-player"
+              }
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": "Näin kova huuto irtoaa onnellisilta kiekkofaneilta. Video: Sami Takkinen / Yle"
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20159583\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Liigasarjassa KalPalla oli monta haastavaa peliä, mutta kulta saatiin silti Kuopioon. Video: Sami Takkinen / Yle\",\"name\":\"kuopion_tori_05\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-1-74404011-1746319326014\",\"uploadDate\":\"2025-05-03T22:18:51+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74404011\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+            "div": {
+              "div": {
+                "@class": "sc-icsLOd deQvTQ",
+                "@data-testid": "video-player"
+              }
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": "Liigasarjassa KalPalla oli monta haastavaa peliä, mutta kulta saatiin silti Kuopioon. Video: Sami Takkinen / Yle"
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20159583\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Vaikka nyt juhlitaan lauantain yössä, aikoo moni tulla vielä tiistaina torijuhlaan. Video: Sami Takkinen / Yle\",\"name\":\"kuopion_tori_06_\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-1-74404015-1746319344664\",\"uploadDate\":\"2025-05-03T22:58:05+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74404015\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+            "div": {
+              "div": {
+                "@class": "sc-icsLOd deQvTQ",
+                "@data-testid": "video-player"
+              }
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": "Vaikka nyt juhlitaan lauantain yössä, aikoo moni tulla vielä tiistaina torijuhlaan. Video: Sami Takkinen / Yle"
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20159583\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"KalPa yhdistää kuopiolaisia. Video: Sami Takkinen / Yle\",\"name\":\"kuopion_tori_07\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-1-74404017-1746319365359\",\"uploadDate\":\"2025-05-03T22:58:23+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74404017\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+            "div": {
+              "div": {
+                "@class": "sc-icsLOd deQvTQ",
+                "@data-testid": "video-player"
+              }
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": "KalPa yhdistää kuopiolaisia. Video: Sami Takkinen / Yle"
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20159583\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Voiton jälkeisiä tunteita on vaikea sanoin kuvailla. Video: Sami Takkinen / Yle\",\"name\":\"kuopion_tori_08\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-1-74404019-1746319396631\",\"uploadDate\":\"2025-05-03T22:58:53+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74404019\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+            "div": {
+              "div": {
+                "@class": "sc-icsLOd deQvTQ",
+                "@data-testid": "video-player"
+              }
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": "Voiton jälkeisiä tunteita on vaikea sanoin kuvailla. Video: Sami Takkinen / Yle"
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20159583\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Suomenmestaruus sopii Kuopion juhlavuoteen kuin kalakukko mualiman navalle. Video: Sami Takkinen / Yle\",\"name\":\"kuopio_tori_09_\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-1-74404021-1746319418451\",\"uploadDate\":\"2025-05-03T22:59:04+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74404021\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+            "div": {
+              "div": {
+                "@class": "sc-icsLOd deQvTQ",
+                "@data-testid": "video-player"
+              }
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": "Suomenmestaruus sopii Kuopion juhlavuoteen kuin kalakukko mualiman navalle. Video: Sami Takkinen / Yle"
+          }
+        },
+        {
+          "@class": "sc-jnflPq gibcrQ yle__article__figure",
+          "script": {
+            "@type": "application/ld+json",
+            "#text": "{\"@id\":\"74-20159583\",\"@context\":\"https://schema.org\",\"video\":{\"@type\":\"VideoObject\",\"description\":\"Näin nuoremman sukupolven kiekkofanit kommentoivat KalPan menestystä ja jännittävää finaaliottelua. Video: Sami Takkinen\",\"name\":\"Kuopio_tori_10\",\"thumbnailUrl\":\"https://images.cdn.yle.fi/image/upload/c_fill,g_faces,w_1200/q_auto:eco/f_auto/fl_lossy/13-1-74404023-1746319446241\",\"uploadDate\":\"2025-05-03T23:07:45+03:00\",\"embedUrl\":\"https://player-v2.yle.fi/test.html#1-74404023\"}}"
+          },
+          "div": {
+            "@class": "sc-jxyWrI sc-lcsTPt lbLrnE efCozC",
+            "div": {
+              "div": {
+                "@class": "sc-icsLOd deQvTQ",
+                "@data-testid": "video-player"
+              }
+            }
+          },
+          "figcaption": {
+            "@class": "sc-fsjlER icGrCJ",
+            "span": "Näin nuoremman sukupolven kiekkofanit kommentoivat KalPan menestystä ja jännittävää finaaliottelua. Video: Sami Takkinen"
+          }
+        }
+      ]
+    },
+    "footer": {
+      "@class": "yle__article__footer",
+      "div": [
+        {
+          "@class": "sc-hjWhcS leSngs"
+        },
+        {
+          "@aria-label": "Aiheesta enemmän",
+          "@class": "yle__article__links",
+          "@role": "list",
+          "div": [
+            {
+              "@class": "sc-deTYHS espHEt",
+              "@role": "listitem",
+              "div": {
+                "@class": "sc-kKyYz jzXcOB",
+                "div": [
+                  {
+                    "@class": "sc-gAOUPA gZmIaQ",
+                    "div": {
+                      "@class": "sc-eJNWfD hzBpgx",
+                      "div": [
+                        {
+                          "@class": "sc-fjohHk glKee",
+                          "a": {
+                            "@aria-label": "Lisää artikkeleita aiheesta Jääkiekko",
+                            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                            "@href": "https://yle.fi/t/18-189456/fi",
+                            "#text": "Jääkiekko"
+                          }
+                        },
+                        {
+                          "@class": "sc-eQkCLH dsmTJG",
+                          "time": {
+                            "@class": "sc-geTSWJ dUzrQh",
+                            "@datetime": "2025-05-03T21:30:04+03:00",
+                            "#text": "Julkaistu\n         \n         \n         3.5.2025"
+                          }
+                        }
+                      ],
+                      "h3": {
+                        "@class": "sc-bNtlzC eGiYeo",
+                        "a": {
+                          "@class": "sc-ifISnl hcDWQv",
+                          "@href": "https://yle.fi/a/74-20159457",
+                          "#text": "KalPa pistää kultajuhlat pystyyn tiistaiksi Kuopioon – Yle näyttää tapahtuman suorana"
+                        }
+                      },
+                      "time": {
+                        "@aria-hidden": "true",
+                        "@class": "sc-hwcCMm eGomKG",
+                        "#text": "3.5."
+                      }
+                    }
+                  },
+                  {
+                    "@class": "sc-dGFvgh hggeEO",
+                    "div": {
+                      "@class": "sc-glqzCN hqchfN",
+                      "div": {
+                        "@class": "sc-jScdur jHArTB",
+                        "picture": {
+                          "source": [
+                            {
+                              "@data-testid": "source-for-S",
+                              "@media": "(max-width: 767px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746296703/39-145975668165f567b1dd 2x,https://images.cdn.yle.fi/image/upload/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746296703/39-145975668165f567b1dd 1x"
+                            },
+                            {
+                              "@data-testid": "source-for-M",
+                              "@media": "(min-width: 768px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_2268,w_4032,x_0,y_0/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746296703/39-145975668165f567b1dd 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_2268,w_4032,x_0,y_0/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746296703/39-145975668165f567b1dd 1x"
+                            }
+                          ],
+                          "img": {
+                            "@alt": "KalPan fanit juhlistavat tasoitusmaalia.",
+                            "@class": "sc-dcKlJK fTKhMH",
+                            "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_2268,w_4032,x_0,y_0/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746296703/39-145975668165f567b1dd"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "@aria-hidden": "true",
+              "@class": "sc-jUhsXd gbxWvu",
+              "hr": {
+                "@class": "sc-fZSzjs kgWFfO"
+              }
+            },
+            {
+              "@class": "sc-deTYHS espHEt",
+              "@role": "listitem",
+              "div": {
+                "@class": "sc-kKyYz jzXcOB",
+                "div": [
+                  {
+                    "@class": "sc-gAOUPA gZmIaQ",
+                    "div": {
+                      "@class": "sc-eJNWfD hzBpgx",
+                      "div": [
+                        {
+                          "@class": "sc-fjohHk glKee",
+                          "a": {
+                            "@aria-label": "Lisää artikkeleita aiheesta Jääkiekko",
+                            "@class": "ydscr__sc-w5hh4y-0 dTCVkq sc-guGTOK cJZNyZ",
+                            "@href": "https://yle.fi/t/18-189456/fi",
+                            "#text": "Jääkiekko"
+                          }
+                        },
+                        {
+                          "@class": "sc-eQkCLH dsmTJG",
+                          "time": {
+                            "@class": "sc-geTSWJ dUzrQh",
+                            "@datetime": "2025-05-03T21:31:53+03:00",
+                            "#text": "Julkaistu\n         \n         \n         3.5.2025"
+                          }
+                        }
+                      ],
+                      "h3": {
+                        "@class": "sc-bNtlzC eGiYeo",
+                        "a": {
+                          "@class": "sc-ifISnl hcDWQv",
+                          "@href": "https://yle.fi/a/74-20159471",
+                          "#text": "Kommentti: KalPan mestaruudesta kannattaa ottaa oppia, mutta SM-liigan on muutettava umpihullu järjestelynsä"
+                        }
+                      },
+                      "time": {
+                        "@aria-hidden": "true",
+                        "@class": "sc-hwcCMm eGomKG",
+                        "#text": "3.5."
+                      }
+                    }
+                  },
+                  {
+                    "@class": "sc-dGFvgh hggeEO",
+                    "div": {
+                      "@class": "sc-glqzCN hqchfN",
+                      "div": {
+                        "@class": "sc-jScdur jHArTB",
+                        "picture": {
+                          "source": [
+                            {
+                              "@data-testid": "source-for-S",
+                              "@media": "(max-width: 767px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3999,w_3999,x_1310,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746200677/39-14594986814e852d348d 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3999,w_3999,x_1310,y_0/ar_1.0,c_fill,g_faces,h_104,w_104/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746200677/39-14594986814e852d348d 1x"
+                            },
+                            {
+                              "@data-testid": "source-for-M",
+                              "@media": "(min-width: 768px)",
+                              "@srcset": "https://images.cdn.yle.fi/image/upload/c_crop,h_3374,w_5999,x_0,y_624/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_2.0/q_auto:eco/f_auto/fl_lossy/v1746200677/39-14594986814e852d348d 2x,https://images.cdn.yle.fi/image/upload/c_crop,h_3374,w_5999,x_0,y_624/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746200677/39-14594986814e852d348d 1x"
+                            }
+                          ],
+                          "img": {
+                            "@alt": "KalPan faneja 3. finaalissa.",
+                            "@class": "sc-dcKlJK fTKhMH",
+                            "@src": "https://images.cdn.yle.fi/image/upload/c_crop,h_3374,w_5999,x_0,y_624/ar_1.7777777777777777,c_fill,g_faces,h_110,w_196/dpr_1.0/q_auto:eco/f_auto/fl_lossy/v1746200677/39-14594986814e852d348d"
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "div": {
+            "@class": "sc-hZARmv bNLDLe",
+            "a": [
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta Jääkiekko",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-189456/fi",
+                "#text": "Jääkiekko"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta SM-liiga",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-188906/fi",
+                "#text": "SM-liiga"
+              },
+              {
+                "@aria-label": "Lisää artikkeleita aiheesta KalPa (Jääkiekon Miesten Liiga)",
+                "@class": "ydscr__sc-w5hh4y-0 igFMzi sc-guGTOK cJZNyZ",
+                "@href": "https://yle.fi/t/18-173096/fi",
+                "#text": "KalPa (Jääkiekon Miesten Liiga)"
+              }
+            ],
+            "div": {
+              "@class": "sc-dKKIkQ dfGXgP",
+              "button": {
+                "@aria-busy": "false",
+                "@aria-disabled": "false",
+                "@aria-label": "Näytä kaikki aiheet",
+                "@class": "ydscr__sc-17sr1bx-0 ydscr__sc-17sr1bx-3 jmqUl dhtMex",
+                "span": {
+                  "@class": "ydscr__sc-17sr1bx-4 ydscr__sc-17sr1bx-6 hvskzw dXmWOo yds-button__icon",
+                  "svg": {
+                    "@aria-hidden": "true",
+                    "@class": "sc-fpEFIB cluDHh",
+                    "@fill": "none",
+                    "@height": "24",
+                    "@viewbox": "0 0 24 24",
+                    "@width": "24",
+                    "path": {
+                      "@d": "M5.293 9.293a1 1 0 0 1 1.414 0L12 14.586l5.293-5.293a1 1 0 1 1 1.414 1.414l-6 6a1 1 0 0 1-1.414 0l-6-6a1 1 0 0 1 0-1.414",
+                      "@fill": "currentColor"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "h2": [
+        {
+          "@class": "sc-eQkCLH dsmTJG",
+          "#text": "Aiheesta enemmän: Paketissa 2 linkkiä"
+        },
+        {
+          "@aria-hidden": "true",
+          "@class": "sc-gGarWV itlDVR yle__article__heading yle__article__heading--3",
+          "#text": "Aiheesta enemmän"
+        }
+      ]
+    }
+  }
+}

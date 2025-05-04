@@ -1,0 +1,411 @@
+{
+  "rss": {
+    "@version": "2.0",
+    "@xmlns:atom": "http://www.w3.org/2005/Atom",
+    "@xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+    "channel": {
+      "language": "fi",
+      "title": "Yle Uutiset | Pääuutiset",
+      "description": "Yle Uutiset | Pääuutiset",
+      "link": "https://yle.fi/uutiset",
+      "atom:link": {
+        "@href": "https://feeds.yle.fi/uutiset/v1/majorHeadlines/YLE_UUTISET.rss",
+        "@rel": "self",
+        "@type": "application/rss+xml"
+      },
+      "category": "Pääuutiset",
+      "item": [
+        {
+          "title": "Yrittäjille tulossa eläkemaksu-uudistus – katso, miten maksut saattavat muuttua",
+          "link": "https://yle.fi/a/74-20158482?origin=rss",
+          "description": "Selvityshenkilö valmistelee muutoksia yrittäjien eläkejärjestelmään.",
+          "pubDate": "Sun, 04 May 2025 06:45:35 +0300",
+          "category": [
+            "työelämä",
+            "yrittäjyys",
+            "verotus",
+            "yrittäjien eläkelaki",
+            "talous",
+            "kotimaa"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20158482"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-145848968122ee99aae7.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "Näin Kuopio juhlii KalPan historian ensimmäistä suomenmestaruutta – alastomat fanit uivat suihkulähteessä",
+          "link": "https://yle.fi/a/74-20159583?origin=rss",
+          "description": "KalPa otti SaiPasta voiton tiukassa finaaliottelussa. Kuopio repesi, kun kulta varmistui. Yle seurasi kiekkokansan juhlintaa torilla.",
+          "pubDate": "Sat, 03 May 2025 23:37:32 +0300",
+          "category": [
+            "jääkiekko",
+            "SM-liiga",
+            "KalPa (Jääkiekon Miesten Liiga)",
+            "juhlinta",
+            "miesten jääkiekko",
+            "Kuopio",
+            "urheilu",
+            "Pohjois-Savo",
+            "kotimaa"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20159583"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-1459762681673deacb77.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "Tiktok on isossa roolissa Romanian uusintavaaleissa – viimeksi vaalitulos mitätöitiin Venäjän masinoiman kampanjan takia",
+          "link": "https://yle.fi/a/74-20158422?origin=rss",
+          "description": "Marraskuisten vaalien tulos mitätöitiin, koska Venäjän epäillään sekaantuneen vaaleihin somekampanjalla ja kyberhyökkäyksillä.",
+          "pubDate": "Sun, 04 May 2025 07:10:35 +0300",
+          "category": [
+            "vaalit",
+            "Romania",
+            "Romanian politiikka",
+            "Romanialaiset poliitikot",
+            "Georgescu",
+            "Venäjä",
+            "ulkomaat"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20158422"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-14592366814a1544c380.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "Näyttelijä Saku Taittonen haluaa ulkomaille, eikä häntä pidättele mikään",
+          "link": "https://yle.fi/a/74-20156802?origin=rss",
+          "description": "Näyttelijä, Jussi-palkittu kulttuurivieras Saku Taittonen tähyää töihin ulkomaille. Hän pitää itseään isänsä soihdunkantajana.",
+          "pubDate": "Sun, 04 May 2025 07:30:36 +0300",
+          "category": [
+            "elokuvat",
+            "Saku Taittonen",
+            "Taideyliopiston Teatterikorkeakoulu",
+            "Levoton Tuhkimo (elokuva)",
+            "Kulttuurivieras",
+            "kulttuuri"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20156802"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-14583516812175215cb2.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "Ukraina: Venäjä iski Kiovaan, seitsemän haavoittui",
+          "link": "https://yle.fi/a/74-20010573?origin=rss",
+          "description": "Kokoamme tähän artikkeliin sodan tärkeimmät tapahtumat.",
+          "pubDate": "Wed, 28 Dec 2022 13:21:27 +0200",
+          "category": [
+            "Venäjän hyökkäys",
+            "ulkomaat",
+            "kansainvälinen politiikka",
+            "Ukraina",
+            "Venäjä"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20010573"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-14598506816edf43f934.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "Maaseudun taksipula on vaikeutumassa – Lapissa tilanne on kuitenkin hyvä",
+          "link": "https://yle.fi/a/74-20159598?origin=rss",
+          "description": "Uusia taksiyrittäjiä tarvittaisiin etenkin Etelä-Karjalaan, Pohjanmaalle, Kymenlaaksoon ja Etelä-Savoon.",
+          "pubDate": "Sun, 04 May 2025 09:04:44 +0300",
+          "category": [
+            "liikenne",
+            "taksiliikenne",
+            "Liikenne ja kuljetus",
+            "taksit",
+            "Mäntyharju",
+            "Etelä-Savo",
+            "kotimaa"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20159598"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-14598556816fdb70c8c1.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "Australian työväenpuolue voitti parlamentti­vaalit",
+          "link": "https://yle.fi/a/74-20159540?origin=rss",
+          "description": "Australiassa pääministeri Anthony Albanesen johtama työväenpuolue on ottamassa voiton parlamenttivaaleissa.",
+          "pubDate": "Sat, 03 May 2025 13:49:35 +0300",
+          "category": [
+            "vaalit",
+            "Australia",
+            "Australian työväenpuolue",
+            "ulkomaat"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20159540"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-14596496815fb8f1644a.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "Näyttelijä ja ohjaaja Kari Franck on kuollut",
+          "link": "https://yle.fi/a/74-20159578?origin=rss",
+          "description": "Franckin päätyö ohjaajana oli Juhani Ahon klassikkokirjaan perustuva Rautatie-elokuva.",
+          "pubDate": "Sat, 03 May 2025 20:43:11 +0300",
+          "category": [
+            "kulttuuri",
+            "näyttelijät",
+            "elokuvaohjaajat",
+            "Kari Franck"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20159578"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-1459726681650a8cde42.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "Tätä uusi avaus Nato-menojen kasvattamisesta voisi tarkoittaa Suomelle",
+          "link": "https://yle.fi/a/74-20159552?origin=rss",
+          "description": "Puolustusvaliokunnan puheenjohtajan Jukka Kopran mukaan Suomi saavuttaisi löyhemmän puolustukseen ja turvallisuuteen liittyvän 1,5 prosentin tavoitteen bkt:stä helposti.",
+          "pubDate": "Sat, 03 May 2025 18:02:22 +0300",
+          "category": [
+            "turvallisuus",
+            "Nato",
+            "politiikka",
+            "puolustuspolitiikka",
+            "Yhdysvaltain presidentti",
+            "talous"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20159552"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-141705567a3912ef17ed.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "Yhdysvallat rökittää Saksaa demokratian hylkäämisestä – Berliini pohtii, mitä tehdä oman äärioikeiston kanssa",
+          "link": "https://yle.fi/a/74-20159556?origin=rss",
+          "description": "Saksassa keskustelu kansansuosikki AfD:n kohtalosta kiihtyy. Äärioikeistolaiseksi luokiteltu puolue voi pidemmän päälle olla uhka maan demokratialle.",
+          "pubDate": "Sat, 03 May 2025 18:50:08 +0300",
+          "category": [
+            "Saksa",
+            "Vaihtoehto Saksalle (AfD)",
+            "Yhdysvallat",
+            "Saksan politiikka",
+            "äärioikeisto",
+            "demokratia",
+            "ulkomaat"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20159556"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-145968468162bedbc65c.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "Mies antoi käärmeiden purra itseään satoja kertoja, jotta voisi auttaa ihmiskuntaa",
+          "link": "https://yle.fi/a/74-20159551?origin=rss",
+          "description": "Yhdysvaltalainen mies antoi hyvin vaarallisten myrkkykäärmeiden purra itseään lähes 20 vuoden ajan.",
+          "pubDate": "Sat, 03 May 2025 16:29:09 +0300",
+          "category": [
+            "tiede",
+            "myrkkykäärmeet",
+            "käärmeet",
+            "vastamyrkky",
+            "ulkomaat"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20159551"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/14-svyle-102923531973f7c7db5.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "BBC: Prinssi Harry järkyttyi turvajärjestelyjään koskevan oikeustaistelun häviämisestä – ”Isäni ei puhu minulle”",
+          "link": "https://yle.fi/a/74-20159539?origin=rss",
+          "description": "Britannian prinssi Harry antoi haastattelun yksinoikeudella BBC:lle Kaliforniassa sen jälkeen, kun oli hävinnyt turvajärjestelyjään Britanniassa koskevan oikeustaistelunsa.",
+          "pubDate": "Sat, 03 May 2025 14:19:46 +0300",
+          "category": [
+            "Britannia",
+            "Britannian kuninkaallinen perhe",
+            "Prinssi Harry, Sussexin herttua",
+            "Meghan, Sussexin herttuatar",
+            "Charles III",
+            "ulkomaat"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20159539"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-125048065df226f053d2.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "Moni kiinalainen työtön käy päivittäin ”feikkitoimistossa” – edes poikaystävä ei tiedä, että Danyi Wu on työtön",
+          "link": "https://yle.fi/a/74-20159560?origin=rss",
+          "description": "Kiinassa työtön voi kokea menettävänsä kasvonsa.",
+          "pubDate": "Sat, 03 May 2025 19:02:23 +0300",
+          "category": [
+            "Kiina",
+            "työttömyys",
+            "Työllisyys ja työttömyys",
+            "työttömyysaste",
+            "nuoret",
+            "ulkomaat"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20159560"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-107245163eb1449e16ae.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "Tallinnan uusi ratikkalinja helpottaa suomalaisten kulkua – koeajoimme reitin",
+          "link": "https://yle.fi/a/74-20158148?origin=rss",
+          "description": "Koeajoimme reitin ja listasimme parhaat kohteet uuden linjan varrelta.",
+          "pubDate": "Sat, 03 May 2025 07:10:36 +0300",
+          "category": [
+            "Viro",
+            "ulkomaat"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20158148"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-14575916810b5d7bccf7.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "Finnair peruu noin sata lentoa maanantaina",
+          "link": "https://yle.fi/a/74-20159530?origin=rss",
+          "description": "Lentojen peruutuksien arvioidaan vaikuttavan noin 7 500 asiakkaaseen.",
+          "pubDate": "Sat, 03 May 2025 12:14:48 +0300",
+          "category": [
+            "talous",
+            "Finnair",
+            "lakot",
+            "ulkomaat"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20159530"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-1459049681476ed39157.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "Erikoinen ongelma Oulussa: putkaan joutuneet eivät pääse alueelta pois, koska monella ei ole bussirahaa",
+          "link": "https://yle.fi/a/74-20158822?origin=rss",
+          "description": "Putkasta aamulla vapautuneista on ollut havaintoja lähiseudun kevyen liikenteen väylillä, kaupoissa, yrityksissä, päiväkodissa ja koulussa. Erityisesti käsidesi on kiinnostanut.",
+          "pubDate": "Sat, 03 May 2025 15:43:41 +0300",
+          "category": [
+            "poliisi",
+            "päihteet",
+            "putkat",
+            "päihtymys",
+            "päivähoito",
+            "koulut",
+            "myymälät",
+            "Oulu",
+            "kotimaa",
+            "Pohjois-Pohjanmaa"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20158822"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-14593736814bef9eb5a2.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        },
+        {
+          "title": "Aaro vei kaupasta karkkipussin – Helsingin poliisi aloitti rikostutkinnan",
+          "link": "https://yle.fi/a/74-20154994?origin=rss",
+          "description": "Poliisi voisi jättää osan pienistä näpistysjutuista tutkimatta, sanoo kokenut syyttäjä. Poliisi on eri mieltä.",
+          "pubDate": "Sat, 03 May 2025 06:45:36 +0300",
+          "category": [
+            "rikokset",
+            "poliisi",
+            "rikosepäilyt",
+            "omaisuusrikokset",
+            "esitutkinta",
+            "Syyteharkinta",
+            "kotimaa"
+          ],
+          "guid": {
+            "@isPermaLink": "false",
+            "#text": "https://yle.fi/a/74-20154994"
+          },
+          "enclosure": {
+            "@url": "https://images.cdn.yle.fi/image/upload/w_205,h_115,q_70,c_fill,g_face/39-1456861680f36afc9eed.jpg",
+            "@type": "image/jpeg",
+            "@length": "0"
+          }
+        }
+      ]
+    }
+  }
+}
